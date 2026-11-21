@@ -1,7 +1,6 @@
 # Cloud Native Geospatial Tutorial
 
-> **Read-only showcase snapshot.** This is a trimmed copy of my working repository, published so the code is readable.
-> Some tutorial content, large datasets and private notes are left out, so it will not build as-is.
+> **Read-only showcase snapshot, synced automatically from my working repository.** Some tutorial content, large datasets and private notes are left out, so it will not build as-is.
 > Live apps: [Spatial Eval](https://cloud-native-geo-tutorial.thomashervey.net/spatial-eval) · [Scout Lab](https://cloud-native-geo-tutorial.thomashervey.net/scout/lab) · [CNG modules](https://cloud-native-geo-tutorial.thomashervey.net/cng-modules)
 
 A comprehensive, self-directed tutorial on modern Cloud-Native Geospatial

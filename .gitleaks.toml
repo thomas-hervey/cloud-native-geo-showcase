@@ -1,4 +1,3 @@
-# Gitleaks config. Docs: https://github.com/gitleaks/gitleaks#configuration
 title = "cloud-native-geo-showcase"
 
 [extend]
