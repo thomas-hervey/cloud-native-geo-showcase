@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Mission",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Mission\",\n  \"resolved_place\": \"Mission District\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4148,\n  \"bbox_north\": 37.7699,\n  \"bbox_south\": 37.7499,\n  \"bbox_east\": -122.4048,\n  \"bbox_west\": -122.4248,\n  \"confidence\": \"high\",\n  \"notes\": \"Mission District is bounded approximately by Market Street to the north, Cesar Chavez Avenue to the south, the Bay to the east, and Dolores Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mission District SF"
+  ],
+  "_cached": false,
+  "place": "The Mission",
+  "resolved_place": "Mission District",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4148,
+  "bbox_north": 37.7699,
+  "bbox_south": 37.7499,
+  "bbox_east": -122.4048,
+  "bbox_west": -122.4248,
+  "confidence": "high",
+  "notes": "Mission District is bounded approximately by Market Street to the north, Cesar Chavez Avenue to the south, the Bay to the east, and Dolores Street to the west."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Outer Richmond",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7725,\n  \"centroid_lon\": -122.4885,\n  \"bbox_north\": 37.7850,\n  \"bbox_south\": 37.7600,\n  \"bbox_east\": -122.4700,\n  \"bbox_west\": -122.5070,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is a well-established San Francisco neighborhood in the northwestern part of the city, bounded roughly by Arguello Boulevard to the east, the Pacific Ocean to the west, Lake Street to the south, and the Presidio to the north.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.7725,
+  "centroid_lon": -122.4885,
+  "bbox_north": 37.785,
+  "bbox_south": 37.76,
+  "bbox_east": -122.47,
+  "bbox_west": -122.507,
+  "confidence": "high",
+  "notes": "Outer Richmond is a well-established San Francisco neighborhood in the northwestern part of the city, bounded roughly by Arguello Boulevard to the east, the Pacific Ocean to the west, Lake Street to the south, and the Presidio to the north."
+}

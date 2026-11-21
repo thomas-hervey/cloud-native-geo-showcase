@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Western Addition",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Western Addition\",\n  \"resolved_place\": \"Western Addition, San Francisco\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4364,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7710,\n  \"bbox_east\": -122.4190,\n  \"bbox_west\": -122.4520,\n  \"confidence\": \"high\",\n  \"notes\": \"Western Addition is a well-defined San Francisco neighborhood bounded roughly by Divisadero St to the west, Van Ness Ave to the east, Geary Blvd to the north, and Fell/Oak Streets to the south.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Western Addition SF"
+  ],
+  "_cached": false,
+  "place": "Western Addition",
+  "resolved_place": "Western Addition, San Francisco",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4364,
+  "bbox_north": 37.787,
+  "bbox_south": 37.771,
+  "bbox_east": -122.419,
+  "bbox_west": -122.452,
+  "confidence": "high",
+  "notes": "Western Addition is a well-defined San Francisco neighborhood bounded roughly by Divisadero St to the west, Van Ness Ave to the east, Geary Blvd to the north, and Fell/Oak Streets to the south."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "North Beach",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach, San Francisco\",\n  \"centroid_lat\": 37.8061,\n  \"centroid_lon\": -122.4103,\n  \"bbox_north\": 37.8120,\n  \"bbox_south\": 37.7990,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4180,\n  \"confidence\": \"high\",\n  \"notes\": \"North Beach is a well-defined neighborhood in San Francisco bounded roughly by Broadway to the south, the Embarcadero/waterfront to the east, Fisherman's Wharf to the north, and Columbus Avenue/Telegraph Hill to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "place": "North Beach",
+  "resolved_place": "North Beach, San Francisco",
+  "centroid_lat": 37.8061,
+  "centroid_lon": -122.4103,
+  "bbox_north": 37.812,
+  "bbox_south": 37.799,
+  "bbox_east": -122.402,
+  "bbox_west": -122.418,
+  "confidence": "high",
+  "notes": "North Beach is a well-defined neighborhood in San Francisco bounded roughly by Broadway to the south, the Embarcadero/waterfront to the east, Fisherman's Wharf to the north, and Columbus Avenue/Telegraph Hill to the west."
+}

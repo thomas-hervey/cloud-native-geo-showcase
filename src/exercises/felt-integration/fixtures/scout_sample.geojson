@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"name":"Dolores Park","category":"park"},"geometry":{"type":"Point","coordinates":[-122.4262,37.7596]}},
+    {"type":"Feature","properties":{"name":"Mission Dolores Basilica","category":"landmark"},"geometry":{"type":"Point","coordinates":[-122.4269,37.7650]}},
+    {"type":"Feature","properties":{"name":"Bi-Rite Creamery","category":"food"},"geometry":{"type":"Point","coordinates":[-122.4219,37.7617]}},
+    {"type":"Feature","properties":{"name":"Tartine Bakery","category":"food"},"geometry":{"type":"Point","coordinates":[-122.4244,37.7619]}},
+    {"type":"Feature","properties":{"name":"826 Valencia","category":"landmark"},"geometry":{"type":"Point","coordinates":[-122.4207,37.7602]}},
+    {"type":"Feature","properties":{"name":"Precita Eyes Muralists","category":"arts"},"geometry":{"type":"Point","coordinates":[-122.4153,37.7539]}}
+  ]
+}

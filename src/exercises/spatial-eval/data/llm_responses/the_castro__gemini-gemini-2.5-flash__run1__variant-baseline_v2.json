@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Castro",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Castro\",\n  \"resolved_place\": \"The Castro\",\n  \"centroid_lat\": 37.7605,\n  \"centroid_lon\": -122.435,\n  \"bbox_north\": 37.767,\n  \"bbox_south\": 37.754,\n  \"bbox_east\": -122.425,\n  \"bbox_west\": -122.445,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Castro District SF"
+  ],
+  "_cached": false,
+  "place": "The Castro",
+  "resolved_place": "The Castro",
+  "centroid_lat": 37.7605,
+  "centroid_lon": -122.435,
+  "bbox_north": 37.767,
+  "bbox_south": 37.754,
+  "bbox_east": -122.425,
+  "bbox_west": -122.445,
+  "confidence": "high",
+  "notes": ""
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Golden Gate Park",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Golden Gate Park\",\n  \"resolved_place\": \"Golden Gate Park\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7799,\n  \"bbox_south\": 37.7589,\n  \"bbox_east\": -122.4535,\n  \"bbox_west\": -122.5187,\n  \"confidence\": \"high\",\n  \"notes\": \"Golden Gate Park is a major urban park spanning approximately 1,017 acres in western San Francisco, bounded by the Presidio to the north, the Richmond District to the south, the Sunset District to the east, and the Pacific Ocean to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Golden Gate Park SF"
+  ],
+  "_cached": false,
+  "place": "Golden Gate Park",
+  "resolved_place": "Golden Gate Park",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7799,
+  "bbox_south": 37.7589,
+  "bbox_east": -122.4535,
+  "bbox_west": -122.5187,
+  "confidence": "high",
+  "notes": "Golden Gate Park is a major urban park spanning approximately 1,017 acres in western San Francisco, bounded by the Presidio to the north, the Richmond District to the south, the Sunset District to the east, and the Pacific Ocean to the west."
+}

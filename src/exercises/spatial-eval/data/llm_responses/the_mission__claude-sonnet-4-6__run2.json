@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Mission",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Mission\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4148,\n  \"bbox_north\": 37.7752,\n  \"bbox_south\": 37.7447,\n  \"bbox_east\": -122.4028,\n  \"bbox_west\": -122.4269,\n  \"confidence\": \"high\",\n  \"notes\": \"The Mission District in San Francisco, roughly bounded by Dolores St to the west, US-101/Potrero Ave to the east, 16th St to the north, and Cesar Chavez St to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Mission",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4148,
+  "bbox_north": 37.7752,
+  "bbox_south": 37.7447,
+  "bbox_east": -122.4028,
+  "bbox_west": -122.4269,
+  "confidence": "high",
+  "notes": "The Mission District in San Francisco, roughly bounded by Dolores St to the west, US-101/Potrero Ave to the east, 16th St to the north, and Cesar Chavez St to the south."
+}

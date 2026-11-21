@@ -1,0 +1,24 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Bayview",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bayview\",\n  \"resolved_place\": \"Bayview-Hunters Point\",\n  \"centroid_lat\": 37.7297,\n  \"centroid_lon\": -122.3928,\n  \"bbox_north\": 37.7431,\n  \"bbox_south\": 37.7081,\n  \"bbox_east\": -122.3700,\n  \"bbox_west\": -122.4050,\n  \"confidence\": \"high\",\n  \"notes\": \"Bayview is commonly referred to as Bayview-Hunters Point in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bayview SF",
+    "Bayview Hunters Point"
+  ],
+  "place": "Bayview",
+  "resolved_place": "Bayview-Hunters Point",
+  "centroid_lat": 37.7297,
+  "centroid_lon": -122.3928,
+  "bbox_north": 37.7431,
+  "bbox_south": 37.7081,
+  "bbox_east": -122.37,
+  "bbox_west": -122.405,
+  "confidence": "high",
+  "notes": "Bayview is commonly referred to as Bayview-Hunters Point in San Francisco."
+}

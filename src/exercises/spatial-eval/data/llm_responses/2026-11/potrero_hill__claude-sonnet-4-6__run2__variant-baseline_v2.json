@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Potrero Hill",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Potrero Hill\",\n  \"resolved_place\": \"Potrero Hill\",\n  \"centroid_lat\": 37.7601,\n  \"centroid_lon\": -122.4003,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7510,\n  \"bbox_east\": -122.3920,\n  \"bbox_west\": -122.4100,\n  \"confidence\": \"high\",\n  \"notes\": \"Potrero Hill is a well-defined San Francisco neighborhood bounded roughly by Highway 101 to the west, Interstate 280 to the south, the Central Waterfront/Dogpatch to the east, and the Mission/SoMa to the north.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Potrero Hill SF"
+  ],
+  "_cached": false,
+  "place": "Potrero Hill",
+  "resolved_place": "Potrero Hill",
+  "centroid_lat": 37.7601,
+  "centroid_lon": -122.4003,
+  "bbox_north": 37.768,
+  "bbox_south": 37.751,
+  "bbox_east": -122.392,
+  "bbox_west": -122.41,
+  "confidence": "high",
+  "notes": "Potrero Hill is a well-defined San Francisco neighborhood bounded roughly by Highway 101 to the west, Interstate 280 to the south, the Central Waterfront/Dogpatch to the east, and the Mission/SoMa to the north."
+}

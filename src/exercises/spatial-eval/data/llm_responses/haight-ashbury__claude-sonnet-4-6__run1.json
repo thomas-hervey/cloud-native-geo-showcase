@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Haight-Ashbury",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7692,\n  \"centroid_lon\": -122.4481,\n  \"bbox_north\": 37.7727,\n  \"bbox_south\": 37.7654,\n  \"bbox_east\": -122.4390,\n  \"bbox_west\": -122.4571,\n  \"confidence\": \"high\",\n  \"notes\": \"Haight-Ashbury is a neighborhood in San Francisco bounded roughly by Divisadero St to the west, Central Ave to the east, Fell St to the north, and Frederick St to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Haight-Ashbury",
+  "centroid_lat": 37.7692,
+  "centroid_lon": -122.4481,
+  "bbox_north": 37.7727,
+  "bbox_south": 37.7654,
+  "bbox_east": -122.439,
+  "bbox_west": -122.4571,
+  "confidence": "high",
+  "notes": "Haight-Ashbury is a neighborhood in San Francisco bounded roughly by Divisadero St to the west, Central Ave to the east, Fell St to the north, and Frederick St to the south."
+}

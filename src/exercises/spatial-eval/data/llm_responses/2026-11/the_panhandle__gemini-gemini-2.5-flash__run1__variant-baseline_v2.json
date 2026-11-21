@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Panhandle",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7705,\n  \"centroid_lon\": -122.4420,\n  \"bbox_north\": 37.7730,\n  \"bbox_south\": 37.7680,\n  \"bbox_east\": -122.4310,\n  \"bbox_west\": -122.4530,\n  \"confidence\": \"high\",\n  \"notes\": \"The Panhandle neighborhood is centered around the linear park of the same name, extending approximately one block north and south of the park, from Stanyan Street to Divisadero Street.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.7705,
+  "centroid_lon": -122.442,
+  "bbox_north": 37.773,
+  "bbox_south": 37.768,
+  "bbox_east": -122.431,
+  "bbox_west": -122.453,
+  "confidence": "high",
+  "notes": "The Panhandle neighborhood is centered around the linear park of the same name, extending approximately one block north and south of the park, from Stanyan Street to Divisadero Street."
+}

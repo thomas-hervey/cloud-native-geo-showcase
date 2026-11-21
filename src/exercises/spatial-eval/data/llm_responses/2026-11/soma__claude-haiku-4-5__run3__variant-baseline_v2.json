@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "SoMa",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market\",\n  \"centroid_lat\": 37.7808,\n  \"centroid_lon\": -122.3945,\n  \"bbox_north\": 37.7950,\n  \"bbox_south\": 37.7650,\n  \"bbox_east\": -122.3750,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa (South of Market) is a well-established San Francisco neighborhood bounded roughly by Market Street to the north, the Bay to the east, Highway 101 to the south, and Van Ness Avenue to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "_cached": false,
+  "place": "SoMa",
+  "resolved_place": "South of Market",
+  "centroid_lat": 37.7808,
+  "centroid_lon": -122.3945,
+  "bbox_north": 37.795,
+  "bbox_south": 37.765,
+  "bbox_east": -122.375,
+  "bbox_west": -122.415,
+  "confidence": "high",
+  "notes": "SoMa (South of Market) is a well-established San Francisco neighborhood bounded roughly by Market Street to the north, the Bay to the east, Highway 101 to the south, and Van Ness Avenue to the west."
+}

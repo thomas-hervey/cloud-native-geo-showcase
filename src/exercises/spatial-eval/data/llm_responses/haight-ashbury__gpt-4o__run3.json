@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Haight-Ashbury",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7698,\n  \"centroid_lon\": -122.4467,\n  \"bbox_north\": 37.7727,\n  \"bbox_south\": 37.7670,\n  \"bbox_east\": -122.4426,\n  \"bbox_west\": -122.4508,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood layout.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Haight-Ashbury",
+  "centroid_lat": 37.7698,
+  "centroid_lon": -122.4467,
+  "bbox_north": 37.7727,
+  "bbox_south": 37.767,
+  "bbox_east": -122.4426,
+  "bbox_west": -122.4508,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood layout."
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Catalog",
+  "id": "scout-data",
+  "stac_version": "1.1.0",
+  "description": "Static STAC catalog for Scout \u2014 a cloud-native geospatial chat-to-map application. Contains GeoParquet partitions of Overture Maps places data processed for DuckDB-Wasm querying.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json",
+      "title": "Scout Data Catalog"
+    },
+    {
+      "rel": "child",
+      "href": "./sf-places/collection.json",
+      "type": "application/json",
+      "title": "SF Places (Overture Maps)"
+    }
+  ],
+  "title": "Scout Data Catalog"
+}

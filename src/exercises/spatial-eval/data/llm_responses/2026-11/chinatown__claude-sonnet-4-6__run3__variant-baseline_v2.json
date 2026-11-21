@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Chinatown",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Chinatown\",\n  \"resolved_place\": \"San Francisco Chinatown\",\n  \"centroid_lat\": 37.7941,\n  \"centroid_lon\": -122.4079,\n  \"bbox_north\": 37.7965,\n  \"bbox_south\": 37.7918,\n  \"bbox_east\": -122.4039,\n  \"bbox_west\": -122.4122,\n  \"confidence\": \"high\",\n  \"notes\": \"San Francisco Chinatown centered on Grant Avenue and Stockton Street between Bush and Broadway, one of the oldest and most densely populated Chinatowns in North America.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "San Francisco Chinatown"
+  ],
+  "_cached": false,
+  "place": "Chinatown",
+  "resolved_place": "San Francisco Chinatown",
+  "centroid_lat": 37.7941,
+  "centroid_lon": -122.4079,
+  "bbox_north": 37.7965,
+  "bbox_south": 37.7918,
+  "bbox_east": -122.4039,
+  "bbox_west": -122.4122,
+  "confidence": "high",
+  "notes": "San Francisco Chinatown centered on Grant Avenue and Stockton Street between Bush and Broadway, one of the oldest and most densely populated Chinatowns in North America."
+}

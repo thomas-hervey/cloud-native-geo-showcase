@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Outer Sunset",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Outer Sunset\",\n  \"resolved_place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.7401,\n  \"centroid_lon\": -122.5076,\n  \"bbox_north\": 37.7540,\n  \"bbox_south\": 37.7330,\n  \"bbox_east\": -122.4870,\n  \"bbox_west\": -122.5130,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Sunset is recognized as a distinct neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Sunset SF"
+  ],
+  "_cached": false,
+  "place": "Outer Sunset",
+  "resolved_place": "Outer Sunset",
+  "centroid_lat": 37.7401,
+  "centroid_lon": -122.5076,
+  "bbox_north": 37.754,
+  "bbox_south": 37.733,
+  "bbox_east": -122.487,
+  "bbox_west": -122.513,
+  "confidence": "high",
+  "notes": "Outer Sunset is recognized as a distinct neighborhood in San Francisco."
+}

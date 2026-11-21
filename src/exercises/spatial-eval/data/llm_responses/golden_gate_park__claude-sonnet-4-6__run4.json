@@ -1,0 +1,16 @@
+{
+  "_raw": "{\n  \"place\": \"Golden Gate Park\",\n  \"resolved_place\": \"Golden Gate Park\",\n  \"geometry\": {\n    \"type\": \"Polygon\",\n    \"coordinates\": [\n      [\n        [-122.5118, 37.7695],\n        [-122.5118, 37.7717],\n        [-122.5085, 37.7717],\n        [-122.5050, 37.7720],\n        [-122.5020, 37.7723],\n        [-122.4980, 37.7723],\n        [-122.4940, 37.7722],\n        [-122.4900, 37.7720],\n        [-122.4860, 37.7718],\n        [-122.4820, 37.7716],\n        [-122.4780, 37.7714],\n        [-122.4755, 37.7712],\n        [-122.4755, 37.7695],\n        [-122.4755, 37.7677],\n        [-122.4780, 37.7675],\n        [-122.4820, 37.7673],\n        [-122.4860, 37.7671],\n        [-122.4900, 37.7669],\n        [-122.4940, 37.7667],\n        [-122.4980, 37.7665],\n        [-122.5020, 37.7663],\n        [-122.5050, 37.7661],\n        [-122.5085, 37.7659],\n        [-122.5118, 37.7659],\n        [-122.5118, 37.7695]\n      ]\n    ]\n  },\n  \"confidence\": \"high\",\n  \"notes\": \"Golden Gate Park is a large rectangular park running roughly east-west from Stanyan Street to the Pacific Ocean, between Fulton Street to the north and Lincoln Way to the south. The polygon approximates the park's elongated rectangular boundary.\"\n}",
+  "_valid": true,
+  "_error": null,
+  "place": "Golden Gate Park",
+  "resolved_place": "Golden Gate Park",
+  "confidence": "high",
+  "notes": "Golden Gate Park is a large rectangular park running roughly east-west from Stanyan Street to the Pacific Ocean, between Fulton Street to the north and Lincoln Way to the south. The polygon approximates the park's elongated rectangular boundary.",
+  "centroid_lat": 37.769285088908376,
+  "centroid_lon": -122.49506430109243,
+  "bbox_west": -122.5118,
+  "bbox_south": 37.7659,
+  "bbox_east": -122.4755,
+  "bbox_north": 37.7723,
+  "polygon_wkt": "POLYGON ((-122.5118 37.7695, -122.5118 37.7717, -122.5085 37.7717, -122.505 37.772, -122.502 37.7723, -122.498 37.7723, -122.494 37.7722, -122.49 37.772, -122.486 37.7718, -122.482 37.7716, -122.478 37.7714, -122.4755 37.7712, -122.4755 37.7695, -122.4755 37.7677, -122.478 37.7675, -122.482 37.7673, -122.486 37.7671, -122.49 37.7669, -122.494 37.7667, -122.498 37.7665, -122.502 37.7663, -122.505 37.7661, -122.5085 37.7659, -122.5118 37.7659, -122.5118 37.7695))"
+}

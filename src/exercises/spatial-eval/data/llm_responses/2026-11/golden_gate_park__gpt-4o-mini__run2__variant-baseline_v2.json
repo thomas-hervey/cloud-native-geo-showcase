@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Golden Gate Park",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Golden Gate Park\",\n  \"resolved_place\": \"Golden Gate Park\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7989,\n  \"bbox_south\": 37.7599,\n  \"bbox_east\": -122.4540,\n  \"bbox_west\": -122.5110,\n  \"confidence\": \"high\",\n  \"notes\": \"Golden Gate Park is recognized as a distinct area in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Golden Gate Park SF"
+  ],
+  "_cached": false,
+  "place": "Golden Gate Park",
+  "resolved_place": "Golden Gate Park",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7989,
+  "bbox_south": 37.7599,
+  "bbox_east": -122.454,
+  "bbox_west": -122.511,
+  "confidence": "high",
+  "notes": "Golden Gate Park is recognized as a distinct area in San Francisco."
+}

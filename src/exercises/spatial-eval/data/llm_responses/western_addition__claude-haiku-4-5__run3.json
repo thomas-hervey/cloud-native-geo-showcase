@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Western Addition",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Western Addition\",\n  \"centroid_lat\": 37.7755,\n  \"centroid_lon\": -122.4365,\n  \"bbox_north\": 37.7900,\n  \"bbox_south\": 37.7610,\n  \"bbox_east\": -122.4150,\n  \"bbox_west\": -122.4580,\n  \"confidence\": \"high\",\n  \"notes\": \"Historic neighborhood in San Francisco bounded approximately by Divisadero, Golden Gate Ave, Fillmore, and McAllister Streets.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Western Addition",
+  "centroid_lat": 37.7755,
+  "centroid_lon": -122.4365,
+  "bbox_north": 37.79,
+  "bbox_south": 37.761,
+  "bbox_east": -122.415,
+  "bbox_west": -122.458,
+  "confidence": "high",
+  "notes": "Historic neighborhood in San Francisco bounded approximately by Divisadero, Golden Gate Ave, Fillmore, and McAllister Streets."
+}

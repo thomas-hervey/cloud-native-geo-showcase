@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Richmond",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Richmond\",\n  \"centroid_lat\": 37.7793,\n  \"centroid_lon\": -122.4825,\n  \"bbox_north\": 37.7868,\n  \"bbox_south\": 37.7720,\n  \"bbox_east\": -122.4656,\n  \"bbox_west\": -122.5050,\n  \"confidence\": \"medium\",\n  \"notes\": \"The Richmond includes both Inner and Outer Richmond neighborhoods.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Richmond",
+  "centroid_lat": 37.7793,
+  "centroid_lon": -122.4825,
+  "bbox_north": 37.7868,
+  "bbox_south": 37.772,
+  "bbox_east": -122.4656,
+  "bbox_west": -122.505,
+  "confidence": "medium",
+  "notes": "The Richmond includes both Inner and Outer Richmond neighborhoods."
+}

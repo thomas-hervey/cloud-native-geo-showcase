@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Western Addition",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Western Addition\",\n  \"centroid_lat\": 37.7793,\n  \"centroid_lon\": -122.4337,\n  \"bbox_north\": 37.7873,\n  \"bbox_south\": 37.7713,\n  \"bbox_east\": -122.4226,\n  \"bbox_west\": -122.4455,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood maps.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Western Addition",
+  "centroid_lat": 37.7793,
+  "centroid_lon": -122.4337,
+  "bbox_north": 37.7873,
+  "bbox_south": 37.7713,
+  "bbox_east": -122.4226,
+  "bbox_west": -122.4455,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood maps."
+}

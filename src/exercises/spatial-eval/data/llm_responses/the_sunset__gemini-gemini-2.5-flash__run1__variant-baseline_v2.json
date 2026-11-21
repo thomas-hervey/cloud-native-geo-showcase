@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Sunset",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.7435,\n  \"centroid_lon\": -122.4925,\n  \"bbox_north\": 37.769,\n  \"bbox_south\": 37.718,\n  \"bbox_east\": -122.475,\n  \"bbox_west\": -122.510,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District is bounded by Golden Gate Park to the north, 19th Avenue to the east, Sloat Boulevard to the south, and the Pacific Ocean to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.7435,
+  "centroid_lon": -122.4925,
+  "bbox_north": 37.769,
+  "bbox_south": 37.718,
+  "bbox_east": -122.475,
+  "bbox_west": -122.51,
+  "confidence": "high",
+  "notes": "The Sunset District is bounded by Golden Gate Park to the north, 19th Avenue to the east, Sloat Boulevard to the south, and the Pacific Ocean to the west."
+}

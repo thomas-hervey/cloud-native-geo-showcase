@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Haight-Ashbury",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.76635,\n  \"centroid_lon\": -122.4453,\n  \"bbox_north\": 37.7720,\n  \"bbox_south\": 37.7607,\n  \"bbox_east\": -122.4347,\n  \"bbox_west\": -122.4559,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Haight Ashbury SF"
+  ],
+  "_cached": false,
+  "place": "Haight-Ashbury",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.76635,
+  "centroid_lon": -122.4453,
+  "bbox_north": 37.772,
+  "bbox_south": 37.7607,
+  "bbox_east": -122.4347,
+  "bbox_west": -122.4559,
+  "confidence": "high",
+  "notes": ""
+}

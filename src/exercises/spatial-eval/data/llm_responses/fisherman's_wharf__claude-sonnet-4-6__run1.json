@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Fisherman's Wharf",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Fisherman's Wharf\",\n  \"centroid_lat\": 37.8080,\n  \"centroid_lon\": -122.4177,\n  \"bbox_north\": 37.8120,\n  \"bbox_south\": 37.8050,\n  \"bbox_east\": -122.4050,\n  \"bbox_west\": -122.4280,\n  \"confidence\": \"high\",\n  \"notes\": \"Covers the waterfront tourist and fishing district along Jefferson Street and the piers in northern San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Fisherman's Wharf",
+  "centroid_lat": 37.808,
+  "centroid_lon": -122.4177,
+  "bbox_north": 37.812,
+  "bbox_south": 37.805,
+  "bbox_east": -122.405,
+  "bbox_west": -122.428,
+  "confidence": "high",
+  "notes": "Covers the waterfront tourist and fishing district along Jefferson Street and the piers in northern San Francisco."
+}

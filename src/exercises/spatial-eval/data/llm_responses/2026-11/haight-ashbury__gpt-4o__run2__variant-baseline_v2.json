@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Haight-Ashbury",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7691,\n  \"centroid_lon\": -122.4469,\n  \"bbox_north\": 37.7722,\n  \"bbox_south\": 37.7660,\n  \"bbox_east\": -122.4424,\n  \"bbox_west\": -122.4514,\n  \"confidence\": \"high\",\n  \"notes\": \"Haight-Ashbury is a well-known neighborhood in San Francisco, recognized for its historical significance and cultural impact.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Haight Ashbury SF"
+  ],
+  "_cached": false,
+  "place": "Haight-Ashbury",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.7691,
+  "centroid_lon": -122.4469,
+  "bbox_north": 37.7722,
+  "bbox_south": 37.766,
+  "bbox_east": -122.4424,
+  "bbox_west": -122.4514,
+  "confidence": "high",
+  "notes": "Haight-Ashbury is a well-known neighborhood in San Francisco, recognized for its historical significance and cultural impact."
+}

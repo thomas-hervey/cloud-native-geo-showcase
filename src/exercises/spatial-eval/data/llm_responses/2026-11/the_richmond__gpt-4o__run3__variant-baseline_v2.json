@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Richmond",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Richmond\",\n  \"resolved_place\": \"Richmond District\",\n  \"centroid_lat\": 37.7799,\n  \"centroid_lon\": -122.4826,\n  \"bbox_north\": 37.7845,\n  \"bbox_south\": 37.7710,\n  \"bbox_east\": -122.4633,\n  \"bbox_west\": -122.5107,\n  \"confidence\": \"high\",\n  \"notes\": \"Richmond District is commonly referred to as The Richmond in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Richmond District SF"
+  ],
+  "_cached": false,
+  "place": "The Richmond",
+  "resolved_place": "Richmond District",
+  "centroid_lat": 37.7799,
+  "centroid_lon": -122.4826,
+  "bbox_north": 37.7845,
+  "bbox_south": 37.771,
+  "bbox_east": -122.4633,
+  "bbox_west": -122.5107,
+  "confidence": "high",
+  "notes": "Richmond District is commonly referred to as The Richmond in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "North Beach",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach\",\n  \"centroid_lat\": 37.8033,\n  \"centroid_lon\": -122.4108,\n  \"bbox_north\": 37.8085,\n  \"bbox_south\": 37.7980,\n  \"bbox_east\": -122.4035,\n  \"bbox_west\": -122.4175,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "_cached": false,
+  "place": "North Beach",
+  "resolved_place": "North Beach",
+  "centroid_lat": 37.8033,
+  "centroid_lon": -122.4108,
+  "bbox_north": 37.8085,
+  "bbox_south": 37.798,
+  "bbox_east": -122.4035,
+  "bbox_west": -122.4175,
+  "confidence": "high",
+  "notes": ""
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Potrero Hill",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Potrero Hill\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.3983,\n  \"bbox_north\": 37.7660,\n  \"bbox_south\": 37.7538,\n  \"bbox_east\": -122.3910,\n  \"bbox_west\": -122.4060,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood maps.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Potrero Hill",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.3983,
+  "bbox_north": 37.766,
+  "bbox_south": 37.7538,
+  "bbox_east": -122.391,
+  "bbox_west": -122.406,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood maps."
+}

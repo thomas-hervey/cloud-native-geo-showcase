@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Potrero Hill",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Potrero Hill\",\n  \"centroid_lat\": 37.7505,\n  \"centroid_lon\": -122.3962,\n  \"bbox_north\": 37.7590,\n  \"bbox_south\": 37.7430,\n  \"bbox_east\": -122.3860,\n  \"bbox_west\": -122.4050,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates are approximate and may vary slightly.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Potrero Hill",
+  "centroid_lat": 37.7505,
+  "centroid_lon": -122.3962,
+  "bbox_north": 37.759,
+  "bbox_south": 37.743,
+  "bbox_east": -122.386,
+  "bbox_west": -122.405,
+  "confidence": "high",
+  "notes": "Coordinates are approximate and may vary slightly."
+}

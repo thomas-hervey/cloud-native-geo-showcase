@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Chinatown",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Chinatown, San Francisco\",\n  \"centroid_lat\": 37.7947,\n  \"centroid_lon\": -122.4073,\n  \"bbox_north\": 37.8020,\n  \"bbox_south\": 37.7875,\n  \"bbox_east\": -122.3980,\n  \"bbox_west\": -122.4165,\n  \"confidence\": \"high\",\n  \"notes\": \"Boundaries approximate the historic Chinatown district bounded roughly by Broadway, Kearny, Columbus, and Grant Avenue.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Chinatown, San Francisco",
+  "centroid_lat": 37.7947,
+  "centroid_lon": -122.4073,
+  "bbox_north": 37.802,
+  "bbox_south": 37.7875,
+  "bbox_east": -122.398,
+  "bbox_west": -122.4165,
+  "confidence": "high",
+  "notes": "Boundaries approximate the historic Chinatown district bounded roughly by Broadway, Kearny, Columbus, and Grant Avenue."
+}

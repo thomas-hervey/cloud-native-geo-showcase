@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Upper Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7695,\n  \"centroid_lon\": -122.4519,\n  \"bbox_north\": 37.7760,\n  \"bbox_south\": 37.7630,\n  \"bbox_east\": -122.4450,\n  \"bbox_west\": -122.4588,\n  \"confidence\": \"high\",\n  \"notes\": \"Upper Haight is located in the Haight-Ashbury neighborhood, roughly bounded by Stanyan Street on the east and Golden Gate Park on the north.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Upper Haight",
+  "centroid_lat": 37.7695,
+  "centroid_lon": -122.4519,
+  "bbox_north": 37.776,
+  "bbox_south": 37.763,
+  "bbox_east": -122.445,
+  "bbox_west": -122.4588,
+  "confidence": "high",
+  "notes": "Upper Haight is located in the Haight-Ashbury neighborhood, roughly bounded by Stanyan Street on the east and Golden Gate Park on the north."
+}

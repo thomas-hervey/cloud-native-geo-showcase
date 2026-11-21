@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Chinatown",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Chinatown\",\n  \"centroid_lat\": 37.7941,\n  \"centroid_lon\": -122.4078,\n  \"bbox_north\": 37.7968,\n  \"bbox_south\": 37.7914,\n  \"bbox_east\": -122.4048,\n  \"bbox_west\": -122.4108,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on common definitions.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Chinatown",
+  "centroid_lat": 37.7941,
+  "centroid_lon": -122.4078,
+  "bbox_north": 37.7968,
+  "bbox_south": 37.7914,
+  "bbox_east": -122.4048,
+  "bbox_west": -122.4108,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on common definitions."
+}

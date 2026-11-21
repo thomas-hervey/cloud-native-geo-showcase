@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Tenderloin",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Tenderloin\",\n  \"resolved_place\": \"The Tenderloin\",\n  \"centroid_lat\": 37.78255,\n  \"centroid_lon\": -122.4145,\n  \"bbox_north\": 37.7882,\n  \"bbox_south\": 37.7769,\n  \"bbox_east\": -122.4079,\n  \"bbox_west\": -122.4211,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Tenderloin SF"
+  ],
+  "_cached": false,
+  "place": "The Tenderloin",
+  "resolved_place": "The Tenderloin",
+  "centroid_lat": 37.78255,
+  "centroid_lon": -122.4145,
+  "bbox_north": 37.7882,
+  "bbox_south": 37.7769,
+  "bbox_east": -122.4079,
+  "bbox_west": -122.4211,
+  "confidence": "high",
+  "notes": ""
+}

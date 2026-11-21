@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Bernal Heights",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7434,\n  \"centroid_lon\": -122.4156,\n  \"bbox_north\": 37.7524,\n  \"bbox_south\": 37.7344,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4270,\n  \"confidence\": \"high\",\n  \"notes\": \"Bernal Heights is a hilltop neighborhood in southeastern San Francisco bounded roughly by Cesar Chavez to the north, US-101 to the east, Alemany Blvd to the south, and Noe Valley to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Bernal Heights",
+  "centroid_lat": 37.7434,
+  "centroid_lon": -122.4156,
+  "bbox_north": 37.7524,
+  "bbox_south": 37.7344,
+  "bbox_east": -122.402,
+  "bbox_west": -122.427,
+  "confidence": "high",
+  "notes": "Bernal Heights is a hilltop neighborhood in southeastern San Francisco bounded roughly by Cesar Chavez to the north, US-101 to the east, Alemany Blvd to the south, and Noe Valley to the west."
+}

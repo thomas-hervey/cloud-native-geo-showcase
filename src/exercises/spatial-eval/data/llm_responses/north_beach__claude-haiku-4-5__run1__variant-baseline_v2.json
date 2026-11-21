@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "North Beach",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach\",\n  \"centroid_lat\": 37.8062,\n  \"centroid_lon\": -122.4075,\n  \"bbox_north\": 37.8220,\n  \"bbox_south\": 37.7900,\n  \"bbox_east\": -122.3950,\n  \"bbox_west\": -122.4200,\n  \"confidence\": \"high\",\n  \"notes\": \"North Beach is a well-established San Francisco neighborhood bounded approximately by Columbus Avenue to the west, the waterfront to the east, Broadway to the south, and Bay Street to the north.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "place": "North Beach",
+  "resolved_place": "North Beach",
+  "centroid_lat": 37.8062,
+  "centroid_lon": -122.4075,
+  "bbox_north": 37.822,
+  "bbox_south": 37.79,
+  "bbox_east": -122.395,
+  "bbox_west": -122.42,
+  "confidence": "high",
+  "notes": "North Beach is a well-established San Francisco neighborhood bounded approximately by Columbus Avenue to the west, the waterfront to the east, Broadway to the south, and Bay Street to the north."
+}

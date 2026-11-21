@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Golden Gate Park",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Golden Gate Park\",\n  \"resolved_place\": \"Golden Gate Park\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7727,\n  \"bbox_south\": 37.7645,\n  \"bbox_east\": -122.4547,\n  \"bbox_west\": -122.5107,\n  \"confidence\": \"high\",\n  \"notes\": \"Golden Gate Park is treated as a neighborhood-scale area in this context.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Golden Gate Park SF"
+  ],
+  "_cached": false,
+  "place": "Golden Gate Park",
+  "resolved_place": "Golden Gate Park",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7727,
+  "bbox_south": 37.7645,
+  "bbox_east": -122.4547,
+  "bbox_west": -122.5107,
+  "confidence": "high",
+  "notes": "Golden Gate Park is treated as a neighborhood-scale area in this context."
+}

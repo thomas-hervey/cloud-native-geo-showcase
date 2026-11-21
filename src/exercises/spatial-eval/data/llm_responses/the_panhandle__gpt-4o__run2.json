@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Panhandle",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7726,\n  \"centroid_lon\": -122.4450,\n  \"bbox_north\": 37.7745,\n  \"bbox_south\": 37.7707,\n  \"bbox_east\": -122.4425,\n  \"bbox_west\": -122.4475,\n  \"confidence\": \"medium\",\n  \"notes\": \"Coordinates are approximate and based on typical geographic references.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Panhandle",
+  "centroid_lat": 37.7726,
+  "centroid_lon": -122.445,
+  "bbox_north": 37.7745,
+  "bbox_south": 37.7707,
+  "bbox_east": -122.4425,
+  "bbox_west": -122.4475,
+  "confidence": "medium",
+  "notes": "Coordinates are approximate and based on typical geographic references."
+}

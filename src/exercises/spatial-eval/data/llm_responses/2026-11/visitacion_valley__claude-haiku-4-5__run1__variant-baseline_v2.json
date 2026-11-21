@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Visitacion Valley",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7275,\n  \"centroid_lon\": -122.3975,\n  \"bbox_north\": 37.7380,\n  \"bbox_south\": 37.7170,\n  \"bbox_east\": -122.3850,\n  \"bbox_west\": -122.4100,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is a neighborhood in southeastern San Francisco, bounded roughly by Bayshore Boulevard to the east, Sunnydale Avenue to the west, and Visitacion Avenue running through its center.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "_cached": false,
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley",
+  "centroid_lat": 37.7275,
+  "centroid_lon": -122.3975,
+  "bbox_north": 37.738,
+  "bbox_south": 37.717,
+  "bbox_east": -122.385,
+  "bbox_west": -122.41,
+  "confidence": "high",
+  "notes": "Visitacion Valley is a neighborhood in southeastern San Francisco, bounded roughly by Bayshore Boulevard to the east, Sunnydale Avenue to the west, and Visitacion Avenue running through its center."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Outer Richmond",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.773,\n  \"centroid_lon\": -122.501,\n  \"bbox_north\": 37.780,\n  \"bbox_south\": 37.766,\n  \"bbox_east\": -122.492,\n  \"bbox_west\": -122.510,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximate boundaries for Outer Richmond, San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.773,
+  "centroid_lon": -122.501,
+  "bbox_north": 37.78,
+  "bbox_south": 37.766,
+  "bbox_east": -122.492,
+  "bbox_west": -122.51,
+  "confidence": "high",
+  "notes": "Approximate boundaries for Outer Richmond, San Francisco."
+}

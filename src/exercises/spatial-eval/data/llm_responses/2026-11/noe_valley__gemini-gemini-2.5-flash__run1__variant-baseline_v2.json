@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Noe Valley",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Noe Valley\",\n  \"resolved_place\": \"Noe Valley\",\n  \"centroid_lat\": 37.746,\n  \"centroid_lon\": -122.429,\n  \"bbox_north\": 37.752,\n  \"bbox_south\": 37.740,\n  \"bbox_east\": -122.420,\n  \"bbox_west\": -122.438,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximate boundaries for Noe Valley, San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Noe Valley SF"
+  ],
+  "_cached": false,
+  "place": "Noe Valley",
+  "resolved_place": "Noe Valley",
+  "centroid_lat": 37.746,
+  "centroid_lon": -122.429,
+  "bbox_north": 37.752,
+  "bbox_south": 37.74,
+  "bbox_east": -122.42,
+  "bbox_west": -122.438,
+  "confidence": "high",
+  "notes": "Approximate boundaries for Noe Valley, San Francisco."
+}

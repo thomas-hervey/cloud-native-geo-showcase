@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Lower Haight",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7713,\n  \"centroid_lon\": -122.4320,\n  \"bbox_north\": 37.7745,\n  \"bbox_south\": 37.7680,\n  \"bbox_east\": -122.4250,\n  \"bbox_west\": -122.4390,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "_cached": false,
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.7713,
+  "centroid_lon": -122.432,
+  "bbox_north": 37.7745,
+  "bbox_south": 37.768,
+  "bbox_east": -122.425,
+  "bbox_west": -122.439,
+  "confidence": "high",
+  "notes": ""
+}

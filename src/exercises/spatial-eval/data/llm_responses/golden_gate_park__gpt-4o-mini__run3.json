@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Golden Gate Park",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Golden Gate Park\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7989,\n  \"bbox_south\": 37.7289,\n  \"bbox_east\": -122.4583,\n  \"bbox_west\": -122.5111,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the approximate boundaries of Golden Gate Park.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Golden Gate Park",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7989,
+  "bbox_south": 37.7289,
+  "bbox_east": -122.4583,
+  "bbox_west": -122.5111,
+  "confidence": "high",
+  "notes": "Coordinates represent the approximate boundaries of Golden Gate Park."
+}

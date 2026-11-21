@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Mission",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Mission\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4194,\n  \"bbox_north\": 37.7651,\n  \"bbox_south\": 37.7498,\n  \"bbox_east\": -122.4090,\n  \"bbox_west\": -122.4265,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the general area of The Mission district.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Mission",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4194,
+  "bbox_north": 37.7651,
+  "bbox_south": 37.7498,
+  "bbox_east": -122.409,
+  "bbox_west": -122.4265,
+  "confidence": "high",
+  "notes": "Coordinates represent the general area of The Mission district."
+}

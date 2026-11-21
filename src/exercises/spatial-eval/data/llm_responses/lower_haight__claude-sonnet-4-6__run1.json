@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Lower Haight",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7724,\n  \"centroid_lon\": -122.4295,\n  \"bbox_north\": 37.7755,\n  \"bbox_south\": 37.7690,\n  \"bbox_east\": -122.4200,\n  \"bbox_west\": -122.4390,\n  \"confidence\": \"medium\",\n  \"notes\": \"Lower Haight is generally bounded by Divisadero St to the west, Webster/Laguna to the east, Haight St to the north, and Hermann/Waller to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Lower Haight",
+  "centroid_lat": 37.7724,
+  "centroid_lon": -122.4295,
+  "bbox_north": 37.7755,
+  "bbox_south": 37.769,
+  "bbox_east": -122.42,
+  "bbox_west": -122.439,
+  "confidence": "medium",
+  "notes": "Lower Haight is generally bounded by Divisadero St to the west, Webster/Laguna to the east, Haight St to the north, and Hermann/Waller to the south."
+}

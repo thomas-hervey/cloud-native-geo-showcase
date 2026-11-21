@@ -1,0 +1,77 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "landsat-scene-1",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.0,
+          37.5
+        ],
+        [
+          -122.0,
+          38.0
+        ],
+        [
+          -122.5,
+          38.0
+        ],
+        [
+          -122.5,
+          37.5
+        ],
+        [
+          -122.0,
+          37.5
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -122.5,
+    37.5,
+    -122.0,
+    38.0
+  ],
+  "properties": {
+    "datetime": "2026-02-06T11:28:33.123684Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/catalog.json",
+      "type": "application/json",
+      "title": "Simple STAC Catalog"
+    },
+    {
+      "rel": "collection",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/landsat-collection/collection.json",
+      "type": "application/json",
+      "title": "Landsat Collection"
+    },
+    {
+      "rel": "parent",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/landsat-collection/collection.json",
+      "type": "application/json",
+      "title": "Landsat Collection"
+    },
+    {
+      "rel": "self",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/landsat-collection/landsat-scene-1/landsat-scene-1.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://people.math.sc.edu/Burkardt/data/tif/at3_1m4_01.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "landsat-collection"
+}

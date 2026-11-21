@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Outer Sunset",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.7531,\n  \"centroid_lon\": -122.4947,\n  \"bbox_north\": 37.7620,\n  \"bbox_south\": 37.7420,\n  \"bbox_east\": -122.4750,\n  \"bbox_west\": -122.5100,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood maps.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Outer Sunset",
+  "centroid_lat": 37.7531,
+  "centroid_lon": -122.4947,
+  "bbox_north": 37.762,
+  "bbox_south": 37.742,
+  "bbox_east": -122.475,
+  "bbox_west": -122.51,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood maps."
+}

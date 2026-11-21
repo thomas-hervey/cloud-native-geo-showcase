@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Visitacion Valley",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley, San Francisco\",\n  \"centroid_lat\": 37.7134,\n  \"centroid_lon\": -122.4197,\n  \"bbox_north\": 37.7200,\n  \"bbox_south\": 37.7080,\n  \"bbox_east\": -122.4050,\n  \"bbox_west\": -122.4350,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is a residential neighborhood in the southeastern corner of San Francisco, bounded roughly by McLaren Park to the north, the San Francisco/Daly City border to the south, US-101 to the east, and the Excelsior/Outer Mission to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "_cached": false,
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley, San Francisco",
+  "centroid_lat": 37.7134,
+  "centroid_lon": -122.4197,
+  "bbox_north": 37.72,
+  "bbox_south": 37.708,
+  "bbox_east": -122.405,
+  "bbox_west": -122.435,
+  "confidence": "high",
+  "notes": "Visitacion Valley is a residential neighborhood in the southeastern corner of San Francisco, bounded roughly by McLaren Park to the north, the San Francisco/Daly City border to the south, US-101 to the east, and the Excelsior/Outer Mission to the west."
+}

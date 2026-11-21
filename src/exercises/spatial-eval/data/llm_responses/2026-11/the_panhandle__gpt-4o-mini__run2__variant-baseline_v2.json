@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Panhandle",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7749,\n  \"centroid_lon\": -122.4521,\n  \"bbox_north\": 37.7765,\n  \"bbox_south\": 37.7725,\n  \"bbox_east\": -122.4475,\n  \"bbox_west\": -122.4585,\n  \"confidence\": \"high\",\n  \"notes\": \"The Panhandle is a recognized neighborhood area adjacent to Golden Gate Park.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.7749,
+  "centroid_lon": -122.4521,
+  "bbox_north": 37.7765,
+  "bbox_south": 37.7725,
+  "bbox_east": -122.4475,
+  "bbox_west": -122.4585,
+  "confidence": "high",
+  "notes": "The Panhandle is a recognized neighborhood area adjacent to Golden Gate Park."
+}

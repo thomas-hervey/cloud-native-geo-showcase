@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Chinatown",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Chinatown\",\n  \"centroid_lat\": 37.7941,\n  \"centroid_lon\": -122.4079,\n  \"bbox_north\": 37.7965,\n  \"bbox_south\": 37.7918,\n  \"bbox_east\": -122.4048,\n  \"bbox_west\": -122.4108,\n  \"confidence\": \"high\",\n  \"notes\": \"San Francisco Chinatown is centered on Grant Avenue and Stockton Street between Bush and Broadway streets.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Chinatown",
+  "centroid_lat": 37.7941,
+  "centroid_lon": -122.4079,
+  "bbox_north": 37.7965,
+  "bbox_south": 37.7918,
+  "bbox_east": -122.4048,
+  "bbox_west": -122.4108,
+  "confidence": "high",
+  "notes": "San Francisco Chinatown is centered on Grant Avenue and Stockton Street between Bush and Broadway streets."
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Mid-Market",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7771,\n  \"centroid_lon\": -122.4135,\n  \"bbox_north\": 37.7800,\n  \"bbox_south\": 37.7730,\n  \"bbox_east\": -122.4050,\n  \"bbox_west\": -122.4190,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is a neighborhood in San Francisco known for its cultural and economic significance.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Mid-Market",
+  "centroid_lat": 37.7771,
+  "centroid_lon": -122.4135,
+  "bbox_north": 37.78,
+  "bbox_south": 37.773,
+  "bbox_east": -122.405,
+  "bbox_west": -122.419,
+  "confidence": "high",
+  "notes": "Mid-Market is a neighborhood in San Francisco known for its cultural and economic significance."
+}

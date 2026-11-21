@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Upper Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"resolved_place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7675,\n  \"centroid_lon\": -122.4535,\n  \"bbox_north\": 37.772,\n  \"bbox_south\": 37.763,\n  \"bbox_east\": -122.447,\n  \"bbox_west\": -122.460,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximate area west of Ashbury Street to Kezar Drive, bordering Golden Gate Park to the north and Cole Valley to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Upper Haight SF"
+  ],
+  "_cached": false,
+  "place": "Upper Haight",
+  "resolved_place": "Upper Haight",
+  "centroid_lat": 37.7675,
+  "centroid_lon": -122.4535,
+  "bbox_north": 37.772,
+  "bbox_south": 37.763,
+  "bbox_east": -122.447,
+  "bbox_west": -122.46,
+  "confidence": "high",
+  "notes": "Approximate area west of Ashbury Street to Kezar Drive, bordering Golden Gate Park to the north and Cole Valley to the south."
+}

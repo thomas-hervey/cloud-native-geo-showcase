@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Sunset",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District, San Francisco\",\n  \"centroid_lat\": 37.7525,\n  \"centroid_lon\": -122.4877,\n  \"bbox_north\": 37.7722,\n  \"bbox_south\": 37.7313,\n  \"bbox_east\": -122.4513,\n  \"bbox_west\": -122.5122,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District encompasses both Inner and Outer Sunset neighborhoods, bounded roughly by Lincoln Way/Golden Gate Park to the north, Sloat Boulevard to the south, Stanyan Street to the east, and the Pacific Ocean to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "place": "The Sunset",
+  "resolved_place": "Sunset District, San Francisco",
+  "centroid_lat": 37.7525,
+  "centroid_lon": -122.4877,
+  "bbox_north": 37.7722,
+  "bbox_south": 37.7313,
+  "bbox_east": -122.4513,
+  "bbox_west": -122.5122,
+  "confidence": "high",
+  "notes": "The Sunset District encompasses both Inner and Outer Sunset neighborhoods, bounded roughly by Lincoln Way/Golden Gate Park to the north, Sloat Boulevard to the south, Stanyan Street to the east, and the Pacific Ocean to the west."
+}

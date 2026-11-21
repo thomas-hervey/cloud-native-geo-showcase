@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Noe Valley",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Noe Valley\",\n  \"centroid_lat\": 37.7437,\n  \"centroid_lon\": -122.4260,\n  \"bbox_north\": 37.7490,\n  \"bbox_south\": 37.7380,\n  \"bbox_east\": -122.4170,\n  \"bbox_west\": -122.4340,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates are approximate and represent the general area of Noe Valley.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Noe Valley",
+  "centroid_lat": 37.7437,
+  "centroid_lon": -122.426,
+  "bbox_north": 37.749,
+  "bbox_south": 37.738,
+  "bbox_east": -122.417,
+  "bbox_west": -122.434,
+  "confidence": "high",
+  "notes": "Coordinates are approximate and represent the general area of Noe Valley."
+}

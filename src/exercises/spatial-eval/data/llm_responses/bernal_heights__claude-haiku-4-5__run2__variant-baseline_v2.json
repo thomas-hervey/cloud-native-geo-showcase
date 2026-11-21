@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Bernal Heights",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Bernal Heights\",\n  \"resolved_place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7425,\n  \"centroid_lon\": -122.4143,\n  \"bbox_north\": 37.7550,\n  \"bbox_south\": 37.7300,\n  \"bbox_east\": -122.4000,\n  \"bbox_west\": -122.4280,\n  \"confidence\": \"high\",\n  \"notes\": \"Well-established San Francisco neighborhood south of the Mission District, centered on Bernal Heights Park and bounded by Mission Street, Cortland Avenue, and the valley floor.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bernal Heights SF"
+  ],
+  "place": "Bernal Heights",
+  "resolved_place": "Bernal Heights",
+  "centroid_lat": 37.7425,
+  "centroid_lon": -122.4143,
+  "bbox_north": 37.755,
+  "bbox_south": 37.73,
+  "bbox_east": -122.4,
+  "bbox_west": -122.428,
+  "confidence": "high",
+  "notes": "Well-established San Francisco neighborhood south of the Mission District, centered on Bernal Heights Park and bounded by Mission Street, Cortland Avenue, and the valley floor."
+}

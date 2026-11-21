@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Dogpatch",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Dogpatch\",\n  \"resolved_place\": \"Dogpatch\",\n  \"centroid_lat\": 37.7597,\n  \"centroid_lon\": -122.3918,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7515,\n  \"bbox_east\": -122.3805,\n  \"bbox_west\": -122.4030,\n  \"confidence\": \"high\",\n  \"notes\": \"Dogpatch is a neighborhood in southeastern San Francisco, bounded approximately by the Bay to the east, 20th Street to the north, Cesar Chavez Avenue to the south, and Vermont Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Dogpatch SF"
+  ],
+  "place": "The Dogpatch",
+  "resolved_place": "Dogpatch",
+  "centroid_lat": 37.7597,
+  "centroid_lon": -122.3918,
+  "bbox_north": 37.768,
+  "bbox_south": 37.7515,
+  "bbox_east": -122.3805,
+  "bbox_west": -122.403,
+  "confidence": "high",
+  "notes": "Dogpatch is a neighborhood in southeastern San Francisco, bounded approximately by the Bay to the east, 20th Street to the north, Cesar Chavez Avenue to the south, and Vermont Street to the west."
+}

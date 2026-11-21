@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Bayview",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bayview\",\n  \"centroid_lat\": 37.735,\n  \"centroid_lon\": -122.385,\n  \"bbox_north\": 37.755,\n  \"bbox_south\": 37.715,\n  \"bbox_east\": -122.365,\n  \"bbox_west\": -122.405,\n  \"confidence\": \"high\",\n  \"notes\": \"Bayview is a neighborhood in southeastern San Francisco, also known as Bayview-Hunters Point.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Bayview",
+  "centroid_lat": 37.735,
+  "centroid_lon": -122.385,
+  "bbox_north": 37.755,
+  "bbox_south": 37.715,
+  "bbox_east": -122.365,
+  "bbox_west": -122.405,
+  "confidence": "high",
+  "notes": "Bayview is a neighborhood in southeastern San Francisco, also known as Bayview-Hunters Point."
+}

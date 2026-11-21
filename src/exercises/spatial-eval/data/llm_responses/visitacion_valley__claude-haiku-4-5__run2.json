@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Visitacion Valley",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7225,\n  \"centroid_lon\": -122.4075,\n  \"bbox_north\": 37.7350,\n  \"bbox_south\": 37.7100,\n  \"bbox_east\": -122.3950,\n  \"bbox_west\": -122.4200,\n  \"confidence\": \"high\",\n  \"notes\": \"Neighborhood in southeastern San Francisco, bounded by Bayshore Boulevard, Sunnydale Avenue, and Visitacion Avenue.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Visitacion Valley",
+  "centroid_lat": 37.7225,
+  "centroid_lon": -122.4075,
+  "bbox_north": 37.735,
+  "bbox_south": 37.71,
+  "bbox_east": -122.395,
+  "bbox_west": -122.42,
+  "confidence": "high",
+  "notes": "Neighborhood in southeastern San Francisco, bounded by Bayshore Boulevard, Sunnydale Avenue, and Visitacion Avenue."
+}

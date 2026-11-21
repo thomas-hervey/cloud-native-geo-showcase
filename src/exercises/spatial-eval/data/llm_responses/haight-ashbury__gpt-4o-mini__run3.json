@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Haight-Ashbury",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7699,\n  \"centroid_lon\": -122.4469,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7590,\n  \"bbox_east\": -122.4330,\n  \"bbox_west\": -122.4580,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the approximate area of the Haight-Ashbury neighborhood.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Haight-Ashbury",
+  "centroid_lat": 37.7699,
+  "centroid_lon": -122.4469,
+  "bbox_north": 37.775,
+  "bbox_south": 37.759,
+  "bbox_east": -122.433,
+  "bbox_west": -122.458,
+  "confidence": "high",
+  "notes": "Coordinates represent the approximate area of the Haight-Ashbury neighborhood."
+}

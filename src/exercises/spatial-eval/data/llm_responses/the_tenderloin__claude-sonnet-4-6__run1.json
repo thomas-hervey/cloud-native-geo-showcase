@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Tenderloin",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Tenderloin\",\n  \"centroid_lat\": 37.7832,\n  \"centroid_lon\": -122.4133,\n  \"bbox_north\": 37.7873,\n  \"bbox_south\": 37.7790,\n  \"bbox_east\": -122.4069,\n  \"bbox_west\": -122.4197,\n  \"confidence\": \"high\",\n  \"notes\": \"The Tenderloin is bounded roughly by Market St to the south, Geary St to the north, Mason/Taylor to the west, and Hyde/Larkin to the east.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Tenderloin",
+  "centroid_lat": 37.7832,
+  "centroid_lon": -122.4133,
+  "bbox_north": 37.7873,
+  "bbox_south": 37.779,
+  "bbox_east": -122.4069,
+  "bbox_west": -122.4197,
+  "confidence": "high",
+  "notes": "The Tenderloin is bounded roughly by Market St to the south, Geary St to the north, Mason/Taylor to the west, and Hyde/Larkin to the east."
+}

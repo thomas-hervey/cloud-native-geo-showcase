@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Bernal Heights",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bernal Heights\",\n  \"resolved_place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7423,\n  \"centroid_lon\": -122.4144,\n  \"bbox_north\": 37.7550,\n  \"bbox_south\": 37.7280,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4280,\n  \"confidence\": \"high\",\n  \"notes\": \"Bernal Heights is a well-established San Francisco neighborhood centered on Bernal Hill, bounded roughly by Mission Street to the north, Cesar Chavez Avenue to the south, and Folsom/Harrison Streets to the east/west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bernal Heights SF"
+  ],
+  "place": "Bernal Heights",
+  "resolved_place": "Bernal Heights",
+  "centroid_lat": 37.7423,
+  "centroid_lon": -122.4144,
+  "bbox_north": 37.755,
+  "bbox_south": 37.728,
+  "bbox_east": -122.402,
+  "bbox_west": -122.428,
+  "confidence": "high",
+  "notes": "Bernal Heights is a well-established San Francisco neighborhood centered on Bernal Hill, bounded roughly by Mission Street to the north, Cesar Chavez Avenue to the south, and Folsom/Harrison Streets to the east/west."
+}

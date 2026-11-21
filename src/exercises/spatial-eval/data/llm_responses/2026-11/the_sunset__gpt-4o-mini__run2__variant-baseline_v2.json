@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Sunset",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.7490,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7590,\n  \"bbox_south\": 37.7380,\n  \"bbox_east\": -122.4662,\n  \"bbox_west\": -122.5072,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset is commonly referred to as the Sunset District.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.749,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.759,
+  "bbox_south": 37.738,
+  "bbox_east": -122.4662,
+  "bbox_west": -122.5072,
+  "confidence": "high",
+  "notes": "The Sunset is commonly referred to as the Sunset District."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Potrero Hill",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Potrero Hill\",\n  \"resolved_place\": \"Potrero Hill\",\n  \"centroid_lat\": 37.7596,\n  \"centroid_lon\": -122.3977,\n  \"bbox_north\": 37.7720,\n  \"bbox_south\": 37.7470,\n  \"bbox_east\": -122.3850,\n  \"bbox_west\": -122.4105,\n  \"confidence\": \"high\",\n  \"notes\": \"Potrero Hill is a well-defined San Francisco neighborhood bounded by 16th Street to the north, 20th Street to the south, the Bay to the east, and Division Street/Cesar Chavez Avenue to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Potrero Hill SF"
+  ],
+  "_cached": false,
+  "place": "Potrero Hill",
+  "resolved_place": "Potrero Hill",
+  "centroid_lat": 37.7596,
+  "centroid_lon": -122.3977,
+  "bbox_north": 37.772,
+  "bbox_south": 37.747,
+  "bbox_east": -122.385,
+  "bbox_west": -122.4105,
+  "confidence": "high",
+  "notes": "Potrero Hill is a well-defined San Francisco neighborhood bounded by 16th Street to the north, 20th Street to the south, the Bay to the east, and Division Street/Cesar Chavez Avenue to the west."
+}

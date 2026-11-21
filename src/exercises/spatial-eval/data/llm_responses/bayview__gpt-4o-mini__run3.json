@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Bayview",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Bayview\",\n  \"centroid_lat\": 37.7243,\n  \"centroid_lon\": -122.3924,\n  \"bbox_north\": 37.7380,\n  \"bbox_south\": 37.7100,\n  \"bbox_east\": -122.3750,\n  \"bbox_west\": -122.4100,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the approximate area of the Bayview neighborhood.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Bayview",
+  "centroid_lat": 37.7243,
+  "centroid_lon": -122.3924,
+  "bbox_north": 37.738,
+  "bbox_south": 37.71,
+  "bbox_east": -122.375,
+  "bbox_west": -122.41,
+  "confidence": "high",
+  "notes": "Coordinates represent the approximate area of the Bayview neighborhood."
+}

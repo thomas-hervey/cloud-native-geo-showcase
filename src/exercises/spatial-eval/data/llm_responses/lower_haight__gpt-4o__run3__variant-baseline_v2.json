@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Lower Haight",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7725,\n  \"centroid_lon\": -122.4311,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7700,\n  \"bbox_east\": -122.4275,\n  \"bbox_west\": -122.4340,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is a recognized neighborhood in San Francisco, located near the Haight-Ashbury district.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.7725,
+  "centroid_lon": -122.4311,
+  "bbox_north": 37.775,
+  "bbox_south": 37.77,
+  "bbox_east": -122.4275,
+  "bbox_west": -122.434,
+  "confidence": "high",
+  "notes": "Lower Haight is a recognized neighborhood in San Francisco, located near the Haight-Ashbury district."
+}

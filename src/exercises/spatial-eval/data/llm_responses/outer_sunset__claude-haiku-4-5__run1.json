@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Outer Sunset",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.755,\n  \"centroid_lon\": -122.510,\n  \"bbox_north\": 37.765,\n  \"bbox_south\": 37.745,\n  \"bbox_east\": -122.485,\n  \"bbox_west\": -122.535,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Sunset is a neighborhood in western San Francisco bounded roughly by Golden Gate Park to the north and the Pacific Ocean to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Outer Sunset",
+  "centroid_lat": 37.755,
+  "centroid_lon": -122.51,
+  "bbox_north": 37.765,
+  "bbox_south": 37.745,
+  "bbox_east": -122.485,
+  "bbox_west": -122.535,
+  "confidence": "high",
+  "notes": "Outer Sunset is a neighborhood in western San Francisco bounded roughly by Golden Gate Park to the north and the Pacific Ocean to the west."
+}

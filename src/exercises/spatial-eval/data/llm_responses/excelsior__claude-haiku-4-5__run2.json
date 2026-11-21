@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Excelsior",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Excelsior\",\n  \"centroid_lat\": 37.7225,\n  \"centroid_lon\": -122.4145,\n  \"bbox_north\": 37.7350,\n  \"bbox_south\": 37.7100,\n  \"bbox_east\": -122.4000,\n  \"bbox_west\": -122.4290,\n  \"confidence\": \"high\",\n  \"notes\": \"Excelsior is a neighborhood in southeastern San Francisco, bounded by Mission Street, San Jose Avenue, Alemany Boulevard, and Cayuga Avenue.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Excelsior",
+  "centroid_lat": 37.7225,
+  "centroid_lon": -122.4145,
+  "bbox_north": 37.735,
+  "bbox_south": 37.71,
+  "bbox_east": -122.4,
+  "bbox_west": -122.429,
+  "confidence": "high",
+  "notes": "Excelsior is a neighborhood in southeastern San Francisco, bounded by Mission Street, San Jose Avenue, Alemany Boulevard, and Cayuga Avenue."
+}

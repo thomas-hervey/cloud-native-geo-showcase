@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Castro",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Castro\",\n  \"resolved_place\": \"Castro District, San Francisco\",\n  \"centroid_lat\": 37.7609,\n  \"centroid_lon\": -122.4350,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7530,\n  \"bbox_east\": -122.4270,\n  \"bbox_west\": -122.4440,\n  \"confidence\": \"high\",\n  \"notes\": \"The Castro is a well-defined neighborhood in San Francisco centered around Castro Street and Market Street, known as a historic LGBTQ+ cultural district.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Castro District SF"
+  ],
+  "place": "The Castro",
+  "resolved_place": "Castro District, San Francisco",
+  "centroid_lat": 37.7609,
+  "centroid_lon": -122.435,
+  "bbox_north": 37.768,
+  "bbox_south": 37.753,
+  "bbox_east": -122.427,
+  "bbox_west": -122.444,
+  "confidence": "high",
+  "notes": "The Castro is a well-defined neighborhood in San Francisco centered around Castro Street and Market Street, known as a historic LGBTQ+ cultural district."
+}

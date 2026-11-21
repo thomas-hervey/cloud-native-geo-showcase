@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Panhandle",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"Panhandle, San Francisco\",\n  \"centroid_lat\": 37.7726,\n  \"centroid_lon\": -122.4432,\n  \"bbox_north\": 37.7741,\n  \"bbox_south\": 37.7712,\n  \"bbox_east\": -122.4318,\n  \"bbox_west\": -122.4547,\n  \"confidence\": \"high\",\n  \"notes\": \"The Panhandle refers to the narrow strip of parkland and surrounding neighborhood extending east from Golden Gate Park, roughly between Oak/Fell Streets and Stanyan to Baker Street. The bounding box covers the linear park corridor and its immediate surroundings.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "Panhandle, San Francisco",
+  "centroid_lat": 37.7726,
+  "centroid_lon": -122.4432,
+  "bbox_north": 37.7741,
+  "bbox_south": 37.7712,
+  "bbox_east": -122.4318,
+  "bbox_west": -122.4547,
+  "confidence": "high",
+  "notes": "The Panhandle refers to the narrow strip of parkland and surrounding neighborhood extending east from Golden Gate Park, roughly between Oak/Fell Streets and Stanyan to Baker Street. The bounding box covers the linear park corridor and its immediate surroundings."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Dogpatch",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Dogpatch\",\n  \"resolved_place\": \"Dogpatch\",\n  \"centroid_lat\": 37.7601,\n  \"centroid_lon\": -122.3897,\n  \"bbox_north\": 37.7660,\n  \"bbox_south\": 37.7520,\n  \"bbox_east\": -122.3820,\n  \"bbox_west\": -122.3970,\n  \"confidence\": \"high\",\n  \"notes\": \"Dogpatch is a distinct neighborhood in southeastern San Francisco, roughly bounded by Mariposa Street to the north, C\u00e9sar Ch\u00e1vez Street to the south, the waterfront/I-280 to the east, and Third Street to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Dogpatch SF"
+  ],
+  "_cached": false,
+  "place": "The Dogpatch",
+  "resolved_place": "Dogpatch",
+  "centroid_lat": 37.7601,
+  "centroid_lon": -122.3897,
+  "bbox_north": 37.766,
+  "bbox_south": 37.752,
+  "bbox_east": -122.382,
+  "bbox_west": -122.397,
+  "confidence": "high",
+  "notes": "Dogpatch is a distinct neighborhood in southeastern San Francisco, roughly bounded by Mariposa Street to the north, C\u00e9sar Ch\u00e1vez Street to the south, the waterfront/I-280 to the east, and Third Street to the west."
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Fisherman's Wharf",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Fisherman's Wharf\",\n  \"centroid_lat\": 37.8087,\n  \"centroid_lon\": -122.4120,\n  \"bbox_north\": 37.8150,\n  \"bbox_south\": 37.8020,\n  \"bbox_east\": -122.4040,\n  \"bbox_west\": -122.4200,\n  \"confidence\": \"high\",\n  \"notes\": \"Bounding box covers the main tourist area including Pier 39, the waterfront, and surrounding commercial district.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Fisherman's Wharf",
+  "centroid_lat": 37.8087,
+  "centroid_lon": -122.412,
+  "bbox_north": 37.815,
+  "bbox_south": 37.802,
+  "bbox_east": -122.404,
+  "bbox_west": -122.42,
+  "confidence": "high",
+  "notes": "Bounding box covers the main tourist area including Pier 39, the waterfront, and surrounding commercial district."
+}

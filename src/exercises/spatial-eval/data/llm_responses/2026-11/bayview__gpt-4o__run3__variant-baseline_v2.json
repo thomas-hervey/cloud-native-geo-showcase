@@ -1,0 +1,24 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Bayview",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bayview\",\n  \"resolved_place\": \"Bayview-Hunters Point\",\n  \"centroid_lat\": 37.7297,\n  \"centroid_lon\": -122.3904,\n  \"bbox_north\": 37.7450,\n  \"bbox_south\": 37.7075,\n  \"bbox_east\": -122.3700,\n  \"bbox_west\": -122.4050,\n  \"confidence\": \"high\",\n  \"notes\": \"Bayview is commonly associated with Bayview-Hunters Point in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bayview SF",
+    "Bayview Hunters Point"
+  ],
+  "_cached": false,
+  "place": "Bayview",
+  "resolved_place": "Bayview-Hunters Point",
+  "centroid_lat": 37.7297,
+  "centroid_lon": -122.3904,
+  "bbox_north": 37.745,
+  "bbox_south": 37.7075,
+  "bbox_east": -122.37,
+  "bbox_west": -122.405,
+  "confidence": "high",
+  "notes": "Bayview is commonly associated with Bayview-Hunters Point in San Francisco."
+}

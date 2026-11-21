@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Visitacion Valley",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7205,\n  \"centroid_lon\": -122.4095,\n  \"bbox_north\": 37.7260,\n  \"bbox_south\": 37.7130,\n  \"bbox_east\": -122.3960,\n  \"bbox_west\": -122.4140,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is recognized as a distinct neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley",
+  "centroid_lat": 37.7205,
+  "centroid_lon": -122.4095,
+  "bbox_north": 37.726,
+  "bbox_south": 37.713,
+  "bbox_east": -122.396,
+  "bbox_west": -122.414,
+  "confidence": "high",
+  "notes": "Visitacion Valley is recognized as a distinct neighborhood in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Tenderloin",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Tenderloin\",\n  \"resolved_place\": \"The Tenderloin\",\n  \"centroid_lat\": 37.784,\n  \"centroid_lon\": -122.4165,\n  \"bbox_north\": 37.788,\n  \"bbox_south\": 37.780,\n  \"bbox_east\": -122.409,\n  \"bbox_west\": -122.424,\n  \"confidence\": \"high\",\n  \"notes\": \"Standard boundaries for The Tenderloin neighborhood in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Tenderloin SF"
+  ],
+  "_cached": false,
+  "place": "The Tenderloin",
+  "resolved_place": "The Tenderloin",
+  "centroid_lat": 37.784,
+  "centroid_lon": -122.4165,
+  "bbox_north": 37.788,
+  "bbox_south": 37.78,
+  "bbox_east": -122.409,
+  "bbox_west": -122.424,
+  "confidence": "high",
+  "notes": "Standard boundaries for The Tenderloin neighborhood in San Francisco."
+}

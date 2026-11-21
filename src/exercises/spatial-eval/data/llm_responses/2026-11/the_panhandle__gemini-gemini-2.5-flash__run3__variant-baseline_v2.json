@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Panhandle",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.77125,\n  \"centroid_lon\": -122.44595,\n  \"bbox_north\": 37.7735,\n  \"bbox_south\": 37.7690,\n  \"bbox_east\": -122.4380,\n  \"bbox_west\": -122.4539,\n  \"confidence\": \"high\",\n  \"notes\": \"Bounding box encompasses The Panhandle park and the immediate surrounding blocks, extending from Stanyan Street in the west to Divisadero Street in the east, and from Golden Gate Avenue in the north to Page Street in the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.77125,
+  "centroid_lon": -122.44595,
+  "bbox_north": 37.7735,
+  "bbox_south": 37.769,
+  "bbox_east": -122.438,
+  "bbox_west": -122.4539,
+  "confidence": "high",
+  "notes": "Bounding box encompasses The Panhandle park and the immediate surrounding blocks, extending from Stanyan Street in the west to Divisadero Street in the east, and from Golden Gate Avenue in the north to Page Street in the south."
+}

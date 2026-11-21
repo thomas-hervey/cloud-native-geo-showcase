@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Upper Haight",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"resolved_place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7695,\n  \"centroid_lon\": -122.4515,\n  \"bbox_north\": 37.7780,\n  \"bbox_south\": 37.7610,\n  \"bbox_east\": -122.4380,\n  \"bbox_west\": -122.4650,\n  \"confidence\": \"high\",\n  \"notes\": \"Upper Haight is the eastern portion of the Haight-Ashbury neighborhood, roughly bounded by Divisadero Street to the west, Golden Gate Park to the north, Waller Street to the south, and Masonic Avenue to the east.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Upper Haight SF"
+  ],
+  "place": "Upper Haight",
+  "resolved_place": "Upper Haight",
+  "centroid_lat": 37.7695,
+  "centroid_lon": -122.4515,
+  "bbox_north": 37.778,
+  "bbox_south": 37.761,
+  "bbox_east": -122.438,
+  "bbox_west": -122.465,
+  "confidence": "high",
+  "notes": "Upper Haight is the eastern portion of the Haight-Ashbury neighborhood, roughly bounded by Divisadero Street to the west, Golden Gate Park to the north, Waller Street to the south, and Masonic Avenue to the east."
+}

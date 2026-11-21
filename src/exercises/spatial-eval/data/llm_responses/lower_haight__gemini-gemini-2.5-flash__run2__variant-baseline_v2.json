@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Lower Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.770,\n  \"centroid_lon\": -122.433,\n  \"bbox_north\": 37.774,\n  \"bbox_south\": 37.766,\n  \"bbox_east\": -122.427,\n  \"bbox_west\": -122.439,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximate boundaries: Divisadero St (west), Market St/Duboce Ave (south), Webster St (east), Fell St (north).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "_cached": false,
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.77,
+  "centroid_lon": -122.433,
+  "bbox_north": 37.774,
+  "bbox_south": 37.766,
+  "bbox_east": -122.427,
+  "bbox_west": -122.439,
+  "confidence": "high",
+  "notes": "Approximate boundaries: Divisadero St (west), Market St/Duboce Ave (south), Webster St (east), Fell St (north)."
+}

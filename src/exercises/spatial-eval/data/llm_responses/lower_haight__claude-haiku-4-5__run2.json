@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Lower Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7695,\n  \"centroid_lon\": -122.4315,\n  \"bbox_north\": 37.7775,\n  \"bbox_south\": 37.7615,\n  \"bbox_east\": -122.4215,\n  \"bbox_west\": -122.4415,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is bounded approximately by Fell Street to the north, Market Street to the south, Fillmore Street to the east, and Scott Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Lower Haight",
+  "centroid_lat": 37.7695,
+  "centroid_lon": -122.4315,
+  "bbox_north": 37.7775,
+  "bbox_south": 37.7615,
+  "bbox_east": -122.4215,
+  "bbox_west": -122.4415,
+  "confidence": "high",
+  "notes": "Lower Haight is bounded approximately by Fell Street to the north, Market Street to the south, Fillmore Street to the east, and Scott Street to the west."
+}

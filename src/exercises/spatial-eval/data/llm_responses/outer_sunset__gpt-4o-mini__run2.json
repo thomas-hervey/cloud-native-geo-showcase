@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Outer Sunset",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.7400,\n  \"centroid_lon\": -122.5000,\n  \"bbox_north\": 37.7590,\n  \"bbox_south\": 37.7240,\n  \"bbox_east\": -122.4850,\n  \"bbox_west\": -122.5130,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the general area of Outer Sunset in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Outer Sunset",
+  "centroid_lat": 37.74,
+  "centroid_lon": -122.5,
+  "bbox_north": 37.759,
+  "bbox_south": 37.724,
+  "bbox_east": -122.485,
+  "bbox_west": -122.513,
+  "confidence": "high",
+  "notes": "Coordinates represent the general area of Outer Sunset in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Lower Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7707,\n  \"centroid_lon\": -122.4547,\n  \"bbox_north\": 37.7780,\n  \"bbox_south\": 37.7635,\n  \"bbox_east\": -122.4420,\n  \"bbox_west\": -122.4675,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is bounded approximately by Fell Street to the north, Duboce Avenue to the south, Divisadero Street to the west, and Castro Street to the east.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "_cached": false,
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.7707,
+  "centroid_lon": -122.4547,
+  "bbox_north": 37.778,
+  "bbox_south": 37.7635,
+  "bbox_east": -122.442,
+  "bbox_west": -122.4675,
+  "confidence": "high",
+  "notes": "Lower Haight is bounded approximately by Fell Street to the north, Duboce Avenue to the south, Divisadero Street to the west, and Castro Street to the east."
+}

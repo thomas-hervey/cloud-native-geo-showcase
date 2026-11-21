@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Sunset",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.7595,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7440,\n  \"bbox_east\": -122.4680,\n  \"bbox_west\": -122.5045,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District is a well-established neighborhood in western San Francisco, bounded by Golden Gate Park to the north, the Pacific Ocean to the west, and other neighborhoods to the east and south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.7595,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.775,
+  "bbox_south": 37.744,
+  "bbox_east": -122.468,
+  "bbox_west": -122.5045,
+  "confidence": "high",
+  "notes": "The Sunset District is a well-established neighborhood in western San Francisco, bounded by Golden Gate Park to the north, the Pacific Ocean to the west, and other neighborhoods to the east and south."
+}

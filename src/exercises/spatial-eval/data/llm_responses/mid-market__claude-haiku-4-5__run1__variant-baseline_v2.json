@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Mid-Market",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7845,\n  \"centroid_lon\": -122.4089,\n  \"bbox_north\": 37.7895,\n  \"bbox_south\": 37.7795,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4158,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is a neighborhood district in San Francisco centered on Market Street between 6th and 12th Streets, spanning from the Tenderloin to the Mission District.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7845,
+  "centroid_lon": -122.4089,
+  "bbox_north": 37.7895,
+  "bbox_south": 37.7795,
+  "bbox_east": -122.402,
+  "bbox_west": -122.4158,
+  "confidence": "high",
+  "notes": "Mid-Market is a neighborhood district in San Francisco centered on Market Street between 6th and 12th Streets, spanning from the Tenderloin to the Mission District."
+}

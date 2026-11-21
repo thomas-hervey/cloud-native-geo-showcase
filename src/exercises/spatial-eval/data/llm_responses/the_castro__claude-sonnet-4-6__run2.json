@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Castro",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Castro\",\n  \"centroid_lat\": 37.7609,\n  \"centroid_lon\": -122.4350,\n  \"bbox_north\": 37.7650,\n  \"bbox_south\": 37.7565,\n  \"bbox_east\": -122.4280,\n  \"bbox_west\": -122.4420,\n  \"confidence\": \"high\",\n  \"notes\": \"The Castro neighborhood in San Francisco, centered around Castro Street and 18th Street.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Castro",
+  "centroid_lat": 37.7609,
+  "centroid_lon": -122.435,
+  "bbox_north": 37.765,
+  "bbox_south": 37.7565,
+  "bbox_east": -122.428,
+  "bbox_west": -122.442,
+  "confidence": "high",
+  "notes": "The Castro neighborhood in San Francisco, centered around Castro Street and 18th Street."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Bernal Heights",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Bernal Heights\",\n  \"resolved_place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7390,\n  \"centroid_lon\": -122.4153,\n  \"bbox_north\": 37.7467,\n  \"bbox_south\": 37.7305,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4290,\n  \"confidence\": \"high\",\n  \"notes\": \"Bernal Heights is a well-defined neighborhood in southeastern San Francisco, centered on Bernal Hill park, bounded roughly by Cesar Chavez to the north, US-101 to the east, Cortland Ave area to the south, and Noe Valley/Mission to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bernal Heights SF"
+  ],
+  "_cached": false,
+  "place": "Bernal Heights",
+  "resolved_place": "Bernal Heights",
+  "centroid_lat": 37.739,
+  "centroid_lon": -122.4153,
+  "bbox_north": 37.7467,
+  "bbox_south": 37.7305,
+  "bbox_east": -122.402,
+  "bbox_west": -122.429,
+  "confidence": "high",
+  "notes": "Bernal Heights is a well-defined neighborhood in southeastern San Francisco, centered on Bernal Hill park, bounded roughly by Cesar Chavez to the north, US-101 to the east, Cortland Ave area to the south, and Noe Valley/Mission to the west."
+}

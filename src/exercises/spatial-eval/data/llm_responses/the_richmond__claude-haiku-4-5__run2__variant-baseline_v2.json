@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Richmond",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Richmond\",\n  \"resolved_place\": \"Richmond District\",\n  \"centroid_lat\": 37.7725,\n  \"centroid_lon\": -122.4612,\n  \"bbox_north\": 37.7850,\n  \"bbox_south\": 37.7600,\n  \"bbox_east\": -122.4450,\n  \"bbox_west\": -122.4775,\n  \"confidence\": \"high\",\n  \"notes\": \"The Richmond District is a well-established neighborhood in western San Francisco, bounded approximately by Arguello Boulevard (east), the Presidio (north), Geary Boulevard (south), and the ocean/Great Highway (west).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Richmond District SF"
+  ],
+  "place": "The Richmond",
+  "resolved_place": "Richmond District",
+  "centroid_lat": 37.7725,
+  "centroid_lon": -122.4612,
+  "bbox_north": 37.785,
+  "bbox_south": 37.76,
+  "bbox_east": -122.445,
+  "bbox_west": -122.4775,
+  "confidence": "high",
+  "notes": "The Richmond District is a well-established neighborhood in western San Francisco, bounded approximately by Arguello Boulevard (east), the Presidio (north), Geary Boulevard (south), and the ocean/Great Highway (west)."
+}

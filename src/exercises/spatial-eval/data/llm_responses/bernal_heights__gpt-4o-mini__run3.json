@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Bernal Heights",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7334,\n  \"centroid_lon\": -122.4260,\n  \"bbox_north\": 37.7400,\n  \"bbox_south\": 37.7260,\n  \"bbox_east\": -122.4150,\n  \"bbox_west\": -122.4330,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates based on general area of Bernal Heights.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Bernal Heights",
+  "centroid_lat": 37.7334,
+  "centroid_lon": -122.426,
+  "bbox_north": 37.74,
+  "bbox_south": 37.726,
+  "bbox_east": -122.415,
+  "bbox_west": -122.433,
+  "confidence": "high",
+  "notes": "Coordinates based on general area of Bernal Heights."
+}

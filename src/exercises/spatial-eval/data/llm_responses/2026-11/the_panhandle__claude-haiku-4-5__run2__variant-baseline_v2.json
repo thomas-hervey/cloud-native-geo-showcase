@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Panhandle",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7695,\n  \"centroid_lon\": -122.4576,\n  \"bbox_north\": 37.7760,\n  \"bbox_south\": 37.7630,\n  \"bbox_east\": -122.4480,\n  \"bbox_west\": -122.4672,\n  \"confidence\": \"high\",\n  \"notes\": \"The Panhandle is the narrow western extension of Golden Gate Park, stretching eastward from the main park body toward the Haight-Ashbury neighborhood. Bounded approximately by Fell Street to the south, Oak Street to the north, Stanyan Street to the east, and the main Golden Gate Park to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.7695,
+  "centroid_lon": -122.4576,
+  "bbox_north": 37.776,
+  "bbox_south": 37.763,
+  "bbox_east": -122.448,
+  "bbox_west": -122.4672,
+  "confidence": "high",
+  "notes": "The Panhandle is the narrow western extension of Golden Gate Park, stretching eastward from the main park body toward the Haight-Ashbury neighborhood. Bounded approximately by Fell Street to the south, Oak Street to the north, Stanyan Street to the east, and the main Golden Gate Park to the west."
+}

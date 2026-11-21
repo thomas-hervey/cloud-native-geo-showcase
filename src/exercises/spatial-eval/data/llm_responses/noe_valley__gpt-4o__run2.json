@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Noe Valley",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Noe Valley\",\n  \"centroid_lat\": 37.7474,\n  \"centroid_lon\": -122.4337,\n  \"bbox_north\": 37.7550,\n  \"bbox_south\": 37.7400,\n  \"bbox_east\": -122.4240,\n  \"bbox_west\": -122.4390,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood maps.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Noe Valley",
+  "centroid_lat": 37.7474,
+  "centroid_lon": -122.4337,
+  "bbox_north": 37.755,
+  "bbox_south": 37.74,
+  "bbox_east": -122.424,
+  "bbox_west": -122.439,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood maps."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Mid-Market",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7793,\n  \"centroid_lon\": -122.4142,\n  \"bbox_north\": 37.7820,\n  \"bbox_south\": 37.7765,\n  \"bbox_east\": -122.4095,\n  \"bbox_west\": -122.4189,\n  \"confidence\": \"medium\",\n  \"notes\": \"Mid-Market is a recognized area along Market Street between 5th and 10th Streets.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7793,
+  "centroid_lon": -122.4142,
+  "bbox_north": 37.782,
+  "bbox_south": 37.7765,
+  "bbox_east": -122.4095,
+  "bbox_west": -122.4189,
+  "confidence": "medium",
+  "notes": "Mid-Market is a recognized area along Market Street between 5th and 10th Streets."
+}

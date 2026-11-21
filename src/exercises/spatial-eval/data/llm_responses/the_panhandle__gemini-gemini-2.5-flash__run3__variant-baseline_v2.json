@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Panhandle",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7735,\n  \"centroid_lon\": -122.4455,\n  \"bbox_north\": 37.776,\n  \"bbox_south\": 37.771,\n  \"bbox_east\": -122.438,\n  \"bbox_west\": -122.453,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.7735,
+  "centroid_lon": -122.4455,
+  "bbox_north": 37.776,
+  "bbox_south": 37.771,
+  "bbox_east": -122.438,
+  "bbox_west": -122.453,
+  "confidence": "high",
+  "notes": ""
+}

@@ -1,0 +1,29 @@
+{
+  "places": [
+    {"name": "Golden Gate Park", "tier": 1, "aliases": ["Golden Gate Park SF"]},
+    {"name": "Chinatown", "tier": 1, "aliases": ["San Francisco Chinatown"]},
+    {"name": "The Castro", "tier": 1, "aliases": ["Castro District SF"]},
+    {"name": "Fisherman's Wharf", "tier": 1, "aliases": ["Fishermans Wharf SF"], "active": false, "excluded_reason": "No polygon coverage in any GT source as of 2026-03-12"},
+    {"name": "North Beach", "tier": 2, "aliases": ["North Beach SF"]},
+    {"name": "The Richmond", "tier": 2, "aliases": ["Richmond District SF"]},
+    {"name": "The Mission", "tier": 2, "aliases": ["Mission District SF"]},
+    {"name": "The Tenderloin", "tier": 2, "aliases": ["Tenderloin SF"]},
+    {"name": "SoMa", "tier": 2, "aliases": ["South of Market SF"]},
+    {"name": "Haight-Ashbury", "tier": 2, "aliases": ["Haight Ashbury SF"]},
+    {"name": "The Sunset", "tier": 2, "aliases": ["Sunset District SF"]},
+    {"name": "The Dogpatch", "tier": 3, "aliases": ["Dogpatch SF"]},
+    {"name": "Outer Sunset", "tier": 3, "aliases": ["Outer Sunset SF"]},
+    {"name": "Visitacion Valley", "tier": 3, "aliases": ["Visitacion Valley SF"]},
+    {"name": "Noe Valley", "tier": 3, "aliases": ["Noe Valley SF"]},
+    {"name": "Excelsior", "tier": 3, "aliases": ["Excelsior District SF"]},
+    {"name": "Potrero Hill", "tier": 3, "aliases": ["Potrero Hill SF"]},
+    {"name": "Bernal Heights", "tier": 3, "aliases": ["Bernal Heights SF"]},
+    {"name": "Upper Haight", "tier": 4, "aliases": ["Upper Haight SF"]},
+    {"name": "Lower Haight", "tier": 4, "aliases": ["Lower Haight SF"]},
+    {"name": "Mid-Market", "tier": 4, "aliases": ["Mid Market SF"]},
+    {"name": "The Panhandle", "tier": 4, "aliases": ["Panhandle SF"]},
+    {"name": "Outer Richmond", "tier": 4, "aliases": ["Outer Richmond SF"]},
+    {"name": "Bayview", "tier": 3, "aliases": ["Bayview SF", "Bayview Hunters Point"]},
+    {"name": "Western Addition", "tier": 3, "aliases": ["Western Addition SF"]}
+  ]
+}

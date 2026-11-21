@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Outer Richmond",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.770,\n  \"centroid_lon\": -122.500,\n  \"bbox_north\": 37.785,\n  \"bbox_south\": 37.755,\n  \"bbox_east\": -122.485,\n  \"bbox_west\": -122.515,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximation of the Outer Richmond neighborhood, generally west of 25th Avenue, north of Golden Gate Park, and bordered by the Pacific Ocean to the north and west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.77,
+  "centroid_lon": -122.5,
+  "bbox_north": 37.785,
+  "bbox_south": 37.755,
+  "bbox_east": -122.485,
+  "bbox_west": -122.515,
+  "confidence": "high",
+  "notes": "Approximation of the Outer Richmond neighborhood, generally west of 25th Avenue, north of Golden Gate Park, and bordered by the Pacific Ocean to the north and west."
+}

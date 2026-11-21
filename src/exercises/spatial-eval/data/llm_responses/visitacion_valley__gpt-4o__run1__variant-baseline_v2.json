@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Visitacion Valley",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7135,\n  \"centroid_lon\": -122.4136,\n  \"bbox_north\": 37.7195,\n  \"bbox_south\": 37.7075,\n  \"bbox_east\": -122.4045,\n  \"bbox_west\": -122.4235,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is a recognized neighborhood in the southeastern part of San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley",
+  "centroid_lat": 37.7135,
+  "centroid_lon": -122.4136,
+  "bbox_north": 37.7195,
+  "bbox_south": 37.7075,
+  "bbox_east": -122.4045,
+  "bbox_west": -122.4235,
+  "confidence": "high",
+  "notes": "Visitacion Valley is a recognized neighborhood in the southeastern part of San Francisco."
+}

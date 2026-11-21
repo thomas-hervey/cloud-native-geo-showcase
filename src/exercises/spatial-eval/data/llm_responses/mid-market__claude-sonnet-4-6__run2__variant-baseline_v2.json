@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Mid-Market",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4155,\n  \"bbox_north\": 37.7820,\n  \"bbox_south\": 37.7750,\n  \"bbox_east\": -122.4050,\n  \"bbox_west\": -122.4260,\n  \"confidence\": \"medium\",\n  \"notes\": \"Mid-Market refers to the stretch of Market Street roughly between 5th Street and Van Ness Avenue, encompassing the surrounding blocks. The area is informally bounded and definitions vary, but this box captures the core Mid-Market district as locally recognized.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4155,
+  "bbox_north": 37.782,
+  "bbox_south": 37.775,
+  "bbox_east": -122.405,
+  "bbox_west": -122.426,
+  "confidence": "medium",
+  "notes": "Mid-Market refers to the stretch of Market Street roughly between 5th Street and Van Ness Avenue, encompassing the surrounding blocks. The area is informally bounded and definitions vary, but this box captures the core Mid-Market district as locally recognized."
+}

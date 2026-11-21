@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "SoMa",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market\",\n  \"centroid_lat\": 37.7786,\n  \"centroid_lon\": -122.4089,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7690,\n  \"bbox_east\": -122.3960,\n  \"bbox_west\": -122.4180,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa is commonly known as South of Market, a large neighborhood in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "_cached": false,
+  "place": "SoMa",
+  "resolved_place": "South of Market",
+  "centroid_lat": 37.7786,
+  "centroid_lon": -122.4089,
+  "bbox_north": 37.787,
+  "bbox_south": 37.769,
+  "bbox_east": -122.396,
+  "bbox_west": -122.418,
+  "confidence": "high",
+  "notes": "SoMa is commonly known as South of Market, a large neighborhood in San Francisco."
+}

@@ -1,0 +1,347 @@
+{
+  "generatedAt": "2026-11-19T00:10:41+00:00",
+  "referenceSource": "sf_planning",
+  "answers": {
+    "n": 660,
+    "medianIou": 0.361,
+    "shareAtLeast05": 0.26
+  },
+  "places": [
+    {
+      "place": "The Mission",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.748,
+      "medianCentroidErrM": 177
+    },
+    {
+      "place": "The Castro",
+      "tier": 1,
+      "n": 30,
+      "medianIou": 0.609,
+      "medianCentroidErrM": 203
+    },
+    {
+      "place": "Golden Gate Park",
+      "tier": 1,
+      "n": 30,
+      "medianIou": 0.584,
+      "medianCentroidErrM": 178
+    },
+    {
+      "place": "The Tenderloin",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.579,
+      "medianCentroidErrM": 184
+    },
+    {
+      "place": "Bernal Heights",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.486,
+      "medianCentroidErrM": 264
+    },
+    {
+      "place": "Bayview",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.481,
+      "medianCentroidErrM": 480
+    },
+    {
+      "place": "North Beach",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.471,
+      "medianCentroidErrM": 181
+    },
+    {
+      "place": "Noe Valley",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.43,
+      "medianCentroidErrM": 253
+    },
+    {
+      "place": "Outer Richmond",
+      "tier": 4,
+      "n": 30,
+      "medianIou": 0.409,
+      "medianCentroidErrM": 610
+    },
+    {
+      "place": "Potrero Hill",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.394,
+      "medianCentroidErrM": 613
+    },
+    {
+      "place": "Haight-Ashbury",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.389,
+      "medianCentroidErrM": 258
+    },
+    {
+      "place": "SoMa",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.381,
+      "medianCentroidErrM": 420
+    },
+    {
+      "place": "Chinatown",
+      "tier": 1,
+      "n": 30,
+      "medianIou": 0.361,
+      "medianCentroidErrM": 226
+    },
+    {
+      "place": "Upper Haight",
+      "tier": 4,
+      "n": 30,
+      "medianIou": 0.325,
+      "medianCentroidErrM": 317
+    },
+    {
+      "place": "Excelsior",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.306,
+      "medianCentroidErrM": 884
+    },
+    {
+      "place": "Western Addition",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.304,
+      "medianCentroidErrM": 407
+    },
+    {
+      "place": "Visitacion Valley",
+      "tier": 3,
+      "n": 30,
+      "medianIou": 0.262,
+      "medianCentroidErrM": 853
+    },
+    {
+      "place": "Lower Haight",
+      "tier": 4,
+      "n": 30,
+      "medianIou": 0.242,
+      "medianCentroidErrM": 420
+    },
+    {
+      "place": "Mid-Market",
+      "tier": 4,
+      "n": 30,
+      "medianIou": 0.219,
+      "medianCentroidErrM": 517
+    },
+    {
+      "place": "The Richmond",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.17,
+      "medianCentroidErrM": 1454
+    },
+    {
+      "place": "The Panhandle",
+      "tier": 4,
+      "n": 30,
+      "medianIou": 0.129,
+      "medianCentroidErrM": 517
+    },
+    {
+      "place": "The Sunset",
+      "tier": 2,
+      "n": 30,
+      "medianIou": 0.108,
+      "medianCentroidErrM": 2171
+    }
+  ],
+  "noOfficialPolygon": [
+    "Outer Sunset",
+    "The Dogpatch"
+  ],
+  "size": {
+    "n": 660,
+    "medianAreaRatio": 1.29,
+    "shareLargerThanOfficial": 0.65
+  },
+  "displaced": [
+    {
+      "place": "The Richmond",
+      "n": 30,
+      "medianEastM": -1436,
+      "medianNorthM": -358,
+      "medianAreaRatio": 4.4
+    },
+    {
+      "place": "The Sunset",
+      "n": 30,
+      "medianEastM": -1913,
+      "medianNorthM": -818,
+      "medianAreaRatio": 3.5
+    }
+  ],
+  "confidence": {
+    "n": 272,
+    "levels": {
+      "high": {
+        "n": 230,
+        "share": 0.85,
+        "medianIou": 0.334
+      },
+      "medium": {
+        "n": 42,
+        "share": 0.15,
+        "medianIou": 0.352
+      }
+    }
+  },
+  "repeatability": {
+    "cells": 220,
+    "medianRange": 0.058,
+    "shareOver02": 0.09
+  },
+  "referenceAgreement": {
+    "sources": [
+      "sf_planning",
+      "click_that_hood",
+      "zillow"
+    ],
+    "places": [
+      {
+        "place": "The Panhandle",
+        "n": 1,
+        "lowestIou": 0.0,
+        "highestIou": 0.0
+      },
+      {
+        "place": "North Beach",
+        "n": 3,
+        "lowestIou": 0.13,
+        "highestIou": 0.75
+      },
+      {
+        "place": "The Richmond",
+        "n": 3,
+        "lowestIou": 0.19,
+        "highestIou": 0.8
+      },
+      {
+        "place": "The Sunset",
+        "n": 3,
+        "lowestIou": 0.2,
+        "highestIou": 0.67
+      },
+      {
+        "place": "Western Addition",
+        "n": 3,
+        "lowestIou": 0.21,
+        "highestIou": 0.54
+      },
+      {
+        "place": "Chinatown",
+        "n": 3,
+        "lowestIou": 0.24,
+        "highestIou": 0.59
+      },
+      {
+        "place": "Haight-Ashbury",
+        "n": 3,
+        "lowestIou": 0.3,
+        "highestIou": 0.56
+      },
+      {
+        "place": "Upper Haight",
+        "n": 3,
+        "lowestIou": 0.3,
+        "highestIou": 0.56
+      },
+      {
+        "place": "Outer Richmond",
+        "n": 3,
+        "lowestIou": 0.31,
+        "highestIou": 0.71
+      },
+      {
+        "place": "Outer Sunset",
+        "n": 1,
+        "lowestIou": 0.32,
+        "highestIou": 0.32
+      },
+      {
+        "place": "The Castro",
+        "n": 3,
+        "lowestIou": 0.36,
+        "highestIou": 0.92
+      },
+      {
+        "place": "Excelsior",
+        "n": 3,
+        "lowestIou": 0.38,
+        "highestIou": 0.53
+      },
+      {
+        "place": "SoMa",
+        "n": 3,
+        "lowestIou": 0.4,
+        "highestIou": 0.58
+      },
+      {
+        "place": "Visitacion Valley",
+        "n": 3,
+        "lowestIou": 0.4,
+        "highestIou": 0.67
+      },
+      {
+        "place": "The Tenderloin",
+        "n": 1,
+        "lowestIou": 0.45,
+        "highestIou": 0.45
+      },
+      {
+        "place": "Potrero Hill",
+        "n": 3,
+        "lowestIou": 0.49,
+        "highestIou": 0.81
+      },
+      {
+        "place": "Bayview",
+        "n": 3,
+        "lowestIou": 0.49,
+        "highestIou": 0.92
+      },
+      {
+        "place": "Noe Valley",
+        "n": 3,
+        "lowestIou": 0.67,
+        "highestIou": 0.85
+      },
+      {
+        "place": "The Mission",
+        "n": 3,
+        "lowestIou": 0.86,
+        "highestIou": 0.94
+      },
+      {
+        "place": "Bernal Heights",
+        "n": 3,
+        "lowestIou": 0.86,
+        "highestIou": 0.94
+      },
+      {
+        "place": "Golden Gate Park",
+        "n": 3,
+        "lowestIou": 0.95,
+        "highestIou": 0.97
+      }
+    ],
+    "rankCorrelation": 0.62,
+    "correlationPlaces": 18
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Western Addition",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Western Addition\",\n  \"resolved_place\": \"Western Addition\",\n  \"centroid_lat\": 37.7755,\n  \"centroid_lon\": -122.4365,\n  \"bbox_north\": 37.7900,\n  \"bbox_south\": 37.7610,\n  \"bbox_east\": -122.4150,\n  \"bbox_west\": -122.4580,\n  \"confidence\": \"high\",\n  \"notes\": \"Historic neighborhood bounded approximately by Divisadero St (east), Fillmore St (west), Golden Gate Ave (north), and McAllister St (south). Includes the Fillmore District and Alamo Square areas.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Western Addition SF"
+  ],
+  "place": "Western Addition",
+  "resolved_place": "Western Addition",
+  "centroid_lat": 37.7755,
+  "centroid_lon": -122.4365,
+  "bbox_north": 37.79,
+  "bbox_south": 37.761,
+  "bbox_east": -122.415,
+  "bbox_west": -122.458,
+  "confidence": "high",
+  "notes": "Historic neighborhood bounded approximately by Divisadero St (east), Fillmore St (west), Golden Gate Ave (north), and McAllister St (south). Includes the Fillmore District and Alamo Square areas."
+}

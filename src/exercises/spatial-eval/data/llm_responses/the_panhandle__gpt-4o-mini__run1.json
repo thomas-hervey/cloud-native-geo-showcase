@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Panhandle",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4500,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7630,\n  \"bbox_east\": -122.4450,\n  \"bbox_west\": -122.4580,\n  \"confidence\": \"high\",\n  \"notes\": \"The Panhandle is a long, narrow park located adjacent to Golden Gate Park.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Panhandle",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.45,
+  "bbox_north": 37.775,
+  "bbox_south": 37.763,
+  "bbox_east": -122.445,
+  "bbox_west": -122.458,
+  "confidence": "high",
+  "notes": "The Panhandle is a long, narrow park located adjacent to Golden Gate Park."
+}

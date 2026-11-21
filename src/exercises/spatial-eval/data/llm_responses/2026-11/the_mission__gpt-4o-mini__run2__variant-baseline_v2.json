@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Mission",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"The Mission\",\n  \"resolved_place\": \"Mission District\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4194,\n  \"bbox_north\": 37.7665,\n  \"bbox_south\": 37.7485,\n  \"bbox_east\": -122.4080,\n  \"bbox_west\": -122.4260,\n  \"confidence\": \"high\",\n  \"notes\": \"Alias 'Mission District SF' confirms the neighborhood interpretation.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mission District SF"
+  ],
+  "_cached": false,
+  "place": "The Mission",
+  "resolved_place": "Mission District",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4194,
+  "bbox_north": 37.7665,
+  "bbox_south": 37.7485,
+  "bbox_east": -122.408,
+  "bbox_west": -122.426,
+  "confidence": "high",
+  "notes": "Alias 'Mission District SF' confirms the neighborhood interpretation."
+}

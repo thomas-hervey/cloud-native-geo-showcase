@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Sunset",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.744,\n  \"centroid_lon\": -122.480,\n  \"bbox_north\": 37.769,\n  \"bbox_south\": 37.719,\n  \"bbox_east\": -122.450,\n  \"bbox_west\": -122.510,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset, also known as the Sunset District, is a large neighborhood in the western part of San Francisco, extending from Golden Gate Park to Sloat Boulevard and from the Pacific Ocean to roughly 7th-12th Avenues.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.744,
+  "centroid_lon": -122.48,
+  "bbox_north": 37.769,
+  "bbox_south": 37.719,
+  "bbox_east": -122.45,
+  "bbox_west": -122.51,
+  "confidence": "high",
+  "notes": "The Sunset, also known as the Sunset District, is a large neighborhood in the western part of San Francisco, extending from Golden Gate Park to Sloat Boulevard and from the Pacific Ocean to roughly 7th-12th Avenues."
+}

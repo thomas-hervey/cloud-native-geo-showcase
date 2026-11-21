@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Haight-Ashbury",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7697,\n  \"centroid_lon\": -122.4469,\n  \"bbox_north\": 37.7725,\n  \"bbox_south\": 37.7669,\n  \"bbox_east\": -122.4425,\n  \"bbox_west\": -122.4513,\n  \"confidence\": \"high\",\n  \"notes\": \"Haight-Ashbury is a well-defined neighborhood in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Haight Ashbury SF"
+  ],
+  "_cached": false,
+  "place": "Haight-Ashbury",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.7697,
+  "centroid_lon": -122.4469,
+  "bbox_north": 37.7725,
+  "bbox_south": 37.7669,
+  "bbox_east": -122.4425,
+  "bbox_west": -122.4513,
+  "confidence": "high",
+  "notes": "Haight-Ashbury is a well-defined neighborhood in San Francisco."
+}

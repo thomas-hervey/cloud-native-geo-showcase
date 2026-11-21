@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+# Pre-commit hook: lint + JSON validation
+# Full `pnpm build` is intentionally omitted (too slow for pre-commit).
+# Run `pnpm build` manually before pushing, or rely on Vercel CI.
+
+set -e
+
+# Secret scan on staged changes. Skipped silently when gitleaks is not installed.
+if command -v gitleaks >/dev/null 2>&1; then
+  echo "Running gitleaks (staged)..."
+  gitleaks protect --staged --redact --no-banner
+fi
+
+echo "Running ESLint..."
+pnpm lint
+
+echo "Validating JSON files..."
+for f in src/content/**/*.json src/content/*.json; do
+  [ -f "$f" ] || continue
+  node -e "
+    try {
+      JSON.parse(require('fs').readFileSync('$f','utf8'));
+    } catch(e) {
+      console.error('JSON syntax error in $f:', e.message);
+      process.exit(1);
+    }
+  "
+done
+
+echo "Pre-commit checks passed."

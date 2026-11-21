@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Sunset",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.7595,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7755,\n  \"bbox_south\": 37.7435,\n  \"bbox_east\": -122.4680,\n  \"bbox_west\": -122.5044,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District is a well-established neighborhood in western San Francisco, bounded by Golden Gate Park to the north, the Pacific Ocean to the west, and extending eastward to approximately Arguello Boulevard.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.7595,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7755,
+  "bbox_south": 37.7435,
+  "bbox_east": -122.468,
+  "bbox_west": -122.5044,
+  "confidence": "high",
+  "notes": "The Sunset District is a well-established neighborhood in western San Francisco, bounded by Golden Gate Park to the north, the Pacific Ocean to the west, and extending eastward to approximately Arguello Boulevard."
+}

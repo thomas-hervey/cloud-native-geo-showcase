@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Sunset",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.750,\n  \"centroid_lon\": -122.495,\n  \"bbox_north\": 37.772,\n  \"bbox_south\": 37.720,\n  \"bbox_east\": -122.460,\n  \"bbox_west\": -122.515,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset, also known as the Sunset District, is a large residential neighborhood in the western part of San Francisco, bordered by Golden Gate Park to the north, the Pacific Ocean to the west, and Sloat Boulevard/Lake Merced to the south. Its eastern boundary is roughly 19th Avenue.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.75,
+  "centroid_lon": -122.495,
+  "bbox_north": 37.772,
+  "bbox_south": 37.72,
+  "bbox_east": -122.46,
+  "bbox_west": -122.515,
+  "confidence": "high",
+  "notes": "The Sunset, also known as the Sunset District, is a large residential neighborhood in the western part of San Francisco, bordered by Golden Gate Park to the north, the Pacific Ocean to the west, and Sloat Boulevard/Lake Merced to the south. Its eastern boundary is roughly 19th Avenue."
+}

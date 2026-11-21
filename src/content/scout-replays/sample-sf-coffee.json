@@ -1,0 +1,12 @@
+{
+  "id": "sample-sf-coffee",
+  "title": "[sample] Coffee shops in San Francisco",
+  "query": "Show coffee shops in San Francisco",
+  "sql": "LOAD spatial;\nSELECT id, name, category, lat, lon FROM places WHERE category = 'coffee_shop' LIMIT 200",
+  "narrative": "[sample] Placeholder narrative. Replace by recording a real run with scripts/record-scout-replay.ts.",
+  "count": 0,
+  "features": [],
+  "model": "claude-sonnet-4-6",
+  "recordedAt": null,
+  "approxCostUsd": 0
+}

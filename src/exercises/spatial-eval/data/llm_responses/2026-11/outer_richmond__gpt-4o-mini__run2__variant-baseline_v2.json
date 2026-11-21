@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Outer Richmond",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7751,\n  \"centroid_lon\": -122.4854,\n  \"bbox_north\": 37.7851,\n  \"bbox_south\": 37.7651,\n  \"bbox_east\": -122.4754,\n  \"bbox_west\": -122.4954,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is recognized as a distinct neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.7751,
+  "centroid_lon": -122.4854,
+  "bbox_north": 37.7851,
+  "bbox_south": 37.7651,
+  "bbox_east": -122.4754,
+  "bbox_west": -122.4954,
+  "confidence": "high",
+  "notes": "Outer Richmond is recognized as a distinct neighborhood in San Francisco."
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Upper Haight",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7699,\n  \"centroid_lon\": -122.4482,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7640,\n  \"bbox_east\": -122.4410,\n  \"bbox_west\": -122.4540,\n  \"confidence\": \"high\",\n  \"notes\": \"Upper Haight is known for its vibrant culture and historic significance.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Upper Haight",
+  "centroid_lat": 37.7699,
+  "centroid_lon": -122.4482,
+  "bbox_north": 37.775,
+  "bbox_south": 37.764,
+  "bbox_east": -122.441,
+  "bbox_west": -122.454,
+  "confidence": "high",
+  "notes": "Upper Haight is known for its vibrant culture and historic significance."
+}

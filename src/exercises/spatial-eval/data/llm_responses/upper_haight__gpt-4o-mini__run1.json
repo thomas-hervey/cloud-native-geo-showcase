@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Upper Haight",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7698,\n  \"centroid_lon\": -122.4483,\n  \"bbox_north\": 37.7760,\n  \"bbox_south\": 37.7640,\n  \"bbox_east\": -122.4410,\n  \"bbox_west\": -122.4540,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the general area of Upper Haight.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Upper Haight",
+  "centroid_lat": 37.7698,
+  "centroid_lon": -122.4483,
+  "bbox_north": 37.776,
+  "bbox_south": 37.764,
+  "bbox_east": -122.441,
+  "bbox_west": -122.454,
+  "confidence": "high",
+  "notes": "Coordinates represent the general area of Upper Haight."
+}

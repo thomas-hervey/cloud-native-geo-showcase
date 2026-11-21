@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Lower Haight",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7715,\n  \"centroid_lon\": -122.4314,\n  \"bbox_north\": 37.7785,\n  \"bbox_south\": 37.7645,\n  \"bbox_east\": -122.4220,\n  \"bbox_west\": -122.4408,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is bounded approximately by Fell Street to the north, Market Street to the south, Divisadero Street to the west, and Castro Street to the east. This neighborhood is distinct from the Upper Haight to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.7715,
+  "centroid_lon": -122.4314,
+  "bbox_north": 37.7785,
+  "bbox_south": 37.7645,
+  "bbox_east": -122.422,
+  "bbox_west": -122.4408,
+  "confidence": "high",
+  "notes": "Lower Haight is bounded approximately by Fell Street to the north, Market Street to the south, Divisadero Street to the west, and Castro Street to the east. This neighborhood is distinct from the Upper Haight to the west."
+}

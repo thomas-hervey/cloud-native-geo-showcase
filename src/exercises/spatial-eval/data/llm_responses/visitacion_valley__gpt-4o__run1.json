@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Visitacion Valley",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7125,\n  \"centroid_lon\": -122.4090,\n  \"bbox_north\": 37.7170,\n  \"bbox_south\": 37.7080,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"medium\",\n  \"notes\": \"Coordinates are approximate and based on neighborhood boundaries.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Visitacion Valley",
+  "centroid_lat": 37.7125,
+  "centroid_lon": -122.409,
+  "bbox_north": 37.717,
+  "bbox_south": 37.708,
+  "bbox_east": -122.402,
+  "bbox_west": -122.415,
+  "confidence": "medium",
+  "notes": "Coordinates are approximate and based on neighborhood boundaries."
+}

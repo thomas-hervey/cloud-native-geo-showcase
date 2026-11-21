@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Sunset",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"centroid_lat\": 37.7525,\n  \"centroid_lon\": -122.4850,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7300,\n  \"bbox_east\": -122.4550,\n  \"bbox_west\": -122.5100,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District spans from Stanyan Street west to the Pacific Ocean, and from Lincoln Way/Golden Gate Park south to Sloat Boulevard.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Sunset",
+  "centroid_lat": 37.7525,
+  "centroid_lon": -122.485,
+  "bbox_north": 37.775,
+  "bbox_south": 37.73,
+  "bbox_east": -122.455,
+  "bbox_west": -122.51,
+  "confidence": "high",
+  "notes": "The Sunset District spans from Stanyan Street west to the Pacific Ocean, and from Lincoln Way/Golden Gate Park south to Sloat Boulevard."
+}

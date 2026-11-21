@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "SoMa",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4056,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7695,\n  \"bbox_east\": -122.3880,\n  \"bbox_west\": -122.4220,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa (South of Market) is the well-known SF district bounded roughly by Market Street to the north, the Embarcadero/King Street to the east and south, and roughly 10th/Division Street to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "place": "SoMa",
+  "resolved_place": "South of Market",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4056,
+  "bbox_north": 37.787,
+  "bbox_south": 37.7695,
+  "bbox_east": -122.388,
+  "bbox_west": -122.422,
+  "confidence": "high",
+  "notes": "SoMa (South of Market) is the well-known SF district bounded roughly by Market Street to the north, the Embarcadero/King Street to the east and south, and roughly 10th/Division Street to the west."
+}

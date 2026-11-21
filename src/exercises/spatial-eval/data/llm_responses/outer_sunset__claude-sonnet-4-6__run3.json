@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Outer Sunset",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.7558,\n  \"centroid_lon\": -122.4960,\n  \"bbox_north\": 37.7710,\n  \"bbox_south\": 37.7390,\n  \"bbox_east\": -122.4730,\n  \"bbox_west\": -122.5110,\n  \"confidence\": \"high\",\n  \"notes\": \"The Outer Sunset district runs from approximately 19th Avenue to the Pacific Ocean, between Golden Gate Park and Sloat Boulevard.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Outer Sunset",
+  "centroid_lat": 37.7558,
+  "centroid_lon": -122.496,
+  "bbox_north": 37.771,
+  "bbox_south": 37.739,
+  "bbox_east": -122.473,
+  "bbox_west": -122.511,
+  "confidence": "high",
+  "notes": "The Outer Sunset district runs from approximately 19th Avenue to the Pacific Ocean, between Golden Gate Park and Sloat Boulevard."
+}

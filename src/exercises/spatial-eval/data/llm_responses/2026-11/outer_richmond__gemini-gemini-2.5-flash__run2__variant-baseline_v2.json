@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Outer Richmond",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.774,\n  \"centroid_lon\": -122.503,\n  \"bbox_north\": 37.788,\n  \"bbox_south\": 37.761,\n  \"bbox_east\": -122.490,\n  \"bbox_west\": -122.515,\n  \"confidence\": \"high\",\n  \"notes\": \"Covers the westernmost part of the Richmond District, from 32nd/33rd Ave west to the Pacific Ocean, and from Golden Gate Park north to the Pacific Ocean/Lands End.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.774,
+  "centroid_lon": -122.503,
+  "bbox_north": 37.788,
+  "bbox_south": 37.761,
+  "bbox_east": -122.49,
+  "bbox_west": -122.515,
+  "confidence": "high",
+  "notes": "Covers the westernmost part of the Richmond District, from 32nd/33rd Ave west to the Pacific Ocean, and from Golden Gate Park north to the Pacific Ocean/Lands End."
+}

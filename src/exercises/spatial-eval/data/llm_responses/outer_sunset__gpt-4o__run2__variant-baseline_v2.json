@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Outer Sunset",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Outer Sunset\",\n  \"resolved_place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.7541,\n  \"centroid_lon\": -122.4942,\n  \"bbox_north\": 37.7633,\n  \"bbox_south\": 37.7431,\n  \"bbox_east\": -122.4772,\n  \"bbox_west\": -122.5107,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Sunset is a well-defined neighborhood in the western part of San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Sunset SF"
+  ],
+  "place": "Outer Sunset",
+  "resolved_place": "Outer Sunset",
+  "centroid_lat": 37.7541,
+  "centroid_lon": -122.4942,
+  "bbox_north": 37.7633,
+  "bbox_south": 37.7431,
+  "bbox_east": -122.4772,
+  "bbox_west": -122.5107,
+  "confidence": "high",
+  "notes": "Outer Sunset is a well-defined neighborhood in the western part of San Francisco."
+}

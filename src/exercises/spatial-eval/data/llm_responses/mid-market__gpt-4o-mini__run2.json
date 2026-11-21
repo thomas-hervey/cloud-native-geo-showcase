@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Mid-Market",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7772,\n  \"centroid_lon\": -122.4137,\n  \"bbox_north\": 37.7820,\n  \"bbox_south\": 37.7730,\n  \"bbox_east\": -122.4040,\n  \"bbox_west\": -122.4210,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is known for its mix of commercial and residential spaces.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Mid-Market",
+  "centroid_lat": 37.7772,
+  "centroid_lon": -122.4137,
+  "bbox_north": 37.782,
+  "bbox_south": 37.773,
+  "bbox_east": -122.404,
+  "bbox_west": -122.421,
+  "confidence": "high",
+  "notes": "Mid-Market is known for its mix of commercial and residential spaces."
+}

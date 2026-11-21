@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Chinatown",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Chinatown\",\n  \"centroid_lat\": 37.7941,\n  \"centroid_lon\": -122.4078,\n  \"bbox_north\": 37.7985,\n  \"bbox_south\": 37.7910,\n  \"bbox_east\": -122.4030,\n  \"bbox_west\": -122.4100,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the general area of Chinatown in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Chinatown",
+  "centroid_lat": 37.7941,
+  "centroid_lon": -122.4078,
+  "bbox_north": 37.7985,
+  "bbox_south": 37.791,
+  "bbox_east": -122.403,
+  "bbox_west": -122.41,
+  "confidence": "high",
+  "notes": "Coordinates represent the general area of Chinatown in San Francisco."
+}

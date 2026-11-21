@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Dogpatch",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Dogpatch\",\n  \"centroid_lat\": 37.7597,\n  \"centroid_lon\": -122.3929,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7515,\n  \"bbox_east\": -122.3850,\n  \"bbox_west\": -122.4008,\n  \"confidence\": \"high\",\n  \"notes\": \"Dogpatch is a neighborhood in southeastern San Francisco, bounded roughly by the Bay to the east and 22nd Street to the north.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Dogpatch",
+  "centroid_lat": 37.7597,
+  "centroid_lon": -122.3929,
+  "bbox_north": 37.768,
+  "bbox_south": 37.7515,
+  "bbox_east": -122.385,
+  "bbox_west": -122.4008,
+  "confidence": "high",
+  "notes": "Dogpatch is a neighborhood in southeastern San Francisco, bounded roughly by the Bay to the east and 22nd Street to the north."
+}

@@ -1,0 +1,24 @@
+{
+  "_model": "gpt-4o",
+  "_place": "North Beach",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach\",\n  \"geometry\": {\n    \"type\": \"Polygon\",\n    \"coordinates\": [\n      [\n        [-122.4107, 37.8061],\n        [-122.4107, 37.8000],\n        [-122.4043, 37.8000],\n        [-122.4043, 37.8061],\n        [-122.4107, 37.8061]\n      ]\n    ]\n  },\n  \"confidence\": \"high\",\n  \"notes\": \"North Beach is a well-defined neighborhood in San Francisco known for its Italian heritage and proximity to Fisherman's Wharf.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "geojson_polygon",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "_cached": false,
+  "place": "North Beach",
+  "resolved_place": "North Beach",
+  "confidence": "high",
+  "notes": "North Beach is a well-defined neighborhood in San Francisco known for its Italian heritage and proximity to Fisherman's Wharf.",
+  "centroid_lat": 37.80305,
+  "centroid_lon": -122.4075,
+  "bbox_west": -122.4107,
+  "bbox_south": 37.8,
+  "bbox_east": -122.4043,
+  "bbox_north": 37.8061,
+  "polygon_wkt": "POLYGON ((-122.4107 37.8061, -122.4107 37.8, -122.4043 37.8, -122.4043 37.8061, -122.4107 37.8061))"
+}

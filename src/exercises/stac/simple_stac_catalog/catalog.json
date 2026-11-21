@@ -1,0 +1,26 @@
+{
+  "type": "Catalog",
+  "id": "simple-stac-catalog",
+  "stac_version": "1.1.0",
+  "description": "A simple STAC catalog for learning purposes",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/catalog.json",
+      "type": "application/json",
+      "title": "Simple STAC Catalog"
+    },
+    {
+      "rel": "child",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/landsat-collection/collection.json",
+      "type": "application/json",
+      "title": "Landsat Collection"
+    },
+    {
+      "rel": "self",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "title": "Simple STAC Catalog"
+}

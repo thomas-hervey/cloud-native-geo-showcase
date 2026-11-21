@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Western Addition",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Western Addition\",\n  \"centroid_lat\": 37.7806,\n  \"centroid_lon\": -122.4344,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7740,\n  \"bbox_east\": -122.4190,\n  \"bbox_west\": -122.4490,\n  \"confidence\": \"medium\",\n  \"notes\": \"Western Addition is roughly bounded by Divisadero/Broderick to the west, Van Ness to the east, Geary to the north, and Fell/Oak to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Western Addition",
+  "centroid_lat": 37.7806,
+  "centroid_lon": -122.4344,
+  "bbox_north": 37.787,
+  "bbox_south": 37.774,
+  "bbox_east": -122.419,
+  "bbox_west": -122.449,
+  "confidence": "medium",
+  "notes": "Western Addition is roughly bounded by Divisadero/Broderick to the west, Van Ness to the east, Geary to the north, and Fell/Oak to the south."
+}

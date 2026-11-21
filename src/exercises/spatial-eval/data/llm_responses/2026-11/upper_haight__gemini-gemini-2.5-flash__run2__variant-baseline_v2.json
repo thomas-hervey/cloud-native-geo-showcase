@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Upper Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"resolved_place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7660,\n  \"centroid_lon\": -122.4520,\n  \"bbox_north\": 37.7700,\n  \"bbox_south\": 37.7620,\n  \"bbox_east\": -122.4490,\n  \"bbox_west\": -122.4550,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Upper Haight SF"
+  ],
+  "_cached": false,
+  "place": "Upper Haight",
+  "resolved_place": "Upper Haight",
+  "centroid_lat": 37.766,
+  "centroid_lon": -122.452,
+  "bbox_north": 37.77,
+  "bbox_south": 37.762,
+  "bbox_east": -122.449,
+  "bbox_west": -122.455,
+  "confidence": "high",
+  "notes": ""
+}

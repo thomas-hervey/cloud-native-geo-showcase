@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Excelsior",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Excelsior\",\n  \"resolved_place\": \"Excelsior District\",\n  \"centroid_lat\": 37.7250,\n  \"centroid_lon\": -122.4150,\n  \"bbox_north\": 37.7450,\n  \"bbox_south\": 37.7050,\n  \"bbox_east\": -122.3950,\n  \"bbox_west\": -122.4350,\n  \"confidence\": \"high\",\n  \"notes\": \"Excelsior District is a well-established neighborhood in southeastern San Francisco, bounded approximately by Mission Street to the north, Alemany Boulevard to the south, Mission Street to the west, and San Jose Avenue to the east.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Excelsior District SF"
+  ],
+  "_cached": false,
+  "place": "Excelsior",
+  "resolved_place": "Excelsior District",
+  "centroid_lat": 37.725,
+  "centroid_lon": -122.415,
+  "bbox_north": 37.745,
+  "bbox_south": 37.705,
+  "bbox_east": -122.395,
+  "bbox_west": -122.435,
+  "confidence": "high",
+  "notes": "Excelsior District is a well-established neighborhood in southeastern San Francisco, bounded approximately by Mission Street to the north, Alemany Boulevard to the south, Mission Street to the west, and San Jose Avenue to the east."
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "North Beach",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"North Beach\",\n  \"centroid_lat\": 37.8061,\n  \"centroid_lon\": -122.4103,\n  \"bbox_north\": 37.8120,\n  \"bbox_south\": 37.7990,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4180,\n  \"confidence\": \"high\",\n  \"notes\": \"North Beach is a neighborhood in northeastern San Francisco bounded roughly by Columbus Avenue, the Embarcadero, and the base of Telegraph Hill.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "North Beach",
+  "centroid_lat": 37.8061,
+  "centroid_lon": -122.4103,
+  "bbox_north": 37.812,
+  "bbox_south": 37.799,
+  "bbox_east": -122.402,
+  "bbox_west": -122.418,
+  "confidence": "high",
+  "notes": "North Beach is a neighborhood in northeastern San Francisco bounded roughly by Columbus Avenue, the Embarcadero, and the base of Telegraph Hill."
+}

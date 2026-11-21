@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PMTiles Serverless Demo</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script
+            src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"
+        ></script>
+        <link
+            href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css"
+            rel="stylesheet"
+        />
+        <script src="https://unpkg.com/pmtiles@2.11.0/dist/index.js"></script>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: sans-serif;
+            }
+            #map {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                width: 100%;
+            }
+            .overlay {
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                background: rgba(255, 255, 255, 0.9);
+                padding: 15px;
+                border-radius: 8px;
+                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+                max-width: 300px;
+                z-index: 1000;
+            }
+            h2 {
+                margin: 0 0 10px 0;
+                font-size: 18px;
+                color: #333;
+            }
+            p {
+                font-size: 14px;
+                color: #666;
+                line-height: 1.4;
+            }
+            code {
+                background: #eee;
+                padding: 2px 4px;
+                border-radius: 4px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="overlay">
+            <h2>Serverless PMTiles</h2>
+            <p>
+                This map loads data directly from a single <code>.pmtiles</code>
+                file using <b>HTTP Range Requests</b>.
+            </p>
+            <p>
+                There is <b>no tile server</b>. The brownser only fetches the
+                bytes it needs for the current view.
+            </p>
+        </div>
+
+        <div id="map"></div>
+
+        <script>
+            // 1. Initialize PMTiles protocol
+            let protocol = new pmtiles.Protocol();
+            maplibregl.addProtocol("pmtiles", protocol.tile);
+
+            // 2. Define the path to your PMTiles file
+            // In this lab, we assume the file is served from the same directory
+            const PMTILES_URL = "data/demo.pmtiles";
+
+            const map = new maplibregl.Map({
+                container: "map",
+                style:
+                    "https://demotiles.maplibre.org/style.json", // Basic basemap
+                center: [0, 0],
+                zoom: 1,
+            });
+
+            map.on("load", () => {
+                // 3. Add the PMTiles source
+                map.addSource("pmtiles-demo", {
+                    type: "vector",
+                    url: `pmtiles://${PMTILES_URL}`,
+                });
+
+                // 4. Add a layer to visualize the data
+                map.addLayer({
+                    "id": "points-layer",
+                    "type": "circle",
+                    "source": "pmtiles-demo",
+                    "source-layer": "points",
+                    "paint": {
+                        "circle-radius": 10,
+                        "circle-color": "#ff4400",
+                        "circle-stroke-width": 2,
+                        "circle-stroke-color": "#ffffff",
+                    },
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Dogpatch",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Dogpatch\",\n  \"resolved_place\": \"Dogpatch\",\n  \"centroid_lat\": 37.7605,\n  \"centroid_lon\": -122.3913,\n  \"bbox_north\": 37.7650,\n  \"bbox_south\": 37.7560,\n  \"bbox_east\": -122.3840,\n  \"bbox_west\": -122.3950,\n  \"confidence\": \"high\",\n  \"notes\": \"Dogpatch is a recognized neighborhood in San Francisco, located along the eastern waterfront.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Dogpatch SF"
+  ],
+  "_cached": false,
+  "place": "The Dogpatch",
+  "resolved_place": "Dogpatch",
+  "centroid_lat": 37.7605,
+  "centroid_lon": -122.3913,
+  "bbox_north": 37.765,
+  "bbox_south": 37.756,
+  "bbox_east": -122.384,
+  "bbox_west": -122.395,
+  "confidence": "high",
+  "notes": "Dogpatch is a recognized neighborhood in San Francisco, located along the eastern waterfront."
+}

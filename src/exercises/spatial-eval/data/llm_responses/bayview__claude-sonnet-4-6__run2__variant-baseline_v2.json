@@ -1,0 +1,24 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Bayview",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Bayview\",\n  \"resolved_place\": \"Bayview Hunters Point\",\n  \"centroid_lat\": 37.7340,\n  \"centroid_lon\": -122.3890,\n  \"bbox_north\": 37.7580,\n  \"bbox_south\": 37.7080,\n  \"bbox_east\": -122.3580,\n  \"bbox_west\": -122.4180,\n  \"confidence\": \"high\",\n  \"notes\": \"Resolved to Bayview Hunters Point, the southeastern San Francisco neighborhood bounded roughly by Cesar Chavez to the north, US-101 to the west, and the bay to the east and south.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bayview SF",
+    "Bayview Hunters Point"
+  ],
+  "place": "Bayview",
+  "resolved_place": "Bayview Hunters Point",
+  "centroid_lat": 37.734,
+  "centroid_lon": -122.389,
+  "bbox_north": 37.758,
+  "bbox_south": 37.708,
+  "bbox_east": -122.358,
+  "bbox_west": -122.418,
+  "confidence": "high",
+  "notes": "Resolved to Bayview Hunters Point, the southeastern San Francisco neighborhood bounded roughly by Cesar Chavez to the north, US-101 to the west, and the bay to the east and south."
+}

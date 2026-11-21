@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DuckDB-Wasm Spatial Join</title>
+    <style>
+        body { font-family: -apple-system, system-ui, sans-serif; margin: 0; display: flex; flex-direction: column; height: 100vh; }
+        #header { padding: 15px 20px; background: #111827; color: white; display: flex; justify-content: space-between; align-items: center; }
+        #container { flex: 1; display: flex; }
+        #sidebar { width: 350px; padding: 20px; border-right: 1px solid #ddd; overflow-y: auto; background: #f9fafb; }
+        #map { flex: 1; }
+        .btn { background: #2563eb; color: white; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-weight: 600; width: 100%; margin-top: 10px; }
+        .btn:disabled { background: #9ca3af; cursor: not-allowed; }
+        .status { font-size: 13px; color: #6b7280; margin-bottom: 15px; }
+        pre { background: #eee; padding: 10px; border-radius: 4px; font-size: 12px; white-space: pre-wrap; word-break: break-all; }
+    </style>
+</head>
+<body>
+
+    <div id="header">
+        <div style="font-weight: bold; font-size: 18px;">DuckDB-Wasm: Client-Side Spatial Join</div>
+        <div id="engine-status">Initializing...</div>
+    </div>
+
+    <div id="container">
+        <div id="sidebar">
+            <p><strong>Goal:</strong> Find all synthetic "places" inside a specific SF neighborhood zone using SQL.</p>
+            
+            <div class="status" id="load-status">Wait for engine...</div>
+
+            <h3>The Spatial Query</h3>
+            <pre id="sql-preview">
+-- 1. Create points from lon/lat
+-- 2. Join with neighborhood polygon
+SELECT id, category, score 
+FROM places, neighborhood
+WHERE ST_Intersects(
+    ST_Point(places.lon, places.lat), 
+    neighborhood.geom
+);
+            </pre>
+
+            <button id="run-btn" class="btn" disabled>Run Spatial Join</button>
+            
+            <div id="results-count" style="margin-top: 20px; font-weight: bold;"></div>
+            <div id="log" style="font-size: 12px; color: #555; margin-top: 10px;"></div>
+        </div>
+        <div id="map"></div>
+    </div>
+
+    <script type="module" src="./main_spatial.js"></script>
+</body>
+</html>

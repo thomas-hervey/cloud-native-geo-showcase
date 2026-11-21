@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Haight-Ashbury",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7770,\n  \"bbox_south\": 37.7618,\n  \"bbox_east\": -122.4735,\n  \"bbox_west\": -122.4989,\n  \"confidence\": \"high\",\n  \"notes\": \"Classic San Francisco neighborhood centered at the intersection of Haight and Ashbury Streets, bounded approximately by Stanyan St (west), Divisadero St (east), Golden Gate Ave (north), and Waller St (south).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Haight Ashbury SF"
+  ],
+  "place": "Haight-Ashbury",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.777,
+  "bbox_south": 37.7618,
+  "bbox_east": -122.4735,
+  "bbox_west": -122.4989,
+  "confidence": "high",
+  "notes": "Classic San Francisco neighborhood centered at the intersection of Haight and Ashbury Streets, bounded approximately by Stanyan St (west), Divisadero St (east), Golden Gate Ave (north), and Waller St (south)."
+}

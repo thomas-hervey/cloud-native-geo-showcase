@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Visitacion Valley",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7201,\n  \"centroid_lon\": -122.4094,\n  \"bbox_north\": 37.7275,\n  \"bbox_south\": 37.7110,\n  \"bbox_east\": -122.3960,\n  \"bbox_west\": -122.4260,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates are based on the general area of Visitacion Valley.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Visitacion Valley",
+  "centroid_lat": 37.7201,
+  "centroid_lon": -122.4094,
+  "bbox_north": 37.7275,
+  "bbox_south": 37.711,
+  "bbox_east": -122.396,
+  "bbox_west": -122.426,
+  "confidence": "high",
+  "notes": "Coordinates are based on the general area of Visitacion Valley."
+}

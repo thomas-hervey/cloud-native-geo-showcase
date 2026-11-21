@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Upper Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7699,\n  \"centroid_lon\": -122.4469,\n  \"bbox_north\": 37.7725,\n  \"bbox_south\": 37.7673,\n  \"bbox_east\": -122.4416,\n  \"bbox_west\": -122.4522,\n  \"confidence\": \"high\",\n  \"notes\": \"Upper Haight is commonly associated with the Haight-Ashbury neighborhood.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Upper Haight SF"
+  ],
+  "place": "Upper Haight",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.7699,
+  "centroid_lon": -122.4469,
+  "bbox_north": 37.7725,
+  "bbox_south": 37.7673,
+  "bbox_east": -122.4416,
+  "bbox_west": -122.4522,
+  "confidence": "high",
+  "notes": "Upper Haight is commonly associated with the Haight-Ashbury neighborhood."
+}

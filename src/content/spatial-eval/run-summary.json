@@ -1,0 +1,434 @@
+{
+  "generatedAt": "2026-11-12T16:08:26+00:00",
+  "referenceSource": "sf_planning",
+  "variantId": "baseline_v2",
+  "placeCount": 24,
+  "periods": [
+    {
+      "id": "2026-03",
+      "label": "March 2026",
+      "firstRunAt": "2026-03-21",
+      "lastRunAt": "2026-03-21",
+      "models": [
+        {
+          "modelId": "gpt-4o",
+          "displayName": "GPT-4o",
+          "provider": "openai",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.427,
+          "medianCentroidErrM": 271.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.595,
+              "medianCentroidErrM": 212.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.445,
+              "medianCentroidErrM": 246.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.445,
+              "medianCentroidErrM": 378.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.245,
+              "medianCentroidErrM": 334.0
+            }
+          ]
+        },
+        {
+          "modelId": "claude-sonnet-4-6",
+          "displayName": "Claude Sonnet 4.6",
+          "provider": "anthropic",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.421,
+          "medianCentroidErrM": 304.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.619,
+              "medianCentroidErrM": 203.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.437,
+              "medianCentroidErrM": 199.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.394,
+              "medianCentroidErrM": 403.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.405,
+              "medianCentroidErrM": 482.0
+            }
+          ]
+        },
+        {
+          "modelId": "gemini/gemini-2.5-flash",
+          "displayName": "Gemini 2.5 Flash",
+          "provider": "google",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.359,
+          "medianCentroidErrM": 384.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.576,
+              "medianCentroidErrM": 258.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.449,
+              "medianCentroidErrM": 333.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.419,
+              "medianCentroidErrM": 432.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.255,
+              "medianCentroidErrM": 673.0
+            }
+          ]
+        },
+        {
+          "modelId": "gpt-4o-mini",
+          "displayName": "GPT-4o Mini",
+          "provider": "openai",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.266,
+          "medianCentroidErrM": 627.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.421,
+              "medianCentroidErrM": 203.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.342,
+              "medianCentroidErrM": 389.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.227,
+              "medianCentroidErrM": 882.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.22,
+              "medianCentroidErrM": 566.0
+            }
+          ]
+        },
+        {
+          "modelId": "claude-haiku-4-5",
+          "displayName": "Claude Haiku 4.5",
+          "provider": "anthropic",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.225,
+          "medianCentroidErrM": 476.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.321,
+              "medianCentroidErrM": 212.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.179,
+              "medianCentroidErrM": 817.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.191,
+              "medianCentroidErrM": 465.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.293,
+              "medianCentroidErrM": 632.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11",
+      "label": "November 2026",
+      "firstRunAt": "2026-11-12",
+      "lastRunAt": "2026-11-12",
+      "models": [
+        {
+          "modelId": "claude-sonnet-4-6",
+          "displayName": "Claude Sonnet 4.6",
+          "provider": "anthropic",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.439,
+          "medianCentroidErrM": 284.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.613,
+              "medianCentroidErrM": 203.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.432,
+              "medianCentroidErrM": 199.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.394,
+              "medianCentroidErrM": 403.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.439,
+              "medianCentroidErrM": 487.0
+            }
+          ]
+        },
+        {
+          "modelId": "gemini/gemini-2.5-flash",
+          "displayName": "Gemini 2.5 Flash",
+          "provider": "google",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.398,
+          "medianCentroidErrM": 416.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.504,
+              "medianCentroidErrM": 258.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.415,
+              "medianCentroidErrM": 350.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.423,
+              "medianCentroidErrM": 485.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.238,
+              "medianCentroidErrM": 503.0
+            }
+          ]
+        },
+        {
+          "modelId": "gpt-4o",
+          "displayName": "GPT-4o",
+          "provider": "openai",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.398,
+          "medianCentroidErrM": 265.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.603,
+              "medianCentroidErrM": 215.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.407,
+              "medianCentroidErrM": 259.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.429,
+              "medianCentroidErrM": 380.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.212,
+              "medianCentroidErrM": 395.0
+            }
+          ]
+        },
+        {
+          "modelId": "gpt-4o-mini",
+          "displayName": "GPT-4o Mini",
+          "provider": "openai",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.354,
+          "medianCentroidErrM": 593.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.412,
+              "medianCentroidErrM": 163.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.399,
+              "medianCentroidErrM": 259.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.251,
+              "medianCentroidErrM": 868.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.369,
+              "medianCentroidErrM": 511.0
+            }
+          ]
+        },
+        {
+          "modelId": "claude-haiku-4-5",
+          "displayName": "Claude Haiku 4.5",
+          "provider": "anthropic",
+          "successorOf": null,
+          "n": 72,
+          "nValid": 66,
+          "medianIou": 0.215,
+          "medianCentroidErrM": 523.0,
+          "places": 24,
+          "tiers": [
+            {
+              "tier": 1,
+              "n": 9,
+              "nValid": 9,
+              "medianIou": 0.321,
+              "medianCentroidErrM": 185.0
+            },
+            {
+              "tier": 2,
+              "n": 21,
+              "nValid": 21,
+              "medianIou": 0.167,
+              "medianCentroidErrM": 608.0
+            },
+            {
+              "tier": 3,
+              "n": 27,
+              "nValid": 21,
+              "medianIou": 0.245,
+              "medianCentroidErrM": 465.0
+            },
+            {
+              "tier": 4,
+              "n": 15,
+              "nValid": 15,
+              "medianIou": 0.259,
+              "medianCentroidErrM": 776.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

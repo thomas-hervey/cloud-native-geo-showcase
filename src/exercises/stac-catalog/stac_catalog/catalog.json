@@ -1,0 +1,21 @@
+{
+  "type": "Catalog",
+  "id": "automation-lab-catalog",
+  "stac_version": "1.1.0",
+  "description": "A catalog generated automatically from a directory of COGs.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json",
+      "title": "Automated Production Catalog"
+    },
+    {
+      "rel": "child",
+      "href": "./processed-imagery/collection.json",
+      "type": "application/json",
+      "title": "Processed Imagery Collection"
+    }
+  ],
+  "title": "Automated Production Catalog"
+}

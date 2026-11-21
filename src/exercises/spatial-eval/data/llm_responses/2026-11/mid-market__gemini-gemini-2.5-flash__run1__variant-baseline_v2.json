@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Mid-Market",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.782,\n  \"centroid_lon\": -122.413,\n  \"bbox_north\": 37.784,\n  \"bbox_south\": 37.780,\n  \"bbox_east\": -122.409,\n  \"bbox_west\": -122.417,\n  \"confidence\": \"high\",\n  \"notes\": \"Covers the stretch of Market Street between approximately 6th Street and 10th Street, extending a block or two north and south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "_cached": false,
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.782,
+  "centroid_lon": -122.413,
+  "bbox_north": 37.784,
+  "bbox_south": 37.78,
+  "bbox_east": -122.409,
+  "bbox_west": -122.417,
+  "confidence": "high",
+  "notes": "Covers the stretch of Market Street between approximately 6th Street and 10th Street, extending a block or two north and south."
+}

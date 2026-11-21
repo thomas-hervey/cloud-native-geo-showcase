@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Outer Richmond",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7787,\n  \"centroid_lon\": -122.4934,\n  \"bbox_north\": 37.7834,\n  \"bbox_south\": 37.7740,\n  \"bbox_east\": -122.4797,\n  \"bbox_west\": -122.5090,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood maps.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Outer Richmond",
+  "centroid_lat": 37.7787,
+  "centroid_lon": -122.4934,
+  "bbox_north": 37.7834,
+  "bbox_south": 37.774,
+  "bbox_east": -122.4797,
+  "bbox_west": -122.509,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood maps."
+}

@@ -1,0 +1,24 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Mission",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Mission\",\n  \"resolved_place\": \"Mission District SF\",\n  \"geometry\": {\n    \"type\": \"Polygon\",\n    \"coordinates\": [\n      [\n        [-122.426, 37.759],\n        [-122.426, 37.748],\n        [-122.417, 37.748],\n        [-122.417, 37.759],\n        [-122.426, 37.759]\n      ]\n    ]\n  },\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates approximate the boundaries of the Mission District.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "geojson_polygon",
+  "_place_aliases": [
+    "Mission District SF"
+  ],
+  "_cached": false,
+  "place": "The Mission",
+  "resolved_place": "Mission District SF",
+  "confidence": "high",
+  "notes": "Coordinates approximate the boundaries of the Mission District.",
+  "centroid_lat": 37.7535,
+  "centroid_lon": -122.4215,
+  "bbox_west": -122.426,
+  "bbox_south": 37.748,
+  "bbox_east": -122.417,
+  "bbox_north": 37.759,
+  "polygon_wkt": "POLYGON ((-122.426 37.759, -122.426 37.748, -122.417 37.748, -122.417 37.759, -122.426 37.759))"
+}

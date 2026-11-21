@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Sunset",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.7534,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7631,\n  \"bbox_south\": 37.7359,\n  \"bbox_east\": -122.4696,\n  \"bbox_west\": -122.5107,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset refers to the Sunset District in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.7534,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7631,
+  "bbox_south": 37.7359,
+  "bbox_east": -122.4696,
+  "bbox_west": -122.5107,
+  "confidence": "high",
+  "notes": "The Sunset refers to the Sunset District in San Francisco."
+}

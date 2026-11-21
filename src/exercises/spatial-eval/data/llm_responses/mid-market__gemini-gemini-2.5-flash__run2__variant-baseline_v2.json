@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Mid-Market",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7815,\n  \"centroid_lon\": -122.41315,\n  \"bbox_north\": 37.7848,\n  \"bbox_south\": 37.7782,\n  \"bbox_east\": -122.4085,\n  \"bbox_west\": -122.4178,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is generally defined as the area around Market Street between 5th and 10th Streets, extending a few blocks north to Golden Gate Avenue and south to Mission Street.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "_cached": false,
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7815,
+  "centroid_lon": -122.41315,
+  "bbox_north": 37.7848,
+  "bbox_south": 37.7782,
+  "bbox_east": -122.4085,
+  "bbox_west": -122.4178,
+  "confidence": "high",
+  "notes": "Mid-Market is generally defined as the area around Market Street between 5th and 10th Streets, extending a few blocks north to Golden Gate Avenue and south to Mission Street."
+}

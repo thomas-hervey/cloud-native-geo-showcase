@@ -1,0 +1,32 @@
+name: Scout Tests
+
+on:
+  push:
+    branches: [develop, main, 'feature/TEST_*']
+  pull_request:
+    branches: [develop, main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run tests
+        run: pnpm test --reporter=verbose
+
+      - name: Coverage report
+        run: pnpm test:coverage

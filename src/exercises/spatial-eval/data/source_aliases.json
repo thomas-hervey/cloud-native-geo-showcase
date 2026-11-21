@@ -1,0 +1,196 @@
+{
+  "_note": "Manually verified — use this tab to review and update.",
+  "_todo": "Long-term: replace with a sync script that auto-generates this mapping and flags mismatches.",
+  "Bayview": {
+    "osm": "Bayview-Hunters Point",
+    "wikidata": "Bayview-Hunters Point",
+    "click_that_hood": "Bayview",
+    "sf_planning": "Bayview Hunters Point",
+    "osm_overpass": "Bayview-Hunters Point",
+    "zillow": "Bayview"
+  },
+  "Bernal Heights": {
+    "osm": "Bernal Heights",
+    "wikidata": "Bernal Heights, San Francisco",
+    "click_that_hood": "Bernal Heights",
+    "sf_planning": "Bernal Heights",
+    "osm_overpass": "Bernal Heights",
+    "zillow": "Bernal Heights"
+  },
+  "Chinatown": {
+    "osm": "Chinatown",
+    "wikidata": "Chinatown, San Francisco",
+    "click_that_hood": "Chinatown",
+    "sf_planning": "Chinatown",
+    "osm_overpass": "Chinatown",
+    "zillow": "Chinatown"
+  },
+  "Excelsior": {
+    "osm": "Excelsior District",
+    "wikidata": "Excelsior District, San Francisco",
+    "click_that_hood": "Excelsior",
+    "sf_planning": "Excelsior",
+    "osm_overpass": "Excelsior District",
+    "zillow": "Excelsior"
+  },
+  "Golden Gate Park": {
+    "osm": "Golden Gate Park",
+    "wikidata": "Golden Gate Park",
+    "click_that_hood": "Golden Gate Park",
+    "sf_planning": "Golden Gate Park",
+    "osm_overpass": "Golden Gate Park",
+    "zillow": "Golden Gate Park"
+  },
+  "Haight-Ashbury": {
+    "osm": "Haight-Ashbury",
+    "wikidata": "Haight-Ashbury",
+    "click_that_hood": "Haight Ashbury",
+    "sf_planning": "Haight Ashbury",
+    "osm_overpass": "Haight-Ashbury",
+    "zillow": "Haight-Ashbury"
+  },
+  "Lower Haight": {
+    "osm": "Lower Haight",
+    "wikidata": "Lower Haight",
+    "click_that_hood": "Lower Haight",
+    "sf_planning": "Hayes Valley",
+    "osm_overpass": "Lower Haight",
+    "zillow": null
+  },
+  "Mid-Market": {
+    "osm": "Mid-Market",
+    "wikidata": "Mid-Market, San Francisco",
+    "click_that_hood": "Mid-Market",
+    "sf_planning": "Tenderloin",
+    "osm_overpass": "Mid-Market",
+    "zillow": null
+  },
+  "Noe Valley": {
+    "osm": "Noe Valley",
+    "wikidata": "Noe Valley, San Francisco",
+    "click_that_hood": "Noe Valley",
+    "sf_planning": "Noe Valley",
+    "osm_overpass": "Noe Valley",
+    "zillow": "Noe Valley"
+  },
+  "North Beach": {
+    "osm": "North Beach",
+    "wikidata": "North Beach, San Francisco",
+    "click_that_hood": "North Beach",
+    "sf_planning": "North Beach",
+    "osm_overpass": "North Beach",
+    "zillow": "North Beach"
+  },
+  "Outer Richmond": {
+    "osm": "Outer Richmond",
+    "wikidata": "Outer Richmond",
+    "click_that_hood": "Outer Richmond",
+    "sf_planning": "Outer Richmond",
+    "osm_overpass": "Outer Richmond",
+    "zillow": "Outer Richmond"
+  },
+  "Outer Sunset": {
+    "osm": "Outer Sunset",
+    "wikidata": "Outer Sunset",
+    "click_that_hood": "Outer Sunset",
+    "sf_planning": "Outer Sunset",
+    "osm_overpass": "Outer Sunset",
+    "zillow": "Outer Sunset"
+  },
+  "Potrero Hill": {
+    "osm": "Potrero Hill",
+    "wikidata": "Potrero Hill, San Francisco",
+    "click_that_hood": "Potrero Hill",
+    "sf_planning": "Potrero Hill",
+    "osm_overpass": "Potrero Hill",
+    "zillow": "Potrero Hill"
+  },
+  "SoMa": {
+    "osm": "South of Market",
+    "wikidata": "South of Market, San Francisco",
+    "click_that_hood": "South of Market",
+    "sf_planning": "South of Market",
+    "osm_overpass": "South of Market",
+    "zillow": "South of Market"
+  },
+  "The Castro": {
+    "osm": "The Castro",
+    "wikidata": "Castro District",
+    "click_that_hood": "Castro/Upper Market",
+    "sf_planning": "Castro/Upper Market",
+    "osm_overpass": "The Castro",
+    "zillow": "Eureka Valley - Dolores Heights - Castro"
+  },
+  "The Dogpatch": {
+    "osm": "The Dogpatch",
+    "wikidata": "Dogpatch, San Francisco",
+    "click_that_hood": "Dogpatch",
+    "sf_planning": "Dogpatch",
+    "osm_overpass": "The Dogpatch",
+    "zillow": "Dogpatch"
+  },
+  "The Mission": {
+    "osm": "The Mission",
+    "wikidata": "Mission District",
+    "click_that_hood": "The Mission",
+    "sf_planning": "Mission",
+    "osm_overpass": "The Mission",
+    "zillow": "Mission"
+  },
+  "The Panhandle": {
+    "osm": "Panhandle",
+    "wikidata": "The Panhandle",
+    "click_that_hood": "The Panhandle",
+    "sf_planning": "Haight Ashbury",
+    "osm_overpass": "Panhandle",
+    "zillow": "North Panhandle"
+  },
+  "The Richmond": {
+    "osm": "Richmond District",
+    "wikidata": "Richmond District, San Francisco",
+    "click_that_hood": "The Richmond",
+    "sf_planning": "Inner Richmond",
+    "osm_overpass": "Richmond District",
+    "zillow": "Richmond"
+  },
+  "The Sunset": {
+    "osm": "The Sunset",
+    "wikidata": "Sunset District, San Francisco",
+    "click_that_hood": "Inner Sunset",
+    "sf_planning": "Inner Sunset",
+    "osm_overpass": "The Sunset",
+    "zillow": "Sunset"
+  },
+  "The Tenderloin": {
+    "osm": "The Tenderloin",
+    "wikidata": "Tenderloin, San Francisco",
+    "click_that_hood": "Tenderloin",
+    "sf_planning": "Tenderloin",
+    "osm_overpass": "The Tenderloin",
+    "zillow": "Tenderloin"
+  },
+  "Upper Haight": {
+    "osm": "Upper Haight",
+    "wikidata": "Upper Haight",
+    "click_that_hood": "Haight Ashbury",
+    "sf_planning": "Haight Ashbury",
+    "osm_overpass": "Upper Haight",
+    "zillow": "Haight-Ashbury"
+  },
+  "Visitacion Valley": {
+    "osm": "Visitacion Valley",
+    "wikidata": "Visitacion Valley, San Francisco",
+    "click_that_hood": "Visitacion Valley",
+    "sf_planning": "Visitacion Valley",
+    "osm_overpass": "Visitacion Valley",
+    "zillow": "Visitacion Valley"
+  },
+  "Western Addition": {
+    "osm": "Western Addition",
+    "wikidata": "Western Addition, San Francisco",
+    "click_that_hood": "Western Addition",
+    "sf_planning": "Western Addition",
+    "osm_overpass": "Western Addition",
+    "zillow": "Western Addition"
+  }
+}

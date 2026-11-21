@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Excelsior",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Excelsior\",\n  \"centroid_lat\": 37.7238,\n  \"centroid_lon\": -122.4243,\n  \"bbox_north\": 37.7310,\n  \"bbox_south\": 37.7150,\n  \"bbox_east\": -122.4100,\n  \"bbox_west\": -122.4400,\n  \"confidence\": \"medium\",\n  \"notes\": \"The Excelsior District in San Francisco is bounded roughly by Mission Street to the north, Geneva Avenue to the south, and spans between Highway 101 and City College areas.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Excelsior",
+  "centroid_lat": 37.7238,
+  "centroid_lon": -122.4243,
+  "bbox_north": 37.731,
+  "bbox_south": 37.715,
+  "bbox_east": -122.41,
+  "bbox_west": -122.44,
+  "confidence": "medium",
+  "notes": "The Excelsior District in San Francisco is bounded roughly by Mission Street to the north, Geneva Avenue to the south, and spans between Highway 101 and City College areas."
+}

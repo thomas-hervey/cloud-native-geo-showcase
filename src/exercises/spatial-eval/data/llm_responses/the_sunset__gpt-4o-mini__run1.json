@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Sunset",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Sunset\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7749,\n  \"bbox_south\": 37.7439,\n  \"bbox_east\": -122.4662,\n  \"bbox_west\": -122.5072,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset is a neighborhood in San Francisco known for its residential areas and proximity to the Pacific Ocean.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Sunset",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7749,
+  "bbox_south": 37.7439,
+  "bbox_east": -122.4662,
+  "bbox_west": -122.5072,
+  "confidence": "high",
+  "notes": "The Sunset is a neighborhood in San Francisco known for its residential areas and proximity to the Pacific Ocean."
+}

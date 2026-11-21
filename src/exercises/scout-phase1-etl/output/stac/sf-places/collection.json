@@ -1,0 +1,47 @@
+{
+  "type": "Collection",
+  "id": "sf-places",
+  "stac_version": "1.1.0",
+  "description": "San Francisco points of interest from Overture Maps release 2026-01-21.0, filtered to confidence >= 0.7, spatially sorted by Hilbert curve, and compressed with ZSTD.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Scout Data Catalog"
+    },
+    {
+      "rel": "item",
+      "href": "./sf-places-2026/sf-places-2026.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Scout Data Catalog"
+    }
+  ],
+  "title": "SF Places (Overture Maps)",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -122.5180677,
+          37.7000055,
+          -122.3555597,
+          37.838055
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2026-01-21T00:00:00Z",
+          null
+        ]
+      ]
+    }
+  },
+  "license": "ODbL-1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Mid-Market",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7814,\n  \"centroid_lon\": -122.41235,\n  \"bbox_north\": 37.7846,\n  \"bbox_south\": 37.7782,\n  \"bbox_east\": -122.4071,\n  \"bbox_west\": -122.4176,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is generally defined as the area along Market Street between 5th and 10th Streets, extending a block or two north and south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "_cached": false,
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7814,
+  "centroid_lon": -122.41235,
+  "bbox_north": 37.7846,
+  "bbox_south": 37.7782,
+  "bbox_east": -122.4071,
+  "bbox_west": -122.4176,
+  "confidence": "high",
+  "notes": "Mid-Market is generally defined as the area along Market Street between 5th and 10th Streets, extending a block or two north and south."
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Castro",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Castro\",\n  \"centroid_lat\": 37.7608,\n  \"centroid_lon\": -122.4345,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7536,\n  \"bbox_east\": -122.4250,\n  \"bbox_west\": -122.4440,\n  \"confidence\": \"high\",\n  \"notes\": \"The Castro is a well-defined neighborhood in San Francisco centered around Castro Street and Market Street.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Castro",
+  "centroid_lat": 37.7608,
+  "centroid_lon": -122.4345,
+  "bbox_north": 37.768,
+  "bbox_south": 37.7536,
+  "bbox_east": -122.425,
+  "bbox_west": -122.444,
+  "confidence": "high",
+  "notes": "The Castro is a well-defined neighborhood in San Francisco centered around Castro Street and Market Street."
+}

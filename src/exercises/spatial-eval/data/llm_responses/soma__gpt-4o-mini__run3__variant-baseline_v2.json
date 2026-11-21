@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "SoMa",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market\",\n  \"centroid_lat\": 37.7823,\n  \"centroid_lon\": -122.4009,\n  \"bbox_north\": 37.7890,\n  \"bbox_south\": 37.7750,\n  \"bbox_east\": -122.3840,\n  \"bbox_west\": -122.4090,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa is widely recognized as the South of Market neighborhood.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "place": "SoMa",
+  "resolved_place": "South of Market",
+  "centroid_lat": 37.7823,
+  "centroid_lon": -122.4009,
+  "bbox_north": 37.789,
+  "bbox_south": 37.775,
+  "bbox_east": -122.384,
+  "bbox_west": -122.409,
+  "confidence": "high",
+  "notes": "SoMa is widely recognized as the South of Market neighborhood."
+}

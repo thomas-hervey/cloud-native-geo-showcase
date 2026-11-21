@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Outer Richmond",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7769,\n  \"centroid_lon\": -122.4939,\n  \"bbox_north\": 37.7836,\n  \"bbox_south\": 37.7695,\n  \"bbox_east\": -122.4580,\n  \"bbox_west\": -122.5122,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is the western portion of the Richmond District in San Francisco, generally bounded by Fulton Street to the south, the Pacific Ocean (Ocean Beach) to the west, Lincoln Park/Lands End to the north, and roughly 25th/Park Presidio Blvd to the east.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.7769,
+  "centroid_lon": -122.4939,
+  "bbox_north": 37.7836,
+  "bbox_south": 37.7695,
+  "bbox_east": -122.458,
+  "bbox_west": -122.5122,
+  "confidence": "high",
+  "notes": "Outer Richmond is the western portion of the Richmond District in San Francisco, generally bounded by Fulton Street to the south, the Pacific Ocean (Ocean Beach) to the west, Lincoln Park/Lands End to the north, and roughly 25th/Park Presidio Blvd to the east."
+}

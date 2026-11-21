@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Outer Richmond",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4871,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7710,\n  \"bbox_east\": -122.4580,\n  \"bbox_west\": -122.5120,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is bounded roughly by Fulton Street to the south, the Pacific Ocean to the west, Lincoln Park/Lands End to the north, and Park Presidio Blvd to the east.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Outer Richmond",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4871,
+  "bbox_north": 37.787,
+  "bbox_south": 37.771,
+  "bbox_east": -122.458,
+  "bbox_west": -122.512,
+  "confidence": "high",
+  "notes": "Outer Richmond is bounded roughly by Fulton Street to the south, the Pacific Ocean to the west, Lincoln Park/Lands End to the north, and Park Presidio Blvd to the east."
+}

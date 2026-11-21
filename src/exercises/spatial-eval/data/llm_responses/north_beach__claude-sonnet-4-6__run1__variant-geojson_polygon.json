@@ -1,0 +1,14 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "North Beach",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach, San Francisco\",\n  \"geometry\": {\n    \"type\": \"Polygon\",\n    \"coordinates\": [\n      [\n        [-122.4136, 37.8065],\n        [-122.4078, 37.8065],\n        [-122.4058, 37.8055],\n        [-122.4040, 37.8040],\n        [-122.4030, 37.8020],\n        [-122.4025, 37.8000],\n        [-122.4030, 37.7980],\n        [-122.4045, 37.7965],\n        [-122.4065, 37.7958],\n        [-122.4085, 37.7955],\n        [-122.4105, 37.7958],\n        [-122.4120, 37.7965],\n        [-122.4135, 37.7975],\n        [-122.4150, 37.7985],\n        [-122.4160, ",
+  "_valid": false,
+  "_attempt": 1,
+  "_prompt_variant_id": "geojson_polygon",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "_cached": false,
+  "_error": "Failed to parse GeoJSON Polygon from raw response"
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Upper Haight",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Upper Haight\",\n  \"resolved_place\": \"Upper Haight (Haight-Ashbury)\",\n  \"centroid_lat\": 37.7692,\n  \"centroid_lon\": -122.4481,\n  \"bbox_north\": 37.7723,\n  \"bbox_south\": 37.7654,\n  \"bbox_east\": -122.4390,\n  \"bbox_west\": -122.4570,\n  \"confidence\": \"high\",\n  \"notes\": \"Upper Haight refers to the eastern portion of the Haight-Ashbury neighborhood, centered around Haight Street between Central Ave and Stanyan Street, adjacent to Golden Gate Park.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Upper Haight SF"
+  ],
+  "place": "Upper Haight",
+  "resolved_place": "Upper Haight (Haight-Ashbury)",
+  "centroid_lat": 37.7692,
+  "centroid_lon": -122.4481,
+  "bbox_north": 37.7723,
+  "bbox_south": 37.7654,
+  "bbox_east": -122.439,
+  "bbox_west": -122.457,
+  "confidence": "high",
+  "notes": "Upper Haight refers to the eastern portion of the Haight-Ashbury neighborhood, centered around Haight Street between Central Ave and Stanyan Street, adjacent to Golden Gate Park."
+}

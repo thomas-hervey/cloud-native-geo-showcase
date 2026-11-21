@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Castro",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Castro\",\n  \"centroid_lat\": 37.7609,\n  \"centroid_lon\": -122.4350,\n  \"bbox_north\": 37.7640,\n  \"bbox_south\": 37.7578,\n  \"bbox_east\": -122.4318,\n  \"bbox_west\": -122.4382,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood landmarks.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Castro",
+  "centroid_lat": 37.7609,
+  "centroid_lon": -122.435,
+  "bbox_north": 37.764,
+  "bbox_south": 37.7578,
+  "bbox_east": -122.4318,
+  "bbox_west": -122.4382,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood landmarks."
+}

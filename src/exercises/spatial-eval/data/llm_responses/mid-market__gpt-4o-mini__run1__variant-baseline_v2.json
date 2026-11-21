@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Mid-Market",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7833,\n  \"centroid_lon\": -122.4090,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7800,\n  \"bbox_east\": -122.4030,\n  \"bbox_west\": -122.4140,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is recognized as a distinct neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7833,
+  "centroid_lon": -122.409,
+  "bbox_north": 37.787,
+  "bbox_south": 37.78,
+  "bbox_east": -122.403,
+  "bbox_west": -122.414,
+  "confidence": "high",
+  "notes": "Mid-Market is recognized as a distinct neighborhood in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Tenderloin",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"The Tenderloin\",\n  \"resolved_place\": \"Tenderloin\",\n  \"centroid_lat\": 37.7832,\n  \"centroid_lon\": -122.4128,\n  \"bbox_north\": 37.7873,\n  \"bbox_south\": 37.7790,\n  \"bbox_east\": -122.4069,\n  \"bbox_west\": -122.4191,\n  \"confidence\": \"high\",\n  \"notes\": \"The Tenderloin is a well-defined neighborhood in central San Francisco, roughly bounded by Market Street to the south, Geary Street to the north, Mason/Taylor to the east, and Larkin Street to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Tenderloin SF"
+  ],
+  "place": "The Tenderloin",
+  "resolved_place": "Tenderloin",
+  "centroid_lat": 37.7832,
+  "centroid_lon": -122.4128,
+  "bbox_north": 37.7873,
+  "bbox_south": 37.779,
+  "bbox_east": -122.4069,
+  "bbox_west": -122.4191,
+  "confidence": "high",
+  "notes": "The Tenderloin is a well-defined neighborhood in central San Francisco, roughly bounded by Market Street to the south, Geary Street to the north, Mason/Taylor to the east, and Larkin Street to the west."
+}

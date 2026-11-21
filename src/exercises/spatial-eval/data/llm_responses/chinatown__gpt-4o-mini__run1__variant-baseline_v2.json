@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Chinatown",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Chinatown\",\n  \"resolved_place\": \"Chinatown\",\n  \"centroid_lat\": 37.7941,\n  \"centroid_lon\": -122.4065,\n  \"bbox_north\": 37.7985,\n  \"bbox_south\": 37.7940,\n  \"bbox_east\": -122.4030,\n  \"bbox_west\": -122.4100,\n  \"confidence\": \"high\",\n  \"notes\": \"Chinatown is a well-defined neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "San Francisco Chinatown"
+  ],
+  "place": "Chinatown",
+  "resolved_place": "Chinatown",
+  "centroid_lat": 37.7941,
+  "centroid_lon": -122.4065,
+  "bbox_north": 37.7985,
+  "bbox_south": 37.794,
+  "bbox_east": -122.403,
+  "bbox_west": -122.41,
+  "confidence": "high",
+  "notes": "Chinatown is a well-defined neighborhood in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Excelsior",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Excelsior\",\n  \"resolved_place\": \"Excelsior District\",\n  \"centroid_lat\": 37.7241,\n  \"centroid_lon\": -122.4095,\n  \"bbox_north\": 37.7330,\n  \"bbox_south\": 37.7180,\n  \"bbox_east\": -122.3970,\n  \"bbox_west\": -122.4260,\n  \"confidence\": \"high\",\n  \"notes\": \"Excelsior is recognized as a distinct neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Excelsior District SF"
+  ],
+  "_cached": false,
+  "place": "Excelsior",
+  "resolved_place": "Excelsior District",
+  "centroid_lat": 37.7241,
+  "centroid_lon": -122.4095,
+  "bbox_north": 37.733,
+  "bbox_south": 37.718,
+  "bbox_east": -122.397,
+  "bbox_west": -122.426,
+  "confidence": "high",
+  "notes": "Excelsior is recognized as a distinct neighborhood in San Francisco."
+}

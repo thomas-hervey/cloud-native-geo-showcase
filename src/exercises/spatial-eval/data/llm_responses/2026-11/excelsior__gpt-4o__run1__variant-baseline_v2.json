@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Excelsior",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Excelsior\",\n  \"resolved_place\": \"Excelsior\",\n  \"centroid_lat\": 37.7249,\n  \"centroid_lon\": -122.4313,\n  \"bbox_north\": 37.7320,\n  \"bbox_south\": 37.7180,\n  \"bbox_east\": -122.4190,\n  \"bbox_west\": -122.4420,\n  \"confidence\": \"high\",\n  \"notes\": \"Excelsior is a recognized neighborhood in San Francisco, also known as Excelsior District SF.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Excelsior District SF"
+  ],
+  "_cached": false,
+  "place": "Excelsior",
+  "resolved_place": "Excelsior",
+  "centroid_lat": 37.7249,
+  "centroid_lon": -122.4313,
+  "bbox_north": 37.732,
+  "bbox_south": 37.718,
+  "bbox_east": -122.419,
+  "bbox_west": -122.442,
+  "confidence": "high",
+  "notes": "Excelsior is a recognized neighborhood in San Francisco, also known as Excelsior District SF."
+}

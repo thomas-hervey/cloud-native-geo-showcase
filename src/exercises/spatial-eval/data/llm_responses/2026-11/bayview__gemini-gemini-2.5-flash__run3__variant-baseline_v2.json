@@ -1,0 +1,24 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Bayview",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bayview\",\n  \"resolved_place\": \"Bayview\",\n  \"centroid_lat\": 37.7275,\n  \"centroid_lon\": -122.3925,\n  \"bbox_north\": 37.752,\n  \"bbox_south\": 37.703,\n  \"bbox_east\": -122.360,\n  \"bbox_west\": -122.425,\n  \"confidence\": \"high\",\n  \"notes\": \"Includes the broader Bayview Hunters Point area, as commonly understood.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bayview SF",
+    "Bayview Hunters Point"
+  ],
+  "_cached": false,
+  "place": "Bayview",
+  "resolved_place": "Bayview",
+  "centroid_lat": 37.7275,
+  "centroid_lon": -122.3925,
+  "bbox_north": 37.752,
+  "bbox_south": 37.703,
+  "bbox_east": -122.36,
+  "bbox_west": -122.425,
+  "confidence": "high",
+  "notes": "Includes the broader Bayview Hunters Point area, as commonly understood."
+}

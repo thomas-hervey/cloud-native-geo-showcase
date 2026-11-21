@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "North Beach",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach\",\n  \"centroid_lat\": 37.8013,\n  \"centroid_lon\": -122.4098,\n  \"bbox_north\": 37.8100,\n  \"bbox_south\": 37.7950,\n  \"bbox_east\": -122.4030,\n  \"bbox_west\": -122.4140,\n  \"confidence\": \"high\",\n  \"notes\": \"North Beach is a well-defined neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "_cached": false,
+  "place": "North Beach",
+  "resolved_place": "North Beach",
+  "centroid_lat": 37.8013,
+  "centroid_lon": -122.4098,
+  "bbox_north": 37.81,
+  "bbox_south": 37.795,
+  "bbox_east": -122.403,
+  "bbox_west": -122.414,
+  "confidence": "high",
+  "notes": "North Beach is a well-defined neighborhood in San Francisco."
+}

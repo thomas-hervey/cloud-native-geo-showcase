@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "SoMa",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market (SoMa)\",\n  \"centroid_lat\": 37.779,\n  \"centroid_lon\": -122.4025,\n  \"bbox_north\": 37.789,\n  \"bbox_south\": 37.769,\n  \"bbox_east\": -122.387,\n  \"bbox_west\": -122.418,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa is a well-recognized district south of Market Street, extending to the Embarcadero in the east and roughly to 10th/11th Street in the west, and Townsend Street in the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "_cached": false,
+  "place": "SoMa",
+  "resolved_place": "South of Market (SoMa)",
+  "centroid_lat": 37.779,
+  "centroid_lon": -122.4025,
+  "bbox_north": 37.789,
+  "bbox_south": 37.769,
+  "bbox_east": -122.387,
+  "bbox_west": -122.418,
+  "confidence": "high",
+  "notes": "SoMa is a well-recognized district south of Market Street, extending to the Embarcadero in the east and roughly to 10th/11th Street in the west, and Townsend Street in the south."
+}

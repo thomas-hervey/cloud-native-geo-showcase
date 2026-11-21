@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Potrero Hill",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Potrero Hill\",\n  \"resolved_place\": \"Potrero Hill\",\n  \"centroid_lat\": 37.7504,\n  \"centroid_lon\": -122.3962,\n  \"bbox_north\": 37.7570,\n  \"bbox_south\": 37.7430,\n  \"bbox_east\": -122.3890,\n  \"bbox_west\": -122.4030,\n  \"confidence\": \"high\",\n  \"notes\": \"Potrero Hill is a well-defined neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Potrero Hill SF"
+  ],
+  "_cached": false,
+  "place": "Potrero Hill",
+  "resolved_place": "Potrero Hill",
+  "centroid_lat": 37.7504,
+  "centroid_lon": -122.3962,
+  "bbox_north": 37.757,
+  "bbox_south": 37.743,
+  "bbox_east": -122.389,
+  "bbox_west": -122.403,
+  "confidence": "high",
+  "notes": "Potrero Hill is a well-defined neighborhood in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Castro",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Castro\",\n  \"resolved_place\": \"Castro District\",\n  \"centroid_lat\": 37.7608,\n  \"centroid_lon\": -122.4345,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7535,\n  \"bbox_east\": -122.4250,\n  \"bbox_west\": -122.4440,\n  \"confidence\": \"high\",\n  \"notes\": \"The Castro District is a well-defined neighborhood in San Francisco, centered around Castro Street and Market Street. Bounded approximately by Twin Peaks to the west, Market Street to the north, Noe Street to the east, and 22nd Street to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Castro District SF"
+  ],
+  "_cached": false,
+  "place": "The Castro",
+  "resolved_place": "Castro District",
+  "centroid_lat": 37.7608,
+  "centroid_lon": -122.4345,
+  "bbox_north": 37.768,
+  "bbox_south": 37.7535,
+  "bbox_east": -122.425,
+  "bbox_west": -122.444,
+  "confidence": "high",
+  "notes": "The Castro District is a well-defined neighborhood in San Francisco, centered around Castro Street and Market Street. Bounded approximately by Twin Peaks to the west, Market Street to the north, Noe Street to the east, and 22nd Street to the south."
+}

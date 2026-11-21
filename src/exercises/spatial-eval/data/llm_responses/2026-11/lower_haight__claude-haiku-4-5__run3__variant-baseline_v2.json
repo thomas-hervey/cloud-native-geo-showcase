@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Lower Haight",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7717,\n  \"centroid_lon\": -122.4376,\n  \"bbox_north\": 37.7795,\n  \"bbox_south\": 37.7639,\n  \"bbox_east\": -122.4276,\n  \"bbox_west\": -122.4476,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is a well-established neighborhood in San Francisco, bounded approximately by Divisadero Street to the west, Octavia Street to the east, Haight Street to the north, and Market Street to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "_cached": false,
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.7717,
+  "centroid_lon": -122.4376,
+  "bbox_north": 37.7795,
+  "bbox_south": 37.7639,
+  "bbox_east": -122.4276,
+  "bbox_west": -122.4476,
+  "confidence": "high",
+  "notes": "Lower Haight is a well-established neighborhood in San Francisco, bounded approximately by Divisadero Street to the west, Octavia Street to the east, Haight Street to the north, and Market Street to the south."
+}

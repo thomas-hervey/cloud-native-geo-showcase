@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Lower Haight",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7710,\n  \"centroid_lon\": -122.4315,\n  \"bbox_north\": 37.7800,\n  \"bbox_south\": 37.7620,\n  \"bbox_east\": -122.4200,\n  \"bbox_west\": -122.4430,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is bounded approximately by Fell Street (north), Duboce Avenue (south), Divisadero Street (east), and Scott Street (west). This is the neighborhood-scale area south of the Upper Haight, characterized by Victorian architecture and commercial corridors along Haight Street.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.771,
+  "centroid_lon": -122.4315,
+  "bbox_north": 37.78,
+  "bbox_south": 37.762,
+  "bbox_east": -122.42,
+  "bbox_west": -122.443,
+  "confidence": "high",
+  "notes": "Lower Haight is bounded approximately by Fell Street (north), Duboce Avenue (south), Divisadero Street (east), and Scott Street (west). This is the neighborhood-scale area south of the Upper Haight, characterized by Victorian architecture and commercial corridors along Haight Street."
+}

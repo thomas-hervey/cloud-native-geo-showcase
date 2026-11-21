@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Western Addition",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Western Addition\",\n  \"resolved_place\": \"Western Addition\",\n  \"centroid_lat\": 37.7795,\n  \"centroid_lon\": -122.4352,\n  \"bbox_north\": 37.7950,\n  \"bbox_south\": 37.7640,\n  \"bbox_east\": -122.4150,\n  \"bbox_west\": -122.4554,\n  \"confidence\": \"high\",\n  \"notes\": \"Historic neighborhood bounded approximately by Divisadero St (east), Masonic Ave (west), Golden Gate Ave (north), and Turk St (south). Includes the Fillmore District as a subarea.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Western Addition SF"
+  ],
+  "place": "Western Addition",
+  "resolved_place": "Western Addition",
+  "centroid_lat": 37.7795,
+  "centroid_lon": -122.4352,
+  "bbox_north": 37.795,
+  "bbox_south": 37.764,
+  "bbox_east": -122.415,
+  "bbox_west": -122.4554,
+  "confidence": "high",
+  "notes": "Historic neighborhood bounded approximately by Divisadero St (east), Masonic Ave (west), Golden Gate Ave (north), and Turk St (south). Includes the Fillmore District as a subarea."
+}

@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Bernal Heights",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7425,\n  \"centroid_lon\": -122.4143,\n  \"bbox_north\": 37.7550,\n  \"bbox_south\": 37.7300,\n  \"bbox_east\": -122.4050,\n  \"bbox_west\": -122.4250,\n  \"confidence\": \"high\",\n  \"notes\": \"Bernal Heights is a residential neighborhood in San Francisco's southeastern area, centered around Bernal Hill.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Bernal Heights",
+  "centroid_lat": 37.7425,
+  "centroid_lon": -122.4143,
+  "bbox_north": 37.755,
+  "bbox_south": 37.73,
+  "bbox_east": -122.405,
+  "bbox_west": -122.425,
+  "confidence": "high",
+  "notes": "Bernal Heights is a residential neighborhood in San Francisco's southeastern area, centered around Bernal Hill."
+}

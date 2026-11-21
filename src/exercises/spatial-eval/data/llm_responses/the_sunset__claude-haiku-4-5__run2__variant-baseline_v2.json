@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Sunset",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.7604,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7756,\n  \"bbox_south\": 37.7452,\n  \"bbox_east\": -122.4567,\n  \"bbox_west\": -122.5157,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District is a well-established San Francisco neighborhood bounded by Golden Gate Park to the north, the Pacific Ocean to the west, and extending from approximately Stanyan Street on the east to the ocean on the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.7604,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7756,
+  "bbox_south": 37.7452,
+  "bbox_east": -122.4567,
+  "bbox_west": -122.5157,
+  "confidence": "high",
+  "notes": "The Sunset District is a well-established San Francisco neighborhood bounded by Golden Gate Park to the north, the Pacific Ocean to the west, and extending from approximately Stanyan Street on the east to the ocean on the west."
+}

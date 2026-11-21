@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Mission",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Mission\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4148,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7489,\n  \"bbox_east\": -122.4030,\n  \"bbox_west\": -122.4233,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on common neighborhood definitions.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Mission",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4148,
+  "bbox_north": 37.768,
+  "bbox_south": 37.7489,
+  "bbox_east": -122.403,
+  "bbox_west": -122.4233,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on common neighborhood definitions."
+}

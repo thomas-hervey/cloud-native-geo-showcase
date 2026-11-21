@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Lower Haight",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"resolved_place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7725,\n  \"centroid_lon\": -122.4315,\n  \"bbox_north\": 37.7755,\n  \"bbox_south\": 37.7695,\n  \"bbox_east\": -122.4285,\n  \"bbox_west\": -122.4345,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is a recognized neighborhood in San Francisco, known for its vibrant culture and proximity to Haight-Ashbury.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Lower Haight SF"
+  ],
+  "_cached": false,
+  "place": "Lower Haight",
+  "resolved_place": "Lower Haight",
+  "centroid_lat": 37.7725,
+  "centroid_lon": -122.4315,
+  "bbox_north": 37.7755,
+  "bbox_south": 37.7695,
+  "bbox_east": -122.4285,
+  "bbox_west": -122.4345,
+  "confidence": "high",
+  "notes": "Lower Haight is a recognized neighborhood in San Francisco, known for its vibrant culture and proximity to Haight-Ashbury."
+}

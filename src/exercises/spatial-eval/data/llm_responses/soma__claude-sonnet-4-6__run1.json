@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "SoMa",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4056,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7695,\n  \"bbox_east\": -122.3900,\n  \"bbox_west\": -122.4200,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa (South of Market) is bounded roughly by Market Street to the north, the Caltrain corridor to the south, the Embarcadero to the east, and Division/10th Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "SoMa",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4056,
+  "bbox_north": 37.787,
+  "bbox_south": 37.7695,
+  "bbox_east": -122.39,
+  "bbox_west": -122.42,
+  "confidence": "high",
+  "notes": "SoMa (South of Market) is bounded roughly by Market Street to the north, the Caltrain corridor to the south, the Embarcadero to the east, and Division/10th Street to the west."
+}

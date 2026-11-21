@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Castro",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Castro\",\n  \"resolved_place\": \"The Castro\",\n  \"centroid_lat\": 37.7619,\n  \"centroid_lon\": -122.4358,\n  \"bbox_north\": 37.7665,\n  \"bbox_south\": 37.7545,\n  \"bbox_east\": -122.4260,\n  \"bbox_west\": -122.4440,\n  \"confidence\": \"high\",\n  \"notes\": \"The Castro is also known as Castro District SF.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Castro District SF"
+  ],
+  "place": "The Castro",
+  "resolved_place": "The Castro",
+  "centroid_lat": 37.7619,
+  "centroid_lon": -122.4358,
+  "bbox_north": 37.7665,
+  "bbox_south": 37.7545,
+  "bbox_east": -122.426,
+  "bbox_west": -122.444,
+  "confidence": "high",
+  "notes": "The Castro is also known as Castro District SF."
+}

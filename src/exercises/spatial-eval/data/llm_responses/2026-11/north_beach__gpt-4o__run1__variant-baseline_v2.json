@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "North Beach",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach\",\n  \"centroid_lat\": 37.8025,\n  \"centroid_lon\": -122.4105,\n  \"bbox_north\": 37.8060,\n  \"bbox_south\": 37.7990,\n  \"bbox_east\": -122.4050,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"high\",\n  \"notes\": \"North Beach is a well-defined neighborhood in San Francisco known for its Italian heritage and proximity to Fisherman's Wharf.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "_cached": false,
+  "place": "North Beach",
+  "resolved_place": "North Beach",
+  "centroid_lat": 37.8025,
+  "centroid_lon": -122.4105,
+  "bbox_north": 37.806,
+  "bbox_south": 37.799,
+  "bbox_east": -122.405,
+  "bbox_west": -122.415,
+  "confidence": "high",
+  "notes": "North Beach is a well-defined neighborhood in San Francisco known for its Italian heritage and proximity to Fisherman's Wharf."
+}

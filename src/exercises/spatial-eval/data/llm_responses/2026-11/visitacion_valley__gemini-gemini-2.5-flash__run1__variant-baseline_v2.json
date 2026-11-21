@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Visitacion Valley",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.711,\n  \"centroid_lon\": -122.405,\n  \"bbox_north\": 37.726,\n  \"bbox_south\": 37.696,\n  \"bbox_east\": -122.385,\n  \"bbox_west\": -122.425,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "_cached": false,
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley",
+  "centroid_lat": 37.711,
+  "centroid_lon": -122.405,
+  "bbox_north": 37.726,
+  "bbox_south": 37.696,
+  "bbox_east": -122.385,
+  "bbox_west": -122.425,
+  "confidence": "high",
+  "notes": ""
+}

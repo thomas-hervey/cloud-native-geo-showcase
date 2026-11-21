@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Visitacion Valley",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7134,\n  \"centroid_lon\": -122.4197,\n  \"bbox_north\": 37.7193,\n  \"bbox_south\": 37.7080,\n  \"bbox_east\": -122.4070,\n  \"bbox_west\": -122.4330,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is a neighborhood in the southeastern corner of San Francisco, bordered by McLaren Park to the north and Daly City to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Visitacion Valley",
+  "centroid_lat": 37.7134,
+  "centroid_lon": -122.4197,
+  "bbox_north": 37.7193,
+  "bbox_south": 37.708,
+  "bbox_east": -122.407,
+  "bbox_west": -122.433,
+  "confidence": "high",
+  "notes": "Visitacion Valley is a neighborhood in the southeastern corner of San Francisco, bordered by McLaren Park to the north and Daly City to the south."
+}

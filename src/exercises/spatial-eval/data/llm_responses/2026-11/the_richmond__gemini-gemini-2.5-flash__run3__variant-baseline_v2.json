@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Richmond",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Richmond\",\n  \"resolved_place\": \"Richmond District\",\n  \"centroid_lat\": 37.780,\n  \"centroid_lon\": -122.4875,\n  \"bbox_north\": 37.790,\n  \"bbox_south\": 37.770,\n  \"bbox_east\": -122.460,\n  \"bbox_west\": -122.515,\n  \"confidence\": \"high\",\n  \"notes\": \"Refers to the Richmond District in San Francisco, bounded by Golden Gate Park to the south, the Presidio and Lincoln Park to the north and east, and the Pacific Ocean to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Richmond District SF"
+  ],
+  "_cached": false,
+  "place": "The Richmond",
+  "resolved_place": "Richmond District",
+  "centroid_lat": 37.78,
+  "centroid_lon": -122.4875,
+  "bbox_north": 37.79,
+  "bbox_south": 37.77,
+  "bbox_east": -122.46,
+  "bbox_west": -122.515,
+  "confidence": "high",
+  "notes": "Refers to the Richmond District in San Francisco, bounded by Golden Gate Park to the south, the Presidio and Lincoln Park to the north and east, and the Pacific Ocean to the west."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "SoMa",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market (SoMa)\",\n  \"centroid_lat\": 37.77725,\n  \"centroid_lon\": -122.4000,\n  \"bbox_north\": 37.7865,\n  \"bbox_south\": 37.7680,\n  \"bbox_east\": -122.3850,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "_cached": false,
+  "place": "SoMa",
+  "resolved_place": "South of Market (SoMa)",
+  "centroid_lat": 37.77725,
+  "centroid_lon": -122.4,
+  "bbox_north": 37.7865,
+  "bbox_south": 37.768,
+  "bbox_east": -122.385,
+  "bbox_west": -122.415,
+  "confidence": "high",
+  "notes": ""
+}

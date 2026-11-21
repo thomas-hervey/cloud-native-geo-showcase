@@ -1,0 +1,14 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "North Beach",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"North Beach\",\n  \"resolved_place\": \"North Beach\",\n  \"geometry\": {\n    \"type\": \"Polygon\",\n    \"coordinates\": [\n      [\n        [-122.4102, 37.8044],\n        [-122.4102, 37.8007],\n        [-122.4075, 37.8007],\n        [-122.4075, 37.7989],\n        [-122.4051, 37.7989],\n        [-122.4051, 37.7977],\n        [-122.4032, 37.7977],\n        [-122.4032, 37.7966],\n        [-122.4015, 37.7966],\n        [-122.4015, 37.7955],\n        [-122.4000, 37.7955],\n        [-122.4000, 37.7973],\n        [-122.3988, 37.7973],\n        [-122.3988, 37.7989],\n        [-122.3998, 37.7999],\n        [-122.4015, 37.8005],\n        [-122.4025, 37.801",
+  "_valid": false,
+  "_attempt": 1,
+  "_prompt_variant_id": "geojson_polygon",
+  "_place_aliases": [
+    "North Beach SF"
+  ],
+  "_cached": false,
+  "_error": "Failed to parse GeoJSON Polygon from raw response"
+}

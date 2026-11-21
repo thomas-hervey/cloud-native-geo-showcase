@@ -1,0 +1,52 @@
+{
+  "type": "Collection",
+  "id": "landsat-collection",
+  "stac_version": "1.1.0",
+  "description": "A simple collection of Landsat imagery",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/catalog.json",
+      "type": "application/json",
+      "title": "Simple STAC Catalog"
+    },
+    {
+      "rel": "item",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/landsat-collection/landsat-scene-1/landsat-scene-1.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/catalog.json",
+      "type": "application/json",
+      "title": "Simple STAC Catalog"
+    },
+    {
+      "rel": "self",
+      "href": "/Users/thomas/Projects/personal_projects/SELF_TUTORIALS/GEO_SELF_TUTORIAL/cloud-native-geo-tutorial/src/exercises/02-stac/simple_stac_catalog/landsat-collection/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "title": "Landsat Collection",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180,
+          -90,
+          180,
+          90
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2026-02-06T11:28:33.123198Z",
+          null
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}

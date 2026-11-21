@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Mission",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Mission\",\n  \"resolved_place\": \"Mission District\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4148,\n  \"bbox_north\": 37.7677,\n  \"bbox_south\": 37.7489,\n  \"bbox_east\": -122.4032,\n  \"bbox_west\": -122.4270,\n  \"confidence\": \"high\",\n  \"notes\": \"The Mission is commonly known as the Mission District in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mission District SF"
+  ],
+  "_cached": false,
+  "place": "The Mission",
+  "resolved_place": "Mission District",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4148,
+  "bbox_north": 37.7677,
+  "bbox_south": 37.7489,
+  "bbox_east": -122.4032,
+  "bbox_west": -122.427,
+  "confidence": "high",
+  "notes": "The Mission is commonly known as the Mission District in San Francisco."
+}

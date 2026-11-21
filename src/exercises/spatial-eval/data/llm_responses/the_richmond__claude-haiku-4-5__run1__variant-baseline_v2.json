@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Richmond",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Richmond\",\n  \"resolved_place\": \"Richmond District\",\n  \"centroid_lat\": 37.7725,\n  \"centroid_lon\": -122.4625,\n  \"bbox_north\": 37.7850,\n  \"bbox_south\": 37.7600,\n  \"bbox_east\": -122.4450,\n  \"bbox_west\": -122.4800,\n  \"confidence\": \"high\",\n  \"notes\": \"The Richmond District is a well-established neighborhood in northwestern San Francisco, bounded roughly by California Street to the south, the Presidio to the north and west, and Arguello Boulevard to the east.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Richmond District SF"
+  ],
+  "place": "The Richmond",
+  "resolved_place": "Richmond District",
+  "centroid_lat": 37.7725,
+  "centroid_lon": -122.4625,
+  "bbox_north": 37.785,
+  "bbox_south": 37.76,
+  "bbox_east": -122.445,
+  "bbox_west": -122.48,
+  "confidence": "high",
+  "notes": "The Richmond District is a well-established neighborhood in northwestern San Francisco, bounded roughly by California Street to the south, the Presidio to the north and west, and Arguello Boulevard to the east."
+}

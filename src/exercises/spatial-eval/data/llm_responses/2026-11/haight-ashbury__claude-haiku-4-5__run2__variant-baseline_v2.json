@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Haight-Ashbury",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7800,\n  \"bbox_south\": 37.7588,\n  \"bbox_east\": -122.4700,\n  \"bbox_west\": -122.5024,\n  \"confidence\": \"high\",\n  \"notes\": \"Historic neighborhood in western San Francisco, bounded approximately by Stanyan Street (east), Masonic Avenue (west), Frederick Street (north), and Waller Street (south).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Haight Ashbury SF"
+  ],
+  "_cached": false,
+  "place": "Haight-Ashbury",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.78,
+  "bbox_south": 37.7588,
+  "bbox_east": -122.47,
+  "bbox_west": -122.5024,
+  "confidence": "high",
+  "notes": "Historic neighborhood in western San Francisco, bounded approximately by Stanyan Street (east), Masonic Avenue (west), Frederick Street (north), and Waller Street (south)."
+}

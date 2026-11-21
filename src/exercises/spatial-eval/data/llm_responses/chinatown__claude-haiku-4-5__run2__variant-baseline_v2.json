@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Chinatown",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Chinatown\",\n  \"resolved_place\": \"Chinatown\",\n  \"centroid_lat\": 37.7945,\n  \"centroid_lon\": -122.4073,\n  \"bbox_north\": 37.8020,\n  \"bbox_south\": 37.7870,\n  \"bbox_east\": -122.3980,\n  \"bbox_west\": -122.4165,\n  \"confidence\": \"high\",\n  \"notes\": \"San Francisco Chinatown is a well-defined neighborhood bounded approximately by Broadway to the north, Market Street to the south, Kearny Street to the east, and Powell Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "San Francisco Chinatown"
+  ],
+  "place": "Chinatown",
+  "resolved_place": "Chinatown",
+  "centroid_lat": 37.7945,
+  "centroid_lon": -122.4073,
+  "bbox_north": 37.802,
+  "bbox_south": 37.787,
+  "bbox_east": -122.398,
+  "bbox_west": -122.4165,
+  "confidence": "high",
+  "notes": "San Francisco Chinatown is a well-defined neighborhood bounded approximately by Broadway to the north, Market Street to the south, Kearny Street to the east, and Powell Street to the west."
+}

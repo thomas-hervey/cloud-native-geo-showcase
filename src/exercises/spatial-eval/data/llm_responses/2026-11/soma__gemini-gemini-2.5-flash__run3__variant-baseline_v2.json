@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "SoMa",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"SoMa\",\n  \"centroid_lat\": 37.7765,\n  \"centroid_lon\": -122.4015,\n  \"bbox_north\": 37.785,\n  \"bbox_south\": 37.768,\n  \"bbox_east\": -122.385,\n  \"bbox_west\": -122.418,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa is the common abbreviation for South of Market, San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "_cached": false,
+  "place": "SoMa",
+  "resolved_place": "SoMa",
+  "centroid_lat": 37.7765,
+  "centroid_lon": -122.4015,
+  "bbox_north": 37.785,
+  "bbox_south": 37.768,
+  "bbox_east": -122.385,
+  "bbox_west": -122.418,
+  "confidence": "high",
+  "notes": "SoMa is the common abbreviation for South of Market, San Francisco."
+}

@@ -1,0 +1,23 @@
+# Exercise data artifacts - binary/generated files not needed by the web app.
+# The exercise viewer only reads .py and .md source files.
+src/exercises/**/*.zarr
+src/exercises/zarr/weather_data.zarr
+src/exercises/**/*.png
+src/exercises/**/*.jpg
+src/exercises/**/*.parquet
+src/exercises/**/*.duckdb
+src/exercises/**/*.db
+src/exercises/**/*.db-*
+src/exercises/**/*.db.bak
+src/exercises/**/*.ipynb
+src/exercises/**/*.html
+src/exercises/**/*.geojson
+src/exercises/**/*.zip
+
+# Language cleanup staging directory
+src/content/cng-cleaned/
+
+# Python tooling
+src/exercises/**/__pycache__
+src/exercises/**/*.pyc
+src/exercises/**/.venv

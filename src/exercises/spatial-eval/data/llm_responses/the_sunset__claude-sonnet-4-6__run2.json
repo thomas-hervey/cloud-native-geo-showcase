@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Sunset",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"centroid_lat\": 37.7525,\n  \"centroid_lon\": -122.4850,\n  \"bbox_north\": 37.7752,\n  \"bbox_south\": 37.7320,\n  \"bbox_east\": -122.4558,\n  \"bbox_west\": -122.5100,\n  \"confidence\": \"high\",\n  \"notes\": \"The Sunset District in San Francisco is bounded roughly by Golden Gate Park to the north, Sloat Boulevard to the south, Stanyan Street to the east, and the Pacific Ocean to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Sunset",
+  "centroid_lat": 37.7525,
+  "centroid_lon": -122.485,
+  "bbox_north": 37.7752,
+  "bbox_south": 37.732,
+  "bbox_east": -122.4558,
+  "bbox_west": -122.51,
+  "confidence": "high",
+  "notes": "The Sunset District in San Francisco is bounded roughly by Golden Gate Park to the north, Sloat Boulevard to the south, Stanyan Street to the east, and the Pacific Ocean to the west."
+}

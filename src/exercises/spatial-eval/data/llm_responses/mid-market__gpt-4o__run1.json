@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Mid-Market",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7825,\n  \"centroid_lon\": -122.4111,\n  \"bbox_north\": 37.7850,\n  \"bbox_south\": 37.7800,\n  \"bbox_east\": -122.4070,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate coordinates based on common understanding of the area.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Mid-Market",
+  "centroid_lat": 37.7825,
+  "centroid_lon": -122.4111,
+  "bbox_north": 37.785,
+  "bbox_south": 37.78,
+  "bbox_east": -122.407,
+  "bbox_west": -122.415,
+  "confidence": "medium",
+  "notes": "Approximate coordinates based on common understanding of the area."
+}

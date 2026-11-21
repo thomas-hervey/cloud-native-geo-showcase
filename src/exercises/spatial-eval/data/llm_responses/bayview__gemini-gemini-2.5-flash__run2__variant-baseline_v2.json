@@ -1,0 +1,24 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Bayview",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Bayview\",\n  \"resolved_place\": \"Bayview\",\n  \"centroid_lat\": 37.7215,\n  \"centroid_lon\": -122.3875,\n  \"bbox_north\": 37.738,\n  \"bbox_south\": 37.705,\n  \"bbox_east\": -122.370,\n  \"bbox_west\": -122.405,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximation for the Bayview neighborhood, distinct from the larger Bayview-Hunters Point district.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bayview SF",
+    "Bayview Hunters Point"
+  ],
+  "_cached": false,
+  "place": "Bayview",
+  "resolved_place": "Bayview",
+  "centroid_lat": 37.7215,
+  "centroid_lon": -122.3875,
+  "bbox_north": 37.738,
+  "bbox_south": 37.705,
+  "bbox_east": -122.37,
+  "bbox_west": -122.405,
+  "confidence": "high",
+  "notes": "Approximation for the Bayview neighborhood, distinct from the larger Bayview-Hunters Point district."
+}

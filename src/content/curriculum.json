@@ -1,0 +1,693 @@
+{
+  "tracks": [
+    {
+      "id": "fundamentals",
+      "title": "Track 1: Cloud-Native Fundamentals",
+      "description": "Core formats and cloud storage optimization.",
+      "modules": [
+        "introduction",
+        "stac",
+        "cog",
+        "zarr",
+        "vector-formats",
+        "apache-iceberg",
+        "datacubes",
+        "cloud-storage",
+        "scaling"
+      ]
+    },
+    {
+      "id": "product-patterns",
+      "title": "Track 2: Performance & Product Patterns",
+      "description": "Building modern geospatial applications at scale.",
+      "modules": [
+        "fast-legacy",
+        "geopandas",
+        "duckdb-spatial",
+        "integrity-observability",
+        "spatial-warehousing",
+        "stac-catalog",
+        "pmtiles",
+        "browser-engine"
+      ]
+    },
+    {
+      "id": "analysis-viz",
+      "title": "Track 3: Advanced Analysis & Visualization",
+      "description": "Grid systems, WASM-side compute, and GPU rendering.",
+      "modules": [
+        "modern-analytics-viz",
+        "multidimensional-zarr",
+        "h3-indexing",
+        "data-commons"
+      ]
+    },
+    {
+      "id": "scout-project",
+      "title": "Track 4: The 'Scout' Project (Agentic GIS)",
+      "description": "End-to-end implementation of a Chat-to-Map application.",
+      "modules": [
+        "scout-intro",
+        "scout-phase1-etl",
+        "scout-phase2-rag",
+        "scout-phase3-app",
+        "vector-schema-rag",
+        "agentic-geo-queries",
+        "prototype-agentic-gis",
+        "prototype-nl-sql-web",
+        "felt-integration"
+      ]
+    },
+    {
+      "id": "geo-ai",
+      "title": "Track 5: Geo-AI & Earth Observation",
+      "description": "Large Vision Models, Foundation Models, and Feature Extraction.",
+      "modules": [
+        "ai-ml",
+        "geo-foundational-models",
+        "prototype-eo-extraction",
+        "llm-geo-knowledge-eval",
+        "frontier-open-problems",
+        "industry-analysis"
+      ]
+    }
+  ],
+  "stacks": [
+    {
+      "id": "scout",
+      "title": "The 'Scout' Project",
+      "description": "Chat-to-Map architecture (Postgres/DuckDB + LLM + MapLibre).",
+      "modules": [
+        "scout-intro",
+        "scout-phase1-etl",
+        "scout-phase2-rag",
+        "scout-phase3-app",
+        "vector-schema-rag",
+        "agentic-geo-queries"
+      ]
+    },
+    {
+      "id": "satellite-insight",
+      "title": "The 'Satellite Insight' Stack",
+      "description": "Automated feature extraction from imagery.",
+      "modules": [
+        "prototype-eo-extraction",
+        "stac-catalog",
+        "geo-foundational-models"
+      ]
+    }
+  ],
+  "modules": {
+    "introduction": {
+      "title": "Introduction to Cloud-Native",
+      "description": "Foundational concepts and shifting paradigms.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Cloud Architecture",
+        "Paradigm Shifts"
+      ],
+      "tools": [
+        "Next.js"
+      ],
+      "type": "tutorial"
+    },
+    "stac": {
+      "title": "SpatioTemporal Asset Catalog (STAC)",
+      "description": "Metadata standards for discovery.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "JSON-LD Mapping",
+        "Catalog Navigation"
+      ],
+      "tools": [
+        "STAC API",
+        "PySTAC"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "stac"
+    },
+    "cog": {
+      "title": "Cloud Optimized GeoTIFF",
+      "description": "Efficient raster layouts for remote access.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Overviews",
+        "Tiling",
+        "Internal Masking"
+      ],
+      "tools": [
+        "GDAL",
+        "Rasterio",
+        "Rio-Cogeo"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "cog"
+    },
+    "zarr": {
+      "title": "Zarr & Chunked Arrays",
+      "description": "Multi-dimensional datasets for the cloud using the Zarr v3 specification and sharding.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Chunking Strategies",
+        "Sharding (Zarr v3)",
+        "Concurrent Access"
+      ],
+      "tools": [
+        "Zarr",
+        "Xarray",
+        "Dask"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "zarr"
+    },
+    "vector-formats": {
+      "title": "Modern Vector Formats",
+      "description": "GeoParquet, FlatGeobuf, and more.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Columnar Storage",
+        "Flat Buffers"
+      ],
+      "tools": [
+        "GeoParquet",
+        "FlatGeobuf"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "vector-formats"
+    },
+    "apache-iceberg": {
+      "title": "Apache Iceberg for Geo",
+      "description": "Transactional tables and native geospatial support in Iceberg v3.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Partitioning",
+        "Schema Evolution",
+        "Spatial Query Pruning"
+      ],
+      "tools": [
+        "Apache Iceberg",
+        "Athena"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "iceberg"
+    },
+    "datacubes": {
+      "title": "DataCube Fundamentals",
+      "description": "Multi-dimensional analysis concepts using xarray and stackstac.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Dimension Extraction",
+        "Lazy Loading"
+      ],
+      "tools": [
+        "Open Data Cube",
+        "stackstac"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "datacubes"
+    },
+    "cloud-storage": {
+      "title": "Optimizing Cloud Storage",
+      "description": "Egress, buckets, and performance tiers.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Range Requests",
+        "Cold/Hot Storage"
+      ],
+      "tools": [
+        "S3",
+        "GCS"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "cloud-storage"
+    },
+    "scaling": {
+      "title": "Scaling Distributed Compute",
+      "description": "Distributed geospatial analysis at scale using Dask and local clusters.",
+      "status": "complete",
+      "track": "fundamentals",
+      "techniques": [
+        "Parallel Processing",
+        "Lazy Evaluation",
+        "Task Graphs"
+      ],
+      "tools": [
+        "Dask",
+        "distributed"
+      ],
+      "type": "reference",
+      "exerciseFolder": "scaling"
+    },
+    "fast-legacy": {
+      "title": "Ingesting Legacy Formats in Cloud-Native Ways",
+      "description": "Make old data formats cloud-ready: PyOgrio, GDAL, and the local-cache pattern.",
+      "status": "complete",
+      "track": "product-patterns",
+      "techniques": [
+        "Virtual Filesystems",
+        "On-the-fly Transformation"
+      ],
+      "tools": [
+        "GDAL VRT",
+        "TiTiler"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "legacy-ingest",
+      "reviewNeeded": true,
+      "reviewNote": "Performance claim 'Up to 10x faster than traditional methods' is unattributed — verify or remove before publishing."
+    },
+    "geopandas": {
+      "title": "GeoPandas Fundamentals",
+      "description": "Core skills for spatial engineering in Python.",
+      "status": "complete",
+      "track": "product-patterns",
+      "techniques": [
+        "GeoDataFrame Operations",
+        "Spatial Join"
+      ],
+      "tools": [
+        "GeoPandas"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "geopandas"
+    },
+    "duckdb-spatial": {
+      "title": "Spatial SQL with DuckDB",
+      "description": "Geometry types, spatial predicates, R-tree indexing, and multi-format I/O.",
+      "status": "complete",
+      "track": "product-patterns",
+      "techniques": [
+        "Spatial Predicates",
+        "R-Tree Indexing",
+        "Two-Stage Filter",
+        "Columnar Pushdown"
+      ],
+      "tools": [
+        "DuckDB",
+        "DuckDB Spatial Extension",
+        "GDAL"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "duckdb-spatial",
+      "reviewNeeded": true,
+      "reviewNote": "DuckDB spatial extension described as supporting R-tree indexing 'since v1.3' — verify this is accurate for the current release."
+    },
+    "integrity-observability": {
+      "title": "Integrity & Observability",
+      "description": "Monitoring geospatial data pipelines and spatial quality SLIs.",
+      "status": "complete",
+      "track": "product-patterns",
+      "techniques": [
+        "Data Drift Detection",
+        "Pipeline Validation",
+        "Geospatial SLIs/SLOs"
+      ],
+      "tools": [
+        "Pydantic",
+        "Great Expectations"
+      ],
+      "type": "reference",
+      "exerciseFolder": "integrity-observability"
+    },
+    "spatial-warehousing": {
+      "title": "Spatial Warehousing",
+      "description": "Cloud-native databases.",
+      "status": "planned",
+      "track": "product-patterns",
+      "techniques": [
+        "SQL Spatial Extensions",
+        "OLAP Performance"
+      ],
+      "tools": [
+        "BigQuery",
+        "Snowflake-Geo"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "spatial-warehousing"
+    },
+    "stac-catalog": {
+      "title": "Building STAC Catalogs",
+      "description": "Creating discoverable spatial registries.",
+      "status": "planned",
+      "track": "product-patterns",
+      "techniques": [
+        "Static vs. Dynamic Catalogs",
+        "Crawling"
+      ],
+      "tools": [
+        "STAC-FastAPI",
+        "Franklin"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "stac-catalog"
+    },
+    "pmtiles": {
+      "title": "Serverless Tiles with PMTiles",
+      "description": "Global map hosting with zero servers.",
+      "status": "complete",
+      "track": "product-patterns",
+      "techniques": [
+        "HTTP Range Requests",
+        "Binary Packing"
+      ],
+      "tools": [
+        "PMTiles",
+        "Protomaps"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "pmtiles"
+    },
+    "browser-engine": {
+      "title": "WASM Engines in Browser",
+      "description": "Running geospatial compute client-side.",
+      "status": "planned",
+      "track": "product-patterns",
+      "techniques": [
+        "WASM Translation",
+        "Client-side Compute"
+      ],
+      "tools": [
+        "DuckDB-Wasm",
+        "Shapely-Wasm"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "browser-engine"
+    },
+    "modern-analytics-viz": {
+      "title": "Modern Analytics & Viz",
+      "description": "Large-scale interactive map rendering.",
+      "status": "complete",
+      "track": "analysis-viz",
+      "techniques": [
+        "Deck.gl Rendering",
+        "Tiled Aggregates"
+      ],
+      "tools": [
+        "Deck.gl",
+        "Kepler.gl"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "modern-analytics-viz"
+    },
+    "multidimensional-zarr": {
+      "title": "Advanced Zarr Cubes",
+      "description": "High-dimensional scientific analysis.",
+      "status": "complete",
+      "track": "analysis-viz",
+      "techniques": [
+        "Xarray-Spatial",
+        "NetCDF Conversion"
+      ],
+      "tools": [
+        "Kerchunk"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "multidimensional-zarr"
+    },
+    "h3-indexing": {
+      "title": "Global Gridding (H3)",
+      "description": "Efficient global analysis with hexagons.",
+      "status": "complete",
+      "track": "analysis-viz",
+      "techniques": [
+        "Discrete Global Grids",
+        "Hierarchical Indexing"
+      ],
+      "tools": [
+        "H3",
+        "Uber"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "h3-indexing"
+    },
+    "data-commons": {
+      "title": "Global Data Commons",
+      "description": "Integrated global geospatial knowledge.",
+      "status": "complete",
+      "track": "analysis-viz",
+      "techniques": [
+        "Knowledge Graphs",
+        "Federated Access"
+      ],
+      "tools": [
+        "Google Data Commons"
+      ],
+      "type": "reference",
+      "exerciseFolder": "data-commons"
+    },
+    "scout-intro": {
+      "title": "Scout: Architecture & Design",
+      "description": "High-level design of a Chat-to-Map application.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "System Design",
+        "User Story Mapping"
+      ],
+      "tools": [
+        "Mermaid.js",
+        "Next.js"
+      ],
+      "type": "capstone"
+    },
+    "scout-phase1-etl": {
+      "title": "Scout: Phase 1: ETL",
+      "description": "Ingesting and cleaning data for the application.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "Spatial Join",
+        "CRS Reprojection"
+      ],
+      "tools": [
+        "GeoPandas",
+        "DuckDB"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "scout-phase1-etl"
+    },
+    "scout-phase2-rag": {
+      "title": "Scout: Phase 2: RAG",
+      "description": "Retrieval Augmented Generation for Geo-AI.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "Vector Embedding",
+        "Semantic Search"
+      ],
+      "tools": [
+        "Supabase PGVector",
+        "LangChain"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "scout-phase2-rag"
+    },
+    "scout-phase3-app": {
+      "title": "Scout: Phase 3: Application",
+      "description": "Building the user-facing spatial interface.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "React Component Lifecycle",
+        "MapLibre State Management"
+      ],
+      "tools": [
+        "MapLibre GL JS",
+        "TailwindCSS"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "scout-phase3-app"
+    },
+    "vector-schema-rag": {
+      "title": "Vector Schema & RAG Patterns",
+      "description": "Optimizing metadata for LLM retrieval.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "Metadata Filtering",
+        "Re-ranking"
+      ],
+      "tools": [
+        "Pinecone",
+        "Chroma"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "vector-schema-rag"
+    },
+    "agentic-geo-queries": {
+      "title": "Agentic Geospatial Queries",
+      "description": "LLM-orchestrated spatial operations.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "Tool Calling",
+        "Loop Iteration"
+      ],
+      "tools": [
+        "OpenAI Function Calling",
+        "LangGraph"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "agentic-geo-queries"
+    },
+    "prototype-agentic-gis": {
+      "title": "Prototype: Agentic GIS",
+      "description": "Building a CARTO-style agentic workbench.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "Dynamic SQL Generation",
+        "SQL injection protection"
+      ],
+      "tools": [
+        "Claude 3.5 Sonnet",
+        "DuckDB"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "prototype-agentic-gis"
+    },
+    "prototype-nl-sql-web": {
+      "title": "Prototype: NL-to-SQL Web GIS",
+      "description": "Building a natural language interface for styling maps.",
+      "status": "complete",
+      "track": "scout-project",
+      "techniques": [
+        "Semantic SQL Translation",
+        "Schema Prompting"
+      ],
+      "tools": [
+        "DuckDB-Wasm",
+        "MapLibre"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "prototype-nl-sql-web"
+    },
+    "felt-integration": {
+      "title": "Felt Integration: Collaborative Mapping API",
+      "description": "REST API, JS SDK embedding, and building a custom AI Extension.",
+      "status": "in_progress",
+      "track": "scout-project",
+      "techniques": [
+        "REST API Integration",
+        "JS SDK Embedding",
+        "Felt Extensions",
+        "Webhook Events",
+        "AI Panel UX"
+      ],
+      "tools": [
+        "Felt API",
+        "@feltmaps/js-sdk",
+        "EPA ECHO API",
+        "felt-python"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "felt-integration"
+    },
+    "ai-ml": {
+      "title": "AI/ML with Geospatial Data",
+      "description": "Foundational concepts of applying machine learning.",
+      "status": "in_progress",
+      "track": "geo-ai",
+      "techniques": [
+        "Object Detection",
+        "Semantic Segmentation"
+      ],
+      "tools": [
+        "scikit-learn",
+        "torch-geo",
+        "segment-anything"
+      ],
+      "type": "tutorial",
+      "exerciseFolder": "ai-ml"
+    },
+    "geo-foundational-models": {
+      "title": "Geo-Foundational Models",
+      "description": "The foundation for Earth AI.",
+      "status": "planned",
+      "track": "geo-ai",
+      "techniques": [
+        "Transformer Weights",
+        "Pruning Models"
+      ],
+      "tools": [
+        "HuggingFace",
+        "Prithvi"
+      ],
+      "type": "reference"
+    },
+    "prototype-eo-extraction": {
+      "title": "Prototype: EO Feature Extraction",
+      "description": "Extracting features from high-res imagery using VLMs.",
+      "status": "complete",
+      "track": "geo-ai",
+      "techniques": [
+        "Zero-shot Feature Extraction",
+        "AOI Tiling"
+      ],
+      "tools": [
+        "Claude 3.5 Vision",
+        "titiler"
+      ],
+      "type": "prototype",
+      "exerciseFolder": "prototype-eo-extraction"
+    },
+    "llm-geo-knowledge-eval": {
+      "title": "Geo Knowledge Evaluation",
+      "description": "Where do LLMs think neighborhoods are? Comparing model answers with multiple reference boundaries.",
+      "status": "complete",
+      "track": "geo-ai",
+      "techniques": [
+        "Spatial Metrics",
+        "Intersection over Union (IoU)"
+      ],
+      "tools": [
+        "GeoPandas",
+        "Shapely"
+      ],
+      "type": "reference",
+      "reviewNeeded": true,
+      "reviewNote": "Module cites model-specific performance scores — verify current accuracy and recency"
+    },
+    "frontier-open-problems": {
+      "title": "The Geospatial AI Frontier",
+      "description": "Future challenges in cloud-native and AI.",
+      "status": "planned",
+      "track": "geo-ai",
+      "techniques": [
+        "Latency Reduction",
+        "Multi-modal Analysis"
+      ],
+      "tools": [
+        "Frontier Tech"
+      ],
+      "reviewNeeded": true,
+      "reviewNote": "Multiple benchmark names cited (GeoEval, GEO-Bench, PANGAEA, GeoGramBench, GPSBench, GeoAnalystBench) — verify existence and current status; also cites 'no widely-adopted benchmark existed as of early 2024' which may be stale.",
+      "type": "capstone"
+    },
+    "industry-analysis": {
+      "title": "Industry Landscape",
+      "description": "Reviewing standard platforms and tools.",
+      "status": "planned",
+      "track": "geo-ai",
+      "techniques": [
+        "Market Mapping",
+        "Competitive Moats"
+      ],
+      "tools": [
+        "Carto",
+        "Esri",
+        "Felt"
+      ],
+      "reviewNeeded": false,
+      "type": "reference"
+    }
+  }
+}

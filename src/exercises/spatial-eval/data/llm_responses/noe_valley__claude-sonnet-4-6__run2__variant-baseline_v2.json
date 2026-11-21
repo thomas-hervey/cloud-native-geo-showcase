@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Noe Valley",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Noe Valley\",\n  \"resolved_place\": \"Noe Valley, San Francisco\",\n  \"centroid_lat\": 37.7502,\n  \"centroid_lon\": -122.4330,\n  \"bbox_north\": 37.7558,\n  \"bbox_south\": 37.7440,\n  \"bbox_east\": -122.4220,\n  \"bbox_west\": -122.4440,\n  \"confidence\": \"high\",\n  \"notes\": \"Noe Valley is a well-defined residential neighborhood in San Francisco, bounded roughly by 22nd Street to the north, 30th Street to the south, Dolores Street to the east, and Diamond/Douglass Streets to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Noe Valley SF"
+  ],
+  "place": "Noe Valley",
+  "resolved_place": "Noe Valley, San Francisco",
+  "centroid_lat": 37.7502,
+  "centroid_lon": -122.433,
+  "bbox_north": 37.7558,
+  "bbox_south": 37.744,
+  "bbox_east": -122.422,
+  "bbox_west": -122.444,
+  "confidence": "high",
+  "notes": "Noe Valley is a well-defined residential neighborhood in San Francisco, bounded roughly by 22nd Street to the north, 30th Street to the south, Dolores Street to the east, and Diamond/Douglass Streets to the west."
+}

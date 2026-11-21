@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Potrero Hill",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Potrero Hill\",\n  \"centroid_lat\": 37.7601,\n  \"centroid_lon\": -122.4003,\n  \"bbox_north\": 37.7680,\n  \"bbox_south\": 37.7510,\n  \"bbox_east\": -122.3920,\n  \"bbox_west\": -122.4100,\n  \"confidence\": \"high\",\n  \"notes\": \"Potrero Hill is a neighborhood in southeastern San Francisco bounded roughly by Highway 101, Cesar Chavez Street, and the Central Waterfront.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Potrero Hill",
+  "centroid_lat": 37.7601,
+  "centroid_lon": -122.4003,
+  "bbox_north": 37.768,
+  "bbox_south": 37.751,
+  "bbox_east": -122.392,
+  "bbox_west": -122.41,
+  "confidence": "high",
+  "notes": "Potrero Hill is a neighborhood in southeastern San Francisco bounded roughly by Highway 101, Cesar Chavez Street, and the Central Waterfront."
+}

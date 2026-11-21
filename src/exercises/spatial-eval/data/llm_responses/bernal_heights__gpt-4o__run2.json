@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Bernal Heights",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7416,\n  \"centroid_lon\": -122.4156,\n  \"bbox_north\": 37.7470,\n  \"bbox_south\": 37.7350,\n  \"bbox_east\": -122.4090,\n  \"bbox_west\": -122.4220,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood maps.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Bernal Heights",
+  "centroid_lat": 37.7416,
+  "centroid_lon": -122.4156,
+  "bbox_north": 37.747,
+  "bbox_south": 37.735,
+  "bbox_east": -122.409,
+  "bbox_west": -122.422,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood maps."
+}

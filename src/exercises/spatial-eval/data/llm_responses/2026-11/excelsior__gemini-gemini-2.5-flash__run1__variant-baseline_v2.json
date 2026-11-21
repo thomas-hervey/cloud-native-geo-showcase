@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Excelsior",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Excelsior\",\n  \"resolved_place\": \"Excelsior\",\n  \"centroid_lat\": 37.7155,\n  \"centroid_lon\": -122.4225,\n  \"bbox_north\": 37.723,\n  \"bbox_south\": 37.708,\n  \"bbox_east\": -122.410,\n  \"bbox_west\": -122.435,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Excelsior District SF"
+  ],
+  "_cached": false,
+  "place": "Excelsior",
+  "resolved_place": "Excelsior",
+  "centroid_lat": 37.7155,
+  "centroid_lon": -122.4225,
+  "bbox_north": 37.723,
+  "bbox_south": 37.708,
+  "bbox_east": -122.41,
+  "bbox_west": -122.435,
+  "confidence": "high",
+  "notes": ""
+}

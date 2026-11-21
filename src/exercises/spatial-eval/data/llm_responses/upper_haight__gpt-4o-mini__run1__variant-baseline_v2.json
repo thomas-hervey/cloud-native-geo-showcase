@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Upper Haight",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Upper Haight\",\n  \"resolved_place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4483,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7610,\n  \"bbox_east\": -122.4410,\n  \"bbox_west\": -122.4540,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Upper Haight SF"
+  ],
+  "place": "Upper Haight",
+  "resolved_place": "Upper Haight",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4483,
+  "bbox_north": 37.775,
+  "bbox_south": 37.761,
+  "bbox_east": -122.441,
+  "bbox_west": -122.454,
+  "confidence": "high",
+  "notes": ""
+}

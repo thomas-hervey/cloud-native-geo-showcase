@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Bernal Heights",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Bernal Heights\",\n  \"resolved_place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7415,\n  \"centroid_lon\": -122.416,\n  \"bbox_north\": 37.749,\n  \"bbox_south\": 37.734,\n  \"bbox_east\": -122.405,\n  \"bbox_west\": -122.427,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bernal Heights SF"
+  ],
+  "_cached": false,
+  "place": "Bernal Heights",
+  "resolved_place": "Bernal Heights",
+  "centroid_lat": 37.7415,
+  "centroid_lon": -122.416,
+  "bbox_north": 37.749,
+  "bbox_south": 37.734,
+  "bbox_east": -122.405,
+  "bbox_west": -122.427,
+  "confidence": "high",
+  "notes": ""
+}

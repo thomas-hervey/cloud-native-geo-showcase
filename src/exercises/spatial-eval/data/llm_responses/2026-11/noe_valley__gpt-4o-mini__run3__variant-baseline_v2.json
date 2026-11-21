@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Noe Valley",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Noe Valley\",\n  \"resolved_place\": \"Noe Valley\",\n  \"centroid_lat\": 37.7431,\n  \"centroid_lon\": -122.4342,\n  \"bbox_north\": 37.7495,\n  \"bbox_south\": 37.7380,\n  \"bbox_east\": -122.4260,\n  \"bbox_west\": -122.4450,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Noe Valley SF"
+  ],
+  "_cached": false,
+  "place": "Noe Valley",
+  "resolved_place": "Noe Valley",
+  "centroid_lat": 37.7431,
+  "centroid_lon": -122.4342,
+  "bbox_north": 37.7495,
+  "bbox_south": 37.738,
+  "bbox_east": -122.426,
+  "bbox_west": -122.445,
+  "confidence": "high",
+  "notes": ""
+}

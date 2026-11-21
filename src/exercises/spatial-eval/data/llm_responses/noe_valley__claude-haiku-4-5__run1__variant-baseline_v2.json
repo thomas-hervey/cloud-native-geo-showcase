@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Noe Valley",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Noe Valley\",\n  \"resolved_place\": \"Noe Valley\",\n  \"centroid_lat\": 37.7485,\n  \"centroid_lon\": -122.4305,\n  \"bbox_north\": 37.7650,\n  \"bbox_south\": 37.7320,\n  \"bbox_east\": -122.4100,\n  \"bbox_west\": -122.4510,\n  \"confidence\": \"high\",\n  \"notes\": \"Well-established San Francisco neighborhood bounded approximately by Market Street (north), 30th Street (south), Castro Street (west), and Dolores Street (east).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Noe Valley SF"
+  ],
+  "place": "Noe Valley",
+  "resolved_place": "Noe Valley",
+  "centroid_lat": 37.7485,
+  "centroid_lon": -122.4305,
+  "bbox_north": 37.765,
+  "bbox_south": 37.732,
+  "bbox_east": -122.41,
+  "bbox_west": -122.451,
+  "confidence": "high",
+  "notes": "Well-established San Francisco neighborhood bounded approximately by Market Street (north), 30th Street (south), Castro Street (west), and Dolores Street (east)."
+}

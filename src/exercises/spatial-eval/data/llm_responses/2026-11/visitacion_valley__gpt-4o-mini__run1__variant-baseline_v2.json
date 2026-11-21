@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Visitacion Valley",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley\",\n  \"centroid_lat\": 37.7202,\n  \"centroid_lon\": -122.4094,\n  \"bbox_north\": 37.7260,\n  \"bbox_south\": 37.7130,\n  \"bbox_east\": -122.3970,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is a recognized neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "_cached": false,
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley",
+  "centroid_lat": 37.7202,
+  "centroid_lon": -122.4094,
+  "bbox_north": 37.726,
+  "bbox_south": 37.713,
+  "bbox_east": -122.397,
+  "bbox_west": -122.415,
+  "confidence": "high",
+  "notes": "Visitacion Valley is a recognized neighborhood in San Francisco."
+}

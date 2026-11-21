@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Western Addition",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Western Addition\",\n  \"resolved_place\": \"Western Addition\",\n  \"centroid_lat\": 37.7845,\n  \"centroid_lon\": -122.4324,\n  \"bbox_north\": 37.7945,\n  \"bbox_south\": 37.7745,\n  \"bbox_east\": -122.4204,\n  \"bbox_west\": -122.4424,\n  \"confidence\": \"high\",\n  \"notes\": \"Western Addition is a recognized neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Western Addition SF"
+  ],
+  "place": "Western Addition",
+  "resolved_place": "Western Addition",
+  "centroid_lat": 37.7845,
+  "centroid_lon": -122.4324,
+  "bbox_north": 37.7945,
+  "bbox_south": 37.7745,
+  "bbox_east": -122.4204,
+  "bbox_west": -122.4424,
+  "confidence": "high",
+  "notes": "Western Addition is a recognized neighborhood in San Francisco."
+}

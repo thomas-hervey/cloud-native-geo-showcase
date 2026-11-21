@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Chinatown",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Chinatown\",\n  \"resolved_place\": \"Chinatown\",\n  \"centroid_lat\": 37.793,\n  \"centroid_lon\": -122.40775,\n  \"bbox_north\": 37.7985,\n  \"bbox_south\": 37.7875,\n  \"bbox_east\": -122.404,\n  \"bbox_west\": -122.4115,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "San Francisco Chinatown"
+  ],
+  "_cached": false,
+  "place": "Chinatown",
+  "resolved_place": "Chinatown",
+  "centroid_lat": 37.793,
+  "centroid_lon": -122.40775,
+  "bbox_north": 37.7985,
+  "bbox_south": 37.7875,
+  "bbox_east": -122.404,
+  "bbox_west": -122.4115,
+  "confidence": "high",
+  "notes": ""
+}

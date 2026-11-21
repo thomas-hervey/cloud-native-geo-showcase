@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Mission",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"The Mission\",\n  \"resolved_place\": \"Mission District, San Francisco\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.4148,\n  \"bbox_north\": 37.7699,\n  \"bbox_south\": 37.7474,\n  \"bbox_east\": -122.4048,\n  \"bbox_west\": -122.4270,\n  \"confidence\": \"high\",\n  \"notes\": \"Resolved to the Mission District neighborhood in San Francisco, bounded roughly by Cesar Chavez St to the south, 16th St to the north, Potrero Ave to the east, and Guerrero St to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mission District SF"
+  ],
+  "_cached": false,
+  "place": "The Mission",
+  "resolved_place": "Mission District, San Francisco",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.4148,
+  "bbox_north": 37.7699,
+  "bbox_south": 37.7474,
+  "bbox_east": -122.4048,
+  "bbox_west": -122.427,
+  "confidence": "high",
+  "notes": "Resolved to the Mission District neighborhood in San Francisco, bounded roughly by Cesar Chavez St to the south, 16th St to the north, Potrero Ave to the east, and Guerrero St to the west."
+}

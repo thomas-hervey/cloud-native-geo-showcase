@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Tenderloin",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Tenderloin\",\n  \"resolved_place\": \"Tenderloin\",\n  \"centroid_lat\": 37.7845,\n  \"centroid_lon\": -122.4128,\n  \"bbox_north\": 37.7945,\n  \"bbox_south\": 37.7745,\n  \"bbox_east\": -122.4028,\n  \"bbox_west\": -122.4228,\n  \"confidence\": \"high\",\n  \"notes\": \"The Tenderloin is a well-established neighborhood in downtown San Francisco, bounded approximately by Market Street to the south, O'Farrell Street to the north, Mason Street to the east, and Larkin Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Tenderloin SF"
+  ],
+  "_cached": false,
+  "place": "The Tenderloin",
+  "resolved_place": "Tenderloin",
+  "centroid_lat": 37.7845,
+  "centroid_lon": -122.4128,
+  "bbox_north": 37.7945,
+  "bbox_south": 37.7745,
+  "bbox_east": -122.4028,
+  "bbox_west": -122.4228,
+  "confidence": "high",
+  "notes": "The Tenderloin is a well-established neighborhood in downtown San Francisco, bounded approximately by Market Street to the south, O'Farrell Street to the north, Mason Street to the east, and Larkin Street to the west."
+}

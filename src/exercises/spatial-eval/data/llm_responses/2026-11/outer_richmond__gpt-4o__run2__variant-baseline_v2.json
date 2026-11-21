@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Outer Richmond",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7775,\n  \"centroid_lon\": -122.4935,\n  \"bbox_north\": 37.7830,\n  \"bbox_south\": 37.7720,\n  \"bbox_east\": -122.4800,\n  \"bbox_west\": -122.5050,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is a well-defined neighborhood in San Francisco, located in the western part of the Richmond District.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.7775,
+  "centroid_lon": -122.4935,
+  "bbox_north": 37.783,
+  "bbox_south": 37.772,
+  "bbox_east": -122.48,
+  "bbox_west": -122.505,
+  "confidence": "high",
+  "notes": "Outer Richmond is a well-defined neighborhood in San Francisco, located in the western part of the Richmond District."
+}

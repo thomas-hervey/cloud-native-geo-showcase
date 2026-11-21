@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Upper Haight",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7699,\n  \"centroid_lon\": -122.4469,\n  \"bbox_north\": 37.7708,\n  \"bbox_south\": 37.7689,\n  \"bbox_east\": -122.4444,\n  \"bbox_west\": -122.4494,\n  \"confidence\": \"medium\",\n  \"notes\": \"Approximate boundaries based on neighborhood context.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Upper Haight",
+  "centroid_lat": 37.7699,
+  "centroid_lon": -122.4469,
+  "bbox_north": 37.7708,
+  "bbox_south": 37.7689,
+  "bbox_east": -122.4444,
+  "bbox_west": -122.4494,
+  "confidence": "medium",
+  "notes": "Approximate boundaries based on neighborhood context."
+}

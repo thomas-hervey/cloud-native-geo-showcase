@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Dogpatch",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"The Dogpatch\",\n  \"centroid_lat\": 37.7599,\n  \"centroid_lon\": -122.3925,\n  \"bbox_north\": 37.7640,\n  \"bbox_south\": 37.7540,\n  \"bbox_east\": -122.3850,\n  \"bbox_west\": -122.3970,\n  \"confidence\": \"high\",\n  \"notes\": \"The Dogpatch is a neighborhood located along the eastern waterfront of San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Dogpatch",
+  "centroid_lat": 37.7599,
+  "centroid_lon": -122.3925,
+  "bbox_north": 37.764,
+  "bbox_south": 37.754,
+  "bbox_east": -122.385,
+  "bbox_west": -122.397,
+  "confidence": "high",
+  "notes": "The Dogpatch is a neighborhood located along the eastern waterfront of San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Tenderloin",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Tenderloin\",\n  \"resolved_place\": \"Tenderloin\",\n  \"centroid_lat\": 37.7833,\n  \"centroid_lon\": -122.4167,\n  \"bbox_north\": 37.7882,\n  \"bbox_south\": 37.7792,\n  \"bbox_east\": -122.4090,\n  \"bbox_west\": -122.4223,\n  \"confidence\": \"high\",\n  \"notes\": \"The Tenderloin is a well-defined neighborhood in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Tenderloin SF"
+  ],
+  "_cached": false,
+  "place": "The Tenderloin",
+  "resolved_place": "Tenderloin",
+  "centroid_lat": 37.7833,
+  "centroid_lon": -122.4167,
+  "bbox_north": 37.7882,
+  "bbox_south": 37.7792,
+  "bbox_east": -122.409,
+  "bbox_west": -122.4223,
+  "confidence": "high",
+  "notes": "The Tenderloin is a well-defined neighborhood in San Francisco."
+}

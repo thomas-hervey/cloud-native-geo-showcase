@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Mid-Market",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"resolved_place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7793,\n  \"centroid_lon\": -122.4135,\n  \"bbox_north\": 37.7830,\n  \"bbox_south\": 37.7756,\n  \"bbox_east\": -122.4080,\n  \"bbox_west\": -122.4190,\n  \"confidence\": \"medium\",\n  \"notes\": \"Mid-Market is a recognized area along Market Street between Civic Center and Union Square.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mid Market SF"
+  ],
+  "place": "Mid-Market",
+  "resolved_place": "Mid-Market",
+  "centroid_lat": 37.7793,
+  "centroid_lon": -122.4135,
+  "bbox_north": 37.783,
+  "bbox_south": 37.7756,
+  "bbox_east": -122.408,
+  "bbox_west": -122.419,
+  "confidence": "medium",
+  "notes": "Mid-Market is a recognized area along Market Street between Civic Center and Union Square."
+}

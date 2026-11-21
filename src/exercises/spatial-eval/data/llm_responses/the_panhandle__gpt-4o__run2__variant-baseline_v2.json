@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Panhandle",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7725,\n  \"centroid_lon\": -122.4450,\n  \"bbox_north\": 37.7750,\n  \"bbox_south\": 37.7700,\n  \"bbox_east\": -122.4420,\n  \"bbox_west\": -122.4480,\n  \"confidence\": \"medium\",\n  \"notes\": \"The Panhandle is a narrow strip of parkland and the surrounding area, often considered part of the larger Haight-Ashbury or Western Addition neighborhoods.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.7725,
+  "centroid_lon": -122.445,
+  "bbox_north": 37.775,
+  "bbox_south": 37.77,
+  "bbox_east": -122.442,
+  "bbox_west": -122.448,
+  "confidence": "medium",
+  "notes": "The Panhandle is a narrow strip of parkland and the surrounding area, often considered part of the larger Haight-Ashbury or Western Addition neighborhoods."
+}

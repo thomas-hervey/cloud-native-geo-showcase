@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Outer Sunset",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Outer Sunset\",\n  \"resolved_place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.7505,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7605,\n  \"bbox_south\": 37.7405,\n  \"bbox_east\": -122.4700,\n  \"bbox_west\": -122.5025,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Sunset is the western portion of the Sunset District, bounded roughly by Taraval Street to the north, Wawona Street to the south, 19th Avenue to the east, and the Pacific Ocean to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Sunset SF"
+  ],
+  "place": "Outer Sunset",
+  "resolved_place": "Outer Sunset",
+  "centroid_lat": 37.7505,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7605,
+  "bbox_south": 37.7405,
+  "bbox_east": -122.47,
+  "bbox_west": -122.5025,
+  "confidence": "high",
+  "notes": "Outer Sunset is the western portion of the Sunset District, bounded roughly by Taraval Street to the north, Wawona Street to the south, 19th Avenue to the east, and the Pacific Ocean to the west."
+}

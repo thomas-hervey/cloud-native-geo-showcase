@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Western Addition",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Western Addition\",\n  \"resolved_place\": \"Western Addition\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4325,\n  \"bbox_north\": 37.785,\n  \"bbox_south\": 37.772,\n  \"bbox_east\": -122.420,\n  \"bbox_west\": -122.445,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Western Addition SF"
+  ],
+  "_cached": false,
+  "place": "Western Addition",
+  "resolved_place": "Western Addition",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4325,
+  "bbox_north": 37.785,
+  "bbox_south": 37.772,
+  "bbox_east": -122.42,
+  "bbox_west": -122.445,
+  "confidence": "high",
+  "notes": ""
+}

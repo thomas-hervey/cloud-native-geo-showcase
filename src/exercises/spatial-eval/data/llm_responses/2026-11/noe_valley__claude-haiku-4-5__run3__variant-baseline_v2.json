@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Noe Valley",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Noe Valley\",\n  \"resolved_place\": \"Noe Valley\",\n  \"centroid_lat\": 37.7485,\n  \"centroid_lon\": -122.4295,\n  \"bbox_north\": 37.7620,\n  \"bbox_south\": 37.7350,\n  \"bbox_east\": -122.4100,\n  \"bbox_west\": -122.4490,\n  \"confidence\": \"high\",\n  \"notes\": \"Noe Valley is a well-established San Francisco neighborhood bounded approximately by 22nd Street (north), 30th Street (south), Castro Street (west), and Diamond Street (east).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Noe Valley SF"
+  ],
+  "_cached": false,
+  "place": "Noe Valley",
+  "resolved_place": "Noe Valley",
+  "centroid_lat": 37.7485,
+  "centroid_lon": -122.4295,
+  "bbox_north": 37.762,
+  "bbox_south": 37.735,
+  "bbox_east": -122.41,
+  "bbox_west": -122.449,
+  "confidence": "high",
+  "notes": "Noe Valley is a well-established San Francisco neighborhood bounded approximately by 22nd Street (north), 30th Street (south), Castro Street (west), and Diamond Street (east)."
+}

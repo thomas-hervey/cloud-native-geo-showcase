@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Visitacion Valley",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Visitacion Valley\",\n  \"resolved_place\": \"Visitacion Valley, San Francisco\",\n  \"centroid_lat\": 37.7134,\n  \"centroid_lon\": -122.4103,\n  \"bbox_north\": 37.7200,\n  \"bbox_south\": 37.7080,\n  \"bbox_east\": -122.3980,\n  \"bbox_west\": -122.4230,\n  \"confidence\": \"high\",\n  \"notes\": \"Visitacion Valley is a neighborhood in the southeastern corner of San Francisco, bounded roughly by McLaren Park to the north, the San Francisco/San Mateo county line to the south, US-101 to the east, and Crocker Amazon to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Visitacion Valley SF"
+  ],
+  "_cached": false,
+  "place": "Visitacion Valley",
+  "resolved_place": "Visitacion Valley, San Francisco",
+  "centroid_lat": 37.7134,
+  "centroid_lon": -122.4103,
+  "bbox_north": 37.72,
+  "bbox_south": 37.708,
+  "bbox_east": -122.398,
+  "bbox_west": -122.423,
+  "confidence": "high",
+  "notes": "Visitacion Valley is a neighborhood in the southeastern corner of San Francisco, bounded roughly by McLaren Park to the north, the San Francisco/San Mateo county line to the south, US-101 to the east, and Crocker Amazon to the west."
+}

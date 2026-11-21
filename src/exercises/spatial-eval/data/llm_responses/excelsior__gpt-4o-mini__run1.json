@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Excelsior",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Excelsior\",\n  \"centroid_lat\": 37.7249,\n  \"centroid_lon\": -122.4092,\n  \"bbox_north\": 37.7330,\n  \"bbox_south\": 37.7180,\n  \"bbox_east\": -122.3980,\n  \"bbox_west\": -122.4260,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the approximate area of the Excelsior neighborhood.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Excelsior",
+  "centroid_lat": 37.7249,
+  "centroid_lon": -122.4092,
+  "bbox_north": 37.733,
+  "bbox_south": 37.718,
+  "bbox_east": -122.398,
+  "bbox_west": -122.426,
+  "confidence": "high",
+  "notes": "Coordinates represent the approximate area of the Excelsior neighborhood."
+}

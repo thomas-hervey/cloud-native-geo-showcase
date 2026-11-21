@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Outer Richmond",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7775,\n  \"centroid_lon\": -122.4955,\n  \"bbox_north\": 37.7836,\n  \"bbox_south\": 37.7713,\n  \"bbox_east\": -122.4792,\n  \"bbox_west\": -122.5105,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is a recognized neighborhood in the northwest part of San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.7775,
+  "centroid_lon": -122.4955,
+  "bbox_north": 37.7836,
+  "bbox_south": 37.7713,
+  "bbox_east": -122.4792,
+  "bbox_west": -122.5105,
+  "confidence": "high",
+  "notes": "Outer Richmond is a recognized neighborhood in the northwest part of San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Sunset",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"The Sunset\",\n  \"resolved_place\": \"Sunset District\",\n  \"centroid_lat\": 37.739,\n  \"centroid_lon\": -122.4925,\n  \"bbox_north\": 37.766,\n  \"bbox_south\": 37.712,\n  \"bbox_east\": -122.470,\n  \"bbox_west\": -122.515,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Sunset District SF"
+  ],
+  "_cached": false,
+  "place": "The Sunset",
+  "resolved_place": "Sunset District",
+  "centroid_lat": 37.739,
+  "centroid_lon": -122.4925,
+  "bbox_north": 37.766,
+  "bbox_south": 37.712,
+  "bbox_east": -122.47,
+  "bbox_west": -122.515,
+  "confidence": "high",
+  "notes": ""
+}

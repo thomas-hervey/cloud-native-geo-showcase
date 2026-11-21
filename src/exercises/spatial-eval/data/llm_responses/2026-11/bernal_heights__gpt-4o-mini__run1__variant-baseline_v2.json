@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Bernal Heights",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Bernal Heights\",\n  \"resolved_place\": \"Bernal Heights\",\n  \"centroid_lat\": 37.7332,\n  \"centroid_lon\": -122.4269,\n  \"bbox_north\": 37.7380,\n  \"bbox_south\": 37.7280,\n  \"bbox_east\": -122.4190,\n  \"bbox_west\": -122.4330,\n  \"confidence\": \"high\",\n  \"notes\": \"\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bernal Heights SF"
+  ],
+  "_cached": false,
+  "place": "Bernal Heights",
+  "resolved_place": "Bernal Heights",
+  "centroid_lat": 37.7332,
+  "centroid_lon": -122.4269,
+  "bbox_north": 37.738,
+  "bbox_south": 37.728,
+  "bbox_east": -122.419,
+  "bbox_west": -122.433,
+  "confidence": "high",
+  "notes": ""
+}

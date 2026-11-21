@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "The Castro",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"The Castro\",\n  \"resolved_place\": \"The Castro\",\n  \"centroid_lat\": 37.7614,\n  \"centroid_lon\": -122.4358,\n  \"bbox_north\": 37.7665,\n  \"bbox_south\": 37.7570,\n  \"bbox_east\": -122.4260,\n  \"bbox_west\": -122.4440,\n  \"confidence\": \"high\",\n  \"notes\": \"The Castro is widely recognized as a distinct neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Castro District SF"
+  ],
+  "_cached": false,
+  "place": "The Castro",
+  "resolved_place": "The Castro",
+  "centroid_lat": 37.7614,
+  "centroid_lon": -122.4358,
+  "bbox_north": 37.7665,
+  "bbox_south": 37.757,
+  "bbox_east": -122.426,
+  "bbox_west": -122.444,
+  "confidence": "high",
+  "notes": "The Castro is widely recognized as a distinct neighborhood in San Francisco."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Outer Sunset",
+  "_run": 3,
+  "_raw": "{\n  \"place\": \"Outer Sunset\",\n  \"resolved_place\": \"Outer Sunset\",\n  \"centroid_lat\": 37.749,\n  \"centroid_lon\": -122.507,\n  \"bbox_north\": 37.759,\n  \"bbox_south\": 37.738,\n  \"bbox_east\": -122.486,\n  \"bbox_west\": -122.513,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Sunset is a recognized neighborhood in San Francisco.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Sunset SF"
+  ],
+  "place": "Outer Sunset",
+  "resolved_place": "Outer Sunset",
+  "centroid_lat": 37.749,
+  "centroid_lon": -122.507,
+  "bbox_north": 37.759,
+  "bbox_south": 37.738,
+  "bbox_east": -122.486,
+  "bbox_west": -122.513,
+  "confidence": "high",
+  "notes": "Outer Sunset is a recognized neighborhood in San Francisco."
+}

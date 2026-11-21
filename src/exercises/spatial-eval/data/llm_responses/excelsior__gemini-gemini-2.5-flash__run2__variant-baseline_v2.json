@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "Excelsior",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Excelsior\",\n  \"resolved_place\": \"Excelsior\",\n  \"centroid_lat\": 37.717,\n  \"centroid_lon\": -122.420,\n  \"bbox_north\": 37.725,\n  \"bbox_south\": 37.709,\n  \"bbox_east\": -122.410,\n  \"bbox_west\": -122.430,\n  \"confidence\": \"high\",\n  \"notes\": \"Approximation of the Excelsior neighborhood in San Francisco, bounded roughly by Alemany Blvd to the north, Geneva Ave to the south, Mission St to the east, and San Jose Ave to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Excelsior District SF"
+  ],
+  "_cached": false,
+  "place": "Excelsior",
+  "resolved_place": "Excelsior",
+  "centroid_lat": 37.717,
+  "centroid_lon": -122.42,
+  "bbox_north": 37.725,
+  "bbox_south": 37.709,
+  "bbox_east": -122.41,
+  "bbox_west": -122.43,
+  "confidence": "high",
+  "notes": "Approximation of the Excelsior neighborhood in San Francisco, bounded roughly by Alemany Blvd to the north, Geneva Ave to the south, Mission St to the east, and San Jose Ave to the west."
+}

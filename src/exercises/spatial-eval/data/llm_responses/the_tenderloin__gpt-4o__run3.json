@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o",
+  "_place": "The Tenderloin",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Tenderloin\",\n  \"centroid_lat\": 37.7831,\n  \"centroid_lon\": -122.4167,\n  \"bbox_north\": 37.7881,\n  \"bbox_south\": 37.7781,\n  \"bbox_east\": -122.4097,\n  \"bbox_west\": -122.4237,\n  \"confidence\": \"medium\",\n  \"notes\": \"Boundaries are approximate and can vary slightly.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "The Tenderloin",
+  "centroid_lat": 37.7831,
+  "centroid_lon": -122.4167,
+  "bbox_north": 37.7881,
+  "bbox_south": 37.7781,
+  "bbox_east": -122.4097,
+  "bbox_west": -122.4237,
+  "confidence": "medium",
+  "notes": "Boundaries are approximate and can vary slightly."
+}

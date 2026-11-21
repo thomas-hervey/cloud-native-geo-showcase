@@ -1,0 +1,17 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Upper Haight",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Upper Haight\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4469,\n  \"bbox_north\": 37.7722,\n  \"bbox_south\": 37.7660,\n  \"bbox_east\": -122.4390,\n  \"bbox_west\": -122.4560,\n  \"confidence\": \"medium\",\n  \"notes\": \"Upper Haight (Haight-Ashbury) generally spans from Divisadero St to Stanyan St along Haight St, bounded by the Panhandle to the north and Tank Hill/Corona Heights to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Upper Haight",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4469,
+  "bbox_north": 37.7722,
+  "bbox_south": 37.766,
+  "bbox_east": -122.439,
+  "bbox_west": -122.456,
+  "confidence": "medium",
+  "notes": "Upper Haight (Haight-Ashbury) generally spans from Divisadero St to Stanyan St along Haight St, bounded by the Panhandle to the north and Tank Hill/Corona Heights to the south."
+}

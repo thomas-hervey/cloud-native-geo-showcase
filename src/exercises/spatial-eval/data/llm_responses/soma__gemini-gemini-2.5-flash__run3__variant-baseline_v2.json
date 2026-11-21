@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "SoMa",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"resolved_place\": \"South of Market\",\n  \"centroid_lat\": 37.778,\n  \"centroid_lon\": -122.400,\n  \"bbox_north\": 37.788,\n  \"bbox_south\": 37.768,\n  \"bbox_east\": -122.385,\n  \"bbox_west\": -122.415,\n  \"confidence\": \"high\",\n  \"notes\": \"SoMa is an abbreviation for South of Market, a well-defined district in San Francisco. Bounding box extends from Market Street in the north to Townsend/King Street in the south, and from The Embarcadero in the east to approximately 10th/11th Street in the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "South of Market SF"
+  ],
+  "_cached": false,
+  "place": "SoMa",
+  "resolved_place": "South of Market",
+  "centroid_lat": 37.778,
+  "centroid_lon": -122.4,
+  "bbox_north": 37.788,
+  "bbox_south": 37.768,
+  "bbox_east": -122.385,
+  "bbox_west": -122.415,
+  "confidence": "high",
+  "notes": "SoMa is an abbreviation for South of Market, a well-defined district in San Francisco. Bounding box extends from Market Street in the north to Townsend/King Street in the south, and from The Embarcadero in the east to approximately 10th/11th Street in the west."
+}

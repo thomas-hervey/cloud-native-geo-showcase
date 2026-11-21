@@ -1,0 +1,24 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Bayview",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Bayview\",\n  \"resolved_place\": \"Bayview\",\n  \"centroid_lat\": 37.7350,\n  \"centroid_lon\": -122.3850,\n  \"bbox_north\": 37.7550,\n  \"bbox_south\": 37.7150,\n  \"bbox_east\": -122.3650,\n  \"bbox_west\": -122.4050,\n  \"confidence\": \"high\",\n  \"notes\": \"Bayview is a southeastern San Francisco neighborhood, often referred to as Bayview-Hunters Point. Bounded approximately by Candlestick Point to the south, the Bay to the east, and Visitacion Valley to the north and west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Bayview SF",
+    "Bayview Hunters Point"
+  ],
+  "place": "Bayview",
+  "resolved_place": "Bayview",
+  "centroid_lat": 37.735,
+  "centroid_lon": -122.385,
+  "bbox_north": 37.755,
+  "bbox_south": 37.715,
+  "bbox_east": -122.365,
+  "bbox_west": -122.405,
+  "confidence": "high",
+  "notes": "Bayview is a southeastern San Francisco neighborhood, often referred to as Bayview-Hunters Point. Bounded approximately by Candlestick Point to the south, the Bay to the east, and Visitacion Valley to the north and west."
+}

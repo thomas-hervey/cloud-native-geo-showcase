@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Mid-Market",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Mid-Market\",\n  \"centroid_lat\": 37.7849,\n  \"centroid_lon\": -122.4084,\n  \"bbox_north\": 37.7900,\n  \"bbox_south\": 37.7798,\n  \"bbox_east\": -122.4020,\n  \"bbox_west\": -122.4148,\n  \"confidence\": \"high\",\n  \"notes\": \"Mid-Market is a neighborhood in San Francisco centered around Market Street between 6th and 12th Streets.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Mid-Market",
+  "centroid_lat": 37.7849,
+  "centroid_lon": -122.4084,
+  "bbox_north": 37.79,
+  "bbox_south": 37.7798,
+  "bbox_east": -122.402,
+  "bbox_west": -122.4148,
+  "confidence": "high",
+  "notes": "Mid-Market is a neighborhood in San Francisco centered around Market Street between 6th and 12th Streets."
+}

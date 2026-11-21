@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Haight-Ashbury",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7760,\n  \"bbox_south\": 37.7628,\n  \"bbox_east\": -122.4750,\n  \"bbox_west\": -122.4974,\n  \"confidence\": \"high\",\n  \"notes\": \"Neighborhood centered around the intersection of Haight and Ashbury Streets in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Haight-Ashbury",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.776,
+  "bbox_south": 37.7628,
+  "bbox_east": -122.475,
+  "bbox_west": -122.4974,
+  "confidence": "high",
+  "notes": "Neighborhood centered around the intersection of Haight and Ashbury Streets in San Francisco."
+}

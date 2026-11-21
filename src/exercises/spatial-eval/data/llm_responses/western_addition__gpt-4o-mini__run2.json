@@ -1,0 +1,17 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Western Addition",
+  "_run": 2,
+  "_raw": "{\n  \"place\": \"Western Addition\",\n  \"centroid_lat\": 37.785,\n  \"centroid_lon\": -122.432,\n  \"bbox_north\": 37.794,\n  \"bbox_south\": 37.779,\n  \"bbox_east\": -122.419,\n  \"bbox_west\": -122.447,\n  \"confidence\": \"high\",\n  \"notes\": \"Coordinates represent the general area of Western Addition.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Western Addition",
+  "centroid_lat": 37.785,
+  "centroid_lon": -122.432,
+  "bbox_north": 37.794,
+  "bbox_south": 37.779,
+  "bbox_east": -122.419,
+  "bbox_west": -122.447,
+  "confidence": "high",
+  "notes": "Coordinates represent the general area of Western Addition."
+}

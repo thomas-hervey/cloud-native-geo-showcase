@@ -1,0 +1,1172 @@
+{
+  "metadata": {
+    "year": 2026,
+    "generated": "2026-03-29",
+    "source": "EPA TRI via ECHO REST API (echo_rest_services.get_download)",
+    "source_url": "https://echo.epa.gov/tools/web-services/facility-search-all-data",
+    "coverage": "San Francisco Bay Area (lat 37.0\u201338.5, lon -123.0 to -121.5)",
+    "note": "Static snapshot for tutorial use. Refresh annually when EPA updates TRI data. For production or full-US coverage, replace with a GeoParquet file queried via DuckDB: SELECT * FROM read_parquet('s3://...') WHERE ..."
+  },
+  "facilities": [
+    {
+      "id": "110008062087",
+      "name": "A & B DIE CASTING INC",
+      "lat": 38.022436,
+      "lon": -122.275933,
+      "city": "HERCULES",
+      "summary": "222 lbs/yr total releases"
+    },
+    {
+      "id": "110008062014",
+      "name": "ADVANCED RADIATION CORP",
+      "lat": 37.36951,
+      "lon": -121.963533,
+      "city": "SANTA CLARA",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000887504",
+      "name": "AERC ACQUISITION CORP DBA AERC RECYCLING SOLUTIONS, A CLEAN EARTH COMPANY",
+      "lat": 37.61801,
+      "lon": -122.0548,
+      "city": "HAYWARD",
+      "summary": "315 lbs/yr total releases"
+    },
+    {
+      "id": "110000484379",
+      "name": "AGILENT TECHNOLOGIES INCORPORATED",
+      "lat": 37.322731,
+      "lon": -121.997002,
+      "city": "SANTA CLARA",
+      "summary": "283,215 lbs/yr total releases"
+    },
+    {
+      "id": "110057331409",
+      "name": "AGILENT TECHNOLOGIES, INC.",
+      "lat": 38.483229,
+      "lon": -122.712621,
+      "city": "SANTA ROSA",
+      "summary": "10 lbs/yr total releases"
+    },
+    {
+      "id": "110041623641",
+      "name": "AIR LIQUIDE, RODEO",
+      "lat": 38.047952,
+      "lon": -122.256895,
+      "city": "RODEO",
+      "summary": "246,132 lbs/yr total releases"
+    },
+    {
+      "id": "110000483227",
+      "name": "AIR PRODUCTS & CHEMICALS - MARTINEZ",
+      "lat": 38.032767,
+      "lon": -122.07594,
+      "city": "MARTINEZ",
+      "summary": "173,838 lbs/yr total releases"
+    },
+    {
+      "id": "110071285726",
+      "name": "AIR PRODUCTS WEST COAST HYDROGEN - HP-1",
+      "lat": 38.014387,
+      "lon": -122.114422,
+      "city": "MARTINEZ",
+      "summary": "137,367 lbs/yr total releases"
+    },
+    {
+      "id": "110020517467",
+      "name": "AIRGAS USA LLC - SAN JOSE",
+      "lat": 37.34167,
+      "lon": -121.90721,
+      "city": "SAN JOSE",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110035441144",
+      "name": "ALPHA EMS",
+      "lat": 37.5036,
+      "lon": -121.95685,
+      "city": "FREMONT",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000482825",
+      "name": "ANHEUSER-BUSCH LLC - FAIRFIELD BREWERY",
+      "lat": 38.23906,
+      "lon": -122.09023,
+      "city": "FAIRFIELD",
+      "summary": "33,535 lbs/yr total releases"
+    },
+    {
+      "id": "110000484244",
+      "name": "APCT INC",
+      "lat": 37.38689,
+      "lon": -121.94412,
+      "city": "SANTA CLARA",
+      "summary": "28,838 lbs/yr total releases"
+    },
+    {
+      "id": "110020517010",
+      "name": "APPLIED BIOSYSTEMS",
+      "lat": 37.6453,
+      "lon": -121.88157,
+      "city": "PLEASANTON",
+      "summary": "210,016 lbs/yr total releases"
+    },
+    {
+      "id": "110000482816",
+      "name": "ARDAGH METAL PACKAGING",
+      "lat": 38.27476,
+      "lon": -121.9839,
+      "city": "FAIRFIELD",
+      "summary": "27,423 lbs/yr total releases"
+    },
+    {
+      "id": "110001172329",
+      "name": "BABBITT BEARING CO INC",
+      "lat": 37.36051,
+      "lon": -121.90296,
+      "city": "SAN JOSE",
+      "summary": "312 lbs/yr total releases"
+    },
+    {
+      "id": "110000498051",
+      "name": "BALL METAL BEVERAGE CONTAINER CORP",
+      "lat": 38.27793,
+      "lon": -121.97399,
+      "city": "FAIRFIELD",
+      "summary": "110,554 lbs/yr total releases"
+    },
+    {
+      "id": "110070095009",
+      "name": "BASALITE CONCRETE PRODUCTS DIXON",
+      "lat": 38.46204,
+      "lon": -121.81325,
+      "city": "DIXON",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000483879",
+      "name": "BIO-RAD LABORATORIES",
+      "lat": 37.91481,
+      "lon": -122.33916,
+      "city": "RICHMOND",
+      "summary": "655,370 lbs/yr total releases"
+    },
+    {
+      "id": "110002722028",
+      "name": "BIW CONNECTOR SYSTEMS",
+      "lat": 38.44999,
+      "lon": -122.73485,
+      "city": "SANTA ROSA",
+      "summary": "10,142 lbs/yr total releases"
+    },
+    {
+      "id": "110071705185",
+      "name": "BMCC",
+      "lat": 37.496417,
+      "lon": -121.965088,
+      "city": "FREMONT",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110021131309",
+      "name": "BODEAN CO INC",
+      "lat": 38.444544,
+      "lon": -122.727807,
+      "city": "SANTA ROSA",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110002065229",
+      "name": "BORAL STONE PRODUCTS LLC",
+      "lat": 38.21154,
+      "lon": -122.26193,
+      "city": "AMERICAN CANYON",
+      "summary": "650 lbs/yr total releases"
+    },
+    {
+      "id": "110000483922",
+      "name": "BRENNTAG PACIFIC",
+      "lat": 37.920545,
+      "lon": -122.373468,
+      "city": "RICHMOND",
+      "summary": "2,200 lbs/yr total releases"
+    },
+    {
+      "id": "110000861247",
+      "name": "BURKE INDUSTRIES INC",
+      "lat": 37.30804,
+      "lon": -121.85421,
+      "city": "SAN JOSE",
+      "summary": "96 lbs/yr total releases"
+    },
+    {
+      "id": "110002790141",
+      "name": "C S BIO CO",
+      "lat": 37.47543,
+      "lon": -122.14958,
+      "city": "MENLO PARK",
+      "summary": "5,921 lbs/yr total releases"
+    },
+    {
+      "id": "110013944321",
+      "name": "CALEX MANUFACTURING CO, INC",
+      "lat": 37.98368,
+      "lon": -122.04896,
+      "city": "CONCORD",
+      "summary": "100 lbs/yr total releases"
+    },
+    {
+      "id": "110013852884",
+      "name": "CALIFORNIA EXPANDED METAL PROD",
+      "lat": 38.01939,
+      "lon": -121.87277,
+      "city": "PITTSBURG",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110002428980",
+      "name": "CEMEX ANTIOCH",
+      "lat": 38.01229,
+      "lon": -121.75369,
+      "city": "ANTIOCH",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110022811625",
+      "name": "CEMEX CONCORD",
+      "lat": 38.0055,
+      "lon": -122.04754,
+      "city": "CONCORD",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110039204946",
+      "name": "CEMEX CONSTRUCTION MATERIALS PACIFIC LLC",
+      "lat": 38.28262,
+      "lon": -121.99716,
+      "city": "FAIRFIELD",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110060257662",
+      "name": "CEMEX CONSTRUCTION MATERIALS PACIFIC LLC - UNION CITY PLANT",
+      "lat": 37.60597,
+      "lon": -122.03021,
+      "city": "UNION CITY",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110022811634",
+      "name": "CEMEX LAKE HERMAN/VALLEJO",
+      "lat": 38.10916,
+      "lon": -122.18195,
+      "city": "VALLEJO",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110022811643",
+      "name": "CEMEX OAKLAND",
+      "lat": 37.77276,
+      "lon": -122.23583,
+      "city": "OAKLAND",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110001174862",
+      "name": "CEMEX PLEASANTON READY-MIX",
+      "lat": 37.67335,
+      "lon": -121.83019,
+      "city": "PLEASANTON",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110009541950",
+      "name": "CEMEX SANTA CLARA",
+      "lat": 37.38735,
+      "lon": -121.95689,
+      "city": "SANTA CLARA",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110001169440",
+      "name": "CERTAINTEED CORPORATION",
+      "lat": 37.51166,
+      "lon": -121.99502,
+      "city": "FREMONT",
+      "summary": "2,885 lbs/yr total releases"
+    },
+    {
+      "id": "110010488150",
+      "name": "CHEMICAL COMPOUNDING COMPANY",
+      "lat": 37.755812,
+      "lon": -122.203483,
+      "city": "OAKLAND",
+      "summary": "49 lbs/yr total releases"
+    },
+    {
+      "id": "110000483860",
+      "name": "CHEMTRADE WEST US LLC",
+      "lat": 37.940278,
+      "lon": -122.377222,
+      "city": "RICHMOND",
+      "summary": "805 lbs/yr total releases"
+    },
+    {
+      "id": "110020506460",
+      "name": "CHEVRON REFINERY RICHMOND",
+      "lat": 37.938779,
+      "lon": -122.396453,
+      "city": "RICHMOND",
+      "summary": "1,019,167 lbs/yr total releases"
+    },
+    {
+      "id": "110000483842",
+      "name": "CHEVRON RICHMOND TECHNOLOGY CENTER",
+      "lat": 37.93047,
+      "lon": -122.38944,
+      "city": "RICHMOND",
+      "summary": "1,444 lbs/yr total releases"
+    },
+    {
+      "id": "110000844766",
+      "name": "CIREXX INTERNATIONAL INCORPORATED",
+      "lat": 37.38198,
+      "lon": -121.94852,
+      "city": "SANTA CLARA",
+      "summary": "24,984 lbs/yr total releases"
+    },
+    {
+      "id": "110000484743",
+      "name": "CLEAN HARBORS SAN JOSE",
+      "lat": 37.36493,
+      "lon": -121.88451,
+      "city": "SAN JOSE",
+      "summary": "1,116,938 lbs/yr total releases"
+    },
+    {
+      "id": "110000482852",
+      "name": "CLOROX PRODUCTS MANUFACTURING COMPANY",
+      "lat": 38.28048,
+      "lon": -121.970959,
+      "city": "FAIRFIELD",
+      "summary": "110 lbs/yr total releases"
+    },
+    {
+      "id": "110000484002",
+      "name": "CLOVER STORNETTA FARMS INC",
+      "lat": 38.23995,
+      "lon": -122.63949,
+      "city": "PETALUMA",
+      "summary": "15,718 lbs/yr total releases"
+    },
+    {
+      "id": "110002922749",
+      "name": "CONFLUENT MEDICAL TECHNOLOGIES INC",
+      "lat": 37.480125,
+      "lon": -121.926301,
+      "city": "FREMONT",
+      "summary": "45,793 lbs/yr total releases"
+    },
+    {
+      "id": "110000602544",
+      "name": "CORTEVA AGRISCIENCE - PITTSBURG OPERATIONS",
+      "lat": 38.023129,
+      "lon": -121.855352,
+      "city": "PITTSBURG",
+      "summary": "1,408,274 lbs/yr total releases"
+    },
+    {
+      "id": "110000485822",
+      "name": "COURT GALVANIZING INC",
+      "lat": 38.38948,
+      "lon": -121.96672,
+      "city": "VACAVILLE",
+      "summary": "19,279 lbs/yr total releases"
+    },
+    {
+      "id": "110070558297",
+      "name": "CSBIO",
+      "lat": 37.407313,
+      "lon": -121.915339,
+      "city": "MILPITAS",
+      "summary": "63,886 lbs/yr total releases"
+    },
+    {
+      "id": "110000886587",
+      "name": "CSL OPERATING LLC",
+      "lat": 37.38537,
+      "lon": -121.94512,
+      "city": "SANTA CLARA",
+      "summary": "1,890 lbs/yr total releases"
+    },
+    {
+      "id": "110070081627",
+      "name": "DOUGLAS PRODUCTS & PACKAGING CO",
+      "lat": 38.02199,
+      "lon": -121.85609,
+      "city": "PITTSBURG",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000483147",
+      "name": "EKC TECHNOLOGY, DUPONT ELECTRONIC AND IMAGING",
+      "lat": 37.65559,
+      "lon": -122.14037,
+      "city": "HAYWARD",
+      "summary": "9,470 lbs/yr total releases"
+    },
+    {
+      "id": "110000886499",
+      "name": "ELECTRO-COATINGS OF CALIFORNIA INC",
+      "lat": 37.85687,
+      "lon": -122.2933,
+      "city": "BERKELEY",
+      "summary": "74 lbs/yr total releases"
+    },
+    {
+      "id": "110001165079",
+      "name": "EURODRIVE INC",
+      "lat": 37.61774,
+      "lon": -122.04943,
+      "city": "HAYWARD",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110009544868",
+      "name": "EVERGREEN OIL INC",
+      "lat": 37.521551,
+      "lon": -122.021319,
+      "city": "NEWARK",
+      "summary": "1,447,898 lbs/yr total releases"
+    },
+    {
+      "id": "110012221087",
+      "name": "EXCELITAS TECHNOLOGIES CORP",
+      "lat": 37.49913,
+      "lon": -121.96167,
+      "city": "FREMONT",
+      "summary": "750 lbs/yr total releases"
+    },
+    {
+      "id": "110071434497",
+      "name": "FOLEY PRODUCTS COMPANY - NAPA",
+      "lat": 38.21036,
+      "lon": -122.2622,
+      "city": "AMERICAN CANYON",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110063212376",
+      "name": "GENERAL HYDROPONICS",
+      "lat": 38.418,
+      "lon": -122.75177,
+      "city": "SANTA ROSA",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110002063748",
+      "name": "GEORGIA-PACIFIC GYPSUM LLC",
+      "lat": 38.0134,
+      "lon": -121.79162,
+      "city": "ANTIOCH",
+      "summary": "4 lbs/yr total releases"
+    },
+    {
+      "id": "110070102668",
+      "name": "GILLIG LLC.",
+      "lat": 37.683667,
+      "lon": -121.812187,
+      "city": "LIVERMORE",
+      "summary": "2,817 lbs/yr total releases"
+    },
+    {
+      "id": "110002427810",
+      "name": "GOLD BOND BUILDING PRODUCTS  LLC",
+      "lat": 37.91803,
+      "lon": -122.37299,
+      "city": "RICHMOND",
+      "summary": "3 lbs/yr total releases"
+    },
+    {
+      "id": "110070558208",
+      "name": "GOOGLE LLC",
+      "lat": 37.500477,
+      "lon": -121.930882,
+      "city": "FREMONT",
+      "summary": "4,616 lbs/yr total releases"
+    },
+    {
+      "id": "110018992081",
+      "name": "GORILLA CIRCUITS",
+      "lat": 37.37116,
+      "lon": -121.89737,
+      "city": "SAN JOSE",
+      "summary": "76,359 lbs/yr total releases"
+    },
+    {
+      "id": "110070090819",
+      "name": "GORILLA CIRCUITS",
+      "lat": 37.37306,
+      "lon": -121.89495,
+      "city": "SAN JOSE",
+      "summary": "750 lbs/yr total releases"
+    },
+    {
+      "id": "110001156258",
+      "name": "GRANITE ROCK",
+      "lat": 37.36523,
+      "lon": -121.88161,
+      "city": "SAN JOSE",
+      "summary": "1,943 lbs/yr total releases"
+    },
+    {
+      "id": "110070087505",
+      "name": "GRANITE ROCK COMPANY REDWOOD CITY",
+      "lat": 37.49297,
+      "lon": -122.21475,
+      "city": "REDWOOD CITY",
+      "summary": "4 lbs/yr total releases"
+    },
+    {
+      "id": "110009528092",
+      "name": "HASA INC",
+      "lat": 38.018056,
+      "lon": -121.854167,
+      "city": "PITTSBURG",
+      "summary": "5 lbs/yr total releases"
+    },
+    {
+      "id": "110000484128",
+      "name": "HEADWAY TECHNOLOGIES INCORPORATED",
+      "lat": 37.42683,
+      "lon": -121.89209,
+      "city": "MILPITAS",
+      "summary": "298,665 lbs/yr total releases"
+    },
+    {
+      "id": "110000482512",
+      "name": "HEAT & CONTROL INC",
+      "lat": 37.64519,
+      "lon": -122.1375,
+      "city": "HAYWARD",
+      "summary": "40,079 lbs/yr total releases"
+    },
+    {
+      "id": "110000499130",
+      "name": "HENKEL CORP",
+      "lat": 38.02676,
+      "lon": -121.94571,
+      "city": "BAY POINT",
+      "summary": "153 lbs/yr total releases"
+    },
+    {
+      "id": "110070100798",
+      "name": "HILL BROTHERS CHEMICAL CO.",
+      "lat": 37.382,
+      "lon": -121.913889,
+      "city": "SAN JOSE",
+      "summary": "80 lbs/yr total releases"
+    },
+    {
+      "id": "110012227740",
+      "name": "INFINERA CORP",
+      "lat": 37.4142,
+      "lon": -122.02168,
+      "city": "SUNNYVALE",
+      "summary": "33,864 lbs/yr total releases"
+    },
+    {
+      "id": "110060280663",
+      "name": "INFINITI SOLUTIONS USA INC",
+      "lat": 37.41257,
+      "lon": -121.94964,
+      "city": "SAN JOSE",
+      "summary": "99 lbs/yr total releases"
+    },
+    {
+      "id": "110001133434",
+      "name": "INTEL CORP. SC1/2",
+      "lat": 37.37704,
+      "lon": -121.97766,
+      "city": "SANTA CLARA",
+      "summary": "1 lbs/yr total releases"
+    },
+    {
+      "id": "110071285727",
+      "name": "IR PRODUCTS WEST COAST HYDROGEN - HP-2",
+      "lat": 38.019745,
+      "lon": -122.116973,
+      "city": "MARTINEZ",
+      "summary": "29,931 lbs/yr total releases"
+    },
+    {
+      "id": "110071080544",
+      "name": "JABIL INC.",
+      "lat": 37.51017,
+      "lon": -121.9531,
+      "city": "FREMONT",
+      "summary": "110,924 lbs/yr total releases"
+    },
+    {
+      "id": "110046123164",
+      "name": "K2 PURE SOLUTIONS - PITTSBURG PLANT",
+      "lat": 38.025905,
+      "lon": -121.85668,
+      "city": "PITTSBURG",
+      "summary": "6,268 lbs/yr total releases"
+    },
+    {
+      "id": "110055425160",
+      "name": "LGC BIOSEARCH TECHNOLOGIES",
+      "lat": 38.22908,
+      "lon": -122.59181,
+      "city": "PETALUMA",
+      "summary": "529,868 lbs/yr total releases"
+    },
+    {
+      "id": "110010461320",
+      "name": "M & G DURAVENT INC",
+      "lat": 38.400529,
+      "lon": -121.953469,
+      "city": "VACAVILLE",
+      "summary": "87,034 lbs/yr total releases"
+    },
+    {
+      "id": "110071349304",
+      "name": "MARATHON MARTINEZ REFINERY",
+      "lat": 38.030833,
+      "lon": -122.075,
+      "city": "MARTINEZ",
+      "summary": "157,079 lbs/yr total releases"
+    },
+    {
+      "id": "110000483245",
+      "name": "MARTINEZ REFINING COMPANY",
+      "lat": 38.016594,
+      "lon": -122.115392,
+      "city": "MARTINEZ",
+      "summary": "736,724 lbs/yr total releases"
+    },
+    {
+      "id": "110064102297",
+      "name": "MILITARY OCEAN TERMINAL CONCORD",
+      "lat": 38.03138,
+      "lon": -122.03053,
+      "city": "CONCORD",
+      "summary": "275 lbs/yr total releases"
+    },
+    {
+      "id": "110070466751",
+      "name": "MISSION VALLEY ROCK CO",
+      "lat": 37.575904,
+      "lon": -121.879972,
+      "city": "SUNOL",
+      "summary": "8 lbs/yr total releases"
+    },
+    {
+      "id": "110000483218",
+      "name": "MONSANTO COMPANY",
+      "lat": 38.02342,
+      "lon": -122.053723,
+      "city": "MARTINEZ",
+      "summary": "190,887 lbs/yr total releases"
+    },
+    {
+      "id": "110000482843",
+      "name": "NEXEO SOLUTIONS LLC FAIRFIELD",
+      "lat": 38.27483,
+      "lon": -121.98363,
+      "city": "FAIRFIELD",
+      "summary": "2,377 lbs/yr total releases"
+    },
+    {
+      "id": "110000781805",
+      "name": "NORTHROP GRUMMAN MARINE SYSTEMS",
+      "lat": 37.3787,
+      "lon": -122.0225,
+      "city": "SUNNYVALE",
+      "summary": "20,413 lbs/yr total releases"
+    },
+    {
+      "id": "110070556497",
+      "name": "OLDCASTLE",
+      "lat": 37.16724,
+      "lon": -121.68908,
+      "city": "MORGAN HILL",
+      "summary": "51 lbs/yr total releases"
+    },
+    {
+      "id": "110001164837",
+      "name": "OLDCASTLE PRECAST (PLEASANTON)",
+      "lat": 37.67474,
+      "lon": -121.86206,
+      "city": "PLEASANTON",
+      "summary": "111 lbs/yr total releases"
+    },
+    {
+      "id": "110001154410",
+      "name": "PACIFIC GALVANIZING",
+      "lat": 37.766158,
+      "lon": -122.217597,
+      "city": "OAKLAND",
+      "summary": "426,749 lbs/yr total releases"
+    },
+    {
+      "id": "110000902952",
+      "name": "PARKER HANNIFIN CORP, VERIFLO DIV",
+      "lat": 37.92892,
+      "lon": -122.37819,
+      "city": "RICHMOND",
+      "summary": "5,815 lbs/yr total releases"
+    },
+    {
+      "id": "110001172793",
+      "name": "PARKER HANNIFIN CORPORATION",
+      "lat": 38.35671,
+      "lon": -122.72239,
+      "city": "ROHNERT PARK",
+      "summary": "135 lbs/yr total releases"
+    },
+    {
+      "id": "110000483548",
+      "name": "PCC STRUCTURALS - SAN LEANDRO",
+      "lat": 37.7226,
+      "lon": -122.19254,
+      "city": "SAN LEANDRO",
+      "summary": "708,288 lbs/yr total releases"
+    },
+    {
+      "id": "110000781173",
+      "name": "PENTAGON TECHNOLOGIES INC",
+      "lat": 37.652663,
+      "lon": -122.131171,
+      "city": "HAYWARD",
+      "summary": "34,760 lbs/yr total releases"
+    },
+    {
+      "id": "110000482451",
+      "name": "PENTAIR THERMAL MANAGEMENT LLC",
+      "lat": 37.48433,
+      "lon": -122.2083,
+      "city": "REDWOOD CITY",
+      "summary": "420 lbs/yr total releases"
+    },
+    {
+      "id": "110070087650",
+      "name": "PERDUE FOODS LLC DBA PETALUMA POULTRY",
+      "lat": 38.233873,
+      "lon": -122.601481,
+      "city": "PETALUMA",
+      "summary": "547 lbs/yr total releases"
+    },
+    {
+      "id": "110000483977",
+      "name": "PHILLIPS RICHMOND TERMINAL",
+      "lat": 37.909769,
+      "lon": -122.366199,
+      "city": "RICHMOND",
+      "summary": "2,439 lbs/yr total releases"
+    },
+    {
+      "id": "110013814578",
+      "name": "PRODUCERS DAIRY",
+      "lat": 38.20392,
+      "lon": -122.15593,
+      "city": "FAIRFIELD",
+      "summary": "12 lbs/yr total releases"
+    },
+    {
+      "id": "110000482647",
+      "name": "QUALITEK INC DBA WESTAK",
+      "lat": 37.40743,
+      "lon": -121.99203,
+      "city": "SUNNYVALE",
+      "summary": "67,976 lbs/yr total releases"
+    },
+    {
+      "id": "110071433606",
+      "name": "QUIKRETE NORTHERN CALIFORNIA",
+      "lat": 37.5092,
+      "lon": -121.996746,
+      "city": "FREMONT",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110017211809",
+      "name": "READ-RITE CORPORATION",
+      "lat": 37.51248,
+      "lon": -121.94155,
+      "city": "FREMONT",
+      "summary": "341,432 lbs/yr total releases"
+    },
+    {
+      "id": "110001181328",
+      "name": "REED & GRAHAM INC",
+      "lat": 37.31894,
+      "lon": -121.9057,
+      "city": "SAN JOSE",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000483138",
+      "name": "ROHM AND HAAS - HAYWARD PLANT",
+      "lat": 37.628889,
+      "lon": -122.127222,
+      "city": "HAYWARD",
+      "summary": "6,338 lbs/yr total releases"
+    },
+    {
+      "id": "110000483165",
+      "name": "ROYAL CHEMICAL COMPANY C/O UNIVAR SOLUTIONS",
+      "lat": 37.64764,
+      "lon": -122.12787,
+      "city": "HAYWARD",
+      "summary": "2,743 lbs/yr total releases"
+    },
+    {
+      "id": "110010460651",
+      "name": "ROYAL PETROLEUM COMPANY",
+      "lat": 38.387161,
+      "lon": -122.728295,
+      "city": "SANTA ROSA",
+      "summary": "2,076 lbs/yr total releases"
+    },
+    {
+      "id": "110000483913",
+      "name": "SAFETY-KLEEN SYSTEMS, INC.",
+      "lat": 37.91934,
+      "lon": -122.374694,
+      "city": "RICHMOND",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110037148547",
+      "name": "SAN FRANCISCO (A)",
+      "lat": 37.745855,
+      "lon": -122.384367,
+      "city": "SAN FRANCISCO",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000483487",
+      "name": "SAN FRANCISCO REFINERY AT RODEO, CALIFORNIA",
+      "lat": 38.0436,
+      "lon": -122.2532,
+      "city": "RODEO",
+      "summary": "343,817 lbs/yr total releases"
+    },
+    {
+      "id": "110071434450",
+      "name": "SAN MARTIN-CALSTONE APG",
+      "lat": 37.09191,
+      "lon": -121.61021,
+      "city": "SAN MARTIN",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000484681",
+      "name": "SANMINA - PLANT # 1",
+      "lat": 37.391707,
+      "lon": -121.906924,
+      "city": "SAN JOSE",
+      "summary": "132,997 lbs/yr total releases"
+    },
+    {
+      "id": "110000484672",
+      "name": "SANMINA CORPORATION",
+      "lat": 37.376596,
+      "lon": -121.916705,
+      "city": "SAN JOSE",
+      "summary": "86,196 lbs/yr total releases"
+    },
+    {
+      "id": "110070094965",
+      "name": "SANMINA HQ",
+      "lat": 37.39003,
+      "lon": -121.92955,
+      "city": "SAN JOSE",
+      "summary": "23 lbs/yr total releases"
+    },
+    {
+      "id": "110013285961",
+      "name": "SANMINA-SCI",
+      "lat": 37.39273,
+      "lon": -121.92903,
+      "city": "SAN JOSE",
+      "summary": "10 lbs/yr total releases"
+    },
+    {
+      "id": "110013285952",
+      "name": "SANMINA-SCI - BLDG 3",
+      "lat": 37.39191,
+      "lon": -121.92714,
+      "city": "SAN JOSE",
+      "summary": "14 lbs/yr total releases"
+    },
+    {
+      "id": "110012701282",
+      "name": "SHAW POWER SERVICES",
+      "lat": 38.400564,
+      "lon": -121.955309,
+      "city": "VACAVILLE",
+      "summary": "2,087 lbs/yr total releases"
+    },
+    {
+      "id": "110016742088",
+      "name": "SHELL CATALYSTS &TECHNOLOGIES",
+      "lat": 38.028333,
+      "lon": -121.943056,
+      "city": "BAY POINT",
+      "summary": "229,654 lbs/yr total releases"
+    },
+    {
+      "id": "110000483254",
+      "name": "SHELL CHEMICAL LP - MARTINEZ CATAYST PLANT",
+      "lat": 38.025771,
+      "lon": -122.11613,
+      "city": "MARTINEZ",
+      "summary": "308,430 lbs/yr total releases"
+    },
+    {
+      "id": "110009527798",
+      "name": "SHELL OIL PRODUCTS SAN JOSE TERMINAL",
+      "lat": 37.395171,
+      "lon": -121.909701,
+      "city": "SAN JOSE",
+      "summary": "1,948 lbs/yr total releases"
+    },
+    {
+      "id": "110000783091",
+      "name": "SIERRA PROTO EXPRESS",
+      "lat": 37.38445,
+      "lon": -122.04894,
+      "city": "SUNNYVALE",
+      "summary": "20,965 lbs/yr total releases"
+    },
+    {
+      "id": "110043694945",
+      "name": "SIGMATRON INTERNATIONAL INC",
+      "lat": 37.61027,
+      "lon": -122.07151,
+      "city": "UNION CITY",
+      "summary": "507 lbs/yr total releases"
+    },
+    {
+      "id": "110021011643",
+      "name": "SILGAN CONTAINERS MFG CORP",
+      "lat": 38.012354,
+      "lon": -121.776464,
+      "city": "ANTIOCH",
+      "summary": "13,086 lbs/yr total releases"
+    },
+    {
+      "id": "110000908475",
+      "name": "SLAC NATIONAL ACCELERATOR LABORATORY",
+      "lat": 37.42125,
+      "lon": -122.20422,
+      "city": "MENLO PARK",
+      "summary": "15,009 lbs/yr total releases"
+    },
+    {
+      "id": "110000483263",
+      "name": "SOLVAY USA INC",
+      "lat": 38.034722,
+      "lon": -122.112778,
+      "city": "MARTINEZ",
+      "summary": "7,174 lbs/yr total releases"
+    },
+    {
+      "id": "110046122968",
+      "name": "SONOCO PROTECTIVE SOLUTIONS INC",
+      "lat": 37.63328,
+      "lon": -122.124967,
+      "city": "HAYWARD",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110064101092",
+      "name": "STREAMLINE CIRCUITS",
+      "lat": 37.36532,
+      "lon": -121.95547,
+      "city": "SANTA CLARA",
+      "summary": "733 lbs/yr total releases"
+    },
+    {
+      "id": "110006535053",
+      "name": "SYAR INDUSTRIES INC",
+      "lat": 38.27009,
+      "lon": -122.27199,
+      "city": "NAPA",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110055500159",
+      "name": "TELEDYNE E2V",
+      "lat": 37.40795,
+      "lon": -121.91836,
+      "city": "MILPITAS",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110000482898",
+      "name": "TESLA INC",
+      "lat": 37.49629,
+      "lon": -121.94826,
+      "city": "FREMONT",
+      "summary": "2,125,966 lbs/yr total releases"
+    },
+    {
+      "id": "110035441108",
+      "name": "TESLA, INC",
+      "lat": 37.469273,
+      "lon": -121.928566,
+      "city": "FREMONT",
+      "summary": "1,223,979 lbs/yr total releases"
+    },
+    {
+      "id": "110071820847",
+      "name": "TOKYO OHKA KOGYO AMERICA, INC",
+      "lat": 37.427746,
+      "lon": -121.89854,
+      "city": "MILPITAS",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110070515309",
+      "name": "TRANSENE COMPANY OAKLAND",
+      "lat": 37.763274,
+      "lon": -122.205226,
+      "city": "OAKLAND",
+      "summary": "20 lbs/yr total releases"
+    },
+    {
+      "id": "110000484299",
+      "name": "TTM TECHNOLOGIES - SANTA CLARA",
+      "lat": 37.36263,
+      "lon": -121.93983,
+      "city": "SANTA CLARA",
+      "summary": "343 lbs/yr total releases"
+    },
+    {
+      "id": "110000770906",
+      "name": "TTM TECHNOLOGIES NORTH AMERICA, LLC",
+      "lat": 37.30276,
+      "lon": -121.87427,
+      "city": "SAN JOSE",
+      "summary": "66,346 lbs/yr total releases"
+    },
+    {
+      "id": "110002648582",
+      "name": "TYCO ELECTRONICS CORP",
+      "lat": 37.476899,
+      "lon": -122.20637,
+      "city": "REDWOOD CITY",
+      "summary": "28 lbs/yr total releases"
+    },
+    {
+      "id": "110000483619",
+      "name": "UNITED STATES PIPE & FOUNDRY CO LLC",
+      "lat": 37.60599,
+      "lon": -122.04237,
+      "city": "UNION CITY",
+      "summary": "974,290 lbs/yr total releases"
+    },
+    {
+      "id": "110000482442",
+      "name": "UNIVAR SOLUTIONS USA INC",
+      "lat": 37.50396,
+      "lon": -122.210381,
+      "city": "REDWOOD CITY",
+      "summary": "2 lbs/yr total releases"
+    },
+    {
+      "id": "110013286112",
+      "name": "UNIVERSAL PROPULSION COMPANY, INC",
+      "lat": 38.210189,
+      "lon": -121.944644,
+      "city": "FAIRFIELD",
+      "summary": "2,248 lbs/yr total releases"
+    },
+    {
+      "id": "110001127165",
+      "name": "US COAST GUARD INTEGRATED SUPPORT COMMAND",
+      "lat": 37.77999,
+      "lon": -122.24601,
+      "city": "ALAMEDA",
+      "summary": "2,949 lbs/yr total releases"
+    },
+    {
+      "id": "110002625311",
+      "name": "US COAST GUARD TRAINING CENTER PETALUMA",
+      "lat": 38.257252,
+      "lon": -122.80118,
+      "city": "PETALUMA",
+      "summary": "200 lbs/yr total releases"
+    },
+    {
+      "id": "110002146767",
+      "name": "US DOD USAF TRAVIS AFB",
+      "lat": 38.283611,
+      "lon": -121.950556,
+      "city": "TRAVIS AFB",
+      "summary": "874 lbs/yr total releases"
+    },
+    {
+      "id": "110000610358",
+      "name": "USDOE LAWRENCE LIVERMORE NATIONAL LABORATORY",
+      "lat": 37.6798,
+      "lon": -121.71734,
+      "city": "LIVERMORE",
+      "summary": "84 lbs/yr total releases"
+    },
+    {
+      "id": "110033145353",
+      "name": "VALERO REFINING COMPANY-CALIF",
+      "lat": 38.074434,
+      "lon": -122.144397,
+      "city": "BENICIA",
+      "summary": "727,637 lbs/yr total releases"
+    },
+    {
+      "id": "110000482674",
+      "name": "VARIAN MEDICAL SYSTEMS",
+      "lat": 37.41732,
+      "lon": -122.141,
+      "city": "PALO ALTO",
+      "summary": "0 lbs/yr total releases"
+    },
+    {
+      "id": "110042010329",
+      "name": "WD MEDIA INC",
+      "lat": 37.39096,
+      "lon": -121.88382,
+      "city": "SAN JOSE",
+      "summary": "75 lbs/yr total releases"
+    },
+    {
+      "id": "110064259270",
+      "name": "WESTERN DIGITAL TECHNOLOGIES INC",
+      "lat": 37.24737,
+      "lon": -121.79465,
+      "city": "SAN JOSE",
+      "summary": "353,750 lbs/yr total releases"
+    },
+    {
+      "id": "110035842915",
+      "name": "WR MEADOWS",
+      "lat": 38.07224,
+      "lon": -122.12703,
+      "city": "BENICIA",
+      "summary": "598 lbs/yr total releases"
+    },
+    {
+      "id": "110070091515",
+      "name": "ZYGO CORPORATION",
+      "lat": 37.98484,
+      "lon": -122.3328,
+      "city": "RICHMOND",
+      "summary": "318 lbs/yr total releases"
+    }
+  ]
+}

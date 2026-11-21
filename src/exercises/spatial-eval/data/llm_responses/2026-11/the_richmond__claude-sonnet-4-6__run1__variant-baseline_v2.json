@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "The Richmond",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"The Richmond\",\n  \"resolved_place\": \"Richmond District, San Francisco\",\n  \"centroid_lat\": 37.7785,\n  \"centroid_lon\": -122.4824,\n  \"bbox_north\": 37.7870,\n  \"bbox_south\": 37.7710,\n  \"bbox_east\": -122.4481,\n  \"bbox_west\": -122.5122,\n  \"confidence\": \"high\",\n  \"notes\": \"The Richmond District is bounded roughly by Arguello Blvd to the east, the Pacific Ocean to the west, California Street to the south, and the Presidio/Lincoln Park to the north.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Richmond District SF"
+  ],
+  "_cached": false,
+  "place": "The Richmond",
+  "resolved_place": "Richmond District, San Francisco",
+  "centroid_lat": 37.7785,
+  "centroid_lon": -122.4824,
+  "bbox_north": 37.787,
+  "bbox_south": 37.771,
+  "bbox_east": -122.4481,
+  "bbox_west": -122.5122,
+  "confidence": "high",
+  "notes": "The Richmond District is bounded roughly by Arguello Blvd to the east, the Pacific Ocean to the west, California Street to the south, and the Presidio/Lincoln Park to the north."
+}

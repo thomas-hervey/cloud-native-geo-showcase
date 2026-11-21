@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "SoMa",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"SoMa\",\n  \"centroid_lat\": 37.7749,\n  \"centroid_lon\": -122.4019,\n  \"bbox_north\": 37.7850,\n  \"bbox_south\": 37.7650,\n  \"bbox_east\": -122.3900,\n  \"bbox_west\": -122.4150,\n  \"confidence\": \"medium\",\n  \"notes\": \"SoMa boundaries are somewhat fluid, but generally bounded by Market Street to the north, the Bay to the east, and Mission Street to the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "SoMa",
+  "centroid_lat": 37.7749,
+  "centroid_lon": -122.4019,
+  "bbox_north": 37.785,
+  "bbox_south": 37.765,
+  "bbox_east": -122.39,
+  "bbox_west": -122.415,
+  "confidence": "medium",
+  "notes": "SoMa boundaries are somewhat fluid, but generally bounded by Market Street to the north, the Bay to the east, and Mission Street to the west."
+}

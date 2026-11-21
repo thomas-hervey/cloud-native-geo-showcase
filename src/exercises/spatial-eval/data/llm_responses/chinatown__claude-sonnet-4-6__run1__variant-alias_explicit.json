@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Chinatown",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Chinatown\",\n  \"resolved_place\": \"San Francisco Chinatown\",\n  \"centroid_lat\": 37.7941,\n  \"centroid_lon\": -122.4078,\n  \"bbox_north\": 37.7965,\n  \"bbox_south\": 37.7910,\n  \"bbox_east\": -122.4040,\n  \"bbox_west\": -122.4110,\n  \"confidence\": \"high\",\n  \"notes\": \"Alias 'San Francisco Chinatown' matches the canonical SF neighborhood interpretation exactly. No conflict. The neighborhood is centered on Grant Avenue and Stockton Street between Bush Street and Broadway, bounded roughly by Columbus Ave to the north, Kearny St to the east, Bush St to the south, and Powell St to the west.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_version": "v2-neighborhood-disambiguation",
+  "_prompt_variant_id": "alias_explicit",
+  "_place_aliases": [
+    "San Francisco Chinatown"
+  ],
+  "place": "Chinatown",
+  "resolved_place": "San Francisco Chinatown",
+  "centroid_lat": 37.7941,
+  "centroid_lon": -122.4078,
+  "bbox_north": 37.7965,
+  "bbox_south": 37.791,
+  "bbox_east": -122.404,
+  "bbox_west": -122.411,
+  "confidence": "high",
+  "notes": "Alias 'San Francisco Chinatown' matches the canonical SF neighborhood interpretation exactly. No conflict. The neighborhood is centered on Grant Avenue and Stockton Street between Bush Street and Broadway, bounded roughly by Columbus Ave to the north, Kearny St to the east, Bush St to the south, and Powell St to the west."
+}

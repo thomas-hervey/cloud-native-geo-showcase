@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Outer Richmond",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Outer Richmond\",\n  \"resolved_place\": \"Outer Richmond\",\n  \"centroid_lat\": 37.7769,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7836,\n  \"bbox_south\": 37.7695,\n  \"bbox_east\": -122.4580,\n  \"bbox_west\": -122.5122,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Richmond is the western portion of the Richmond District in San Francisco, generally bounded by Arguello Blvd to the east, the Pacific Ocean to the west, Fulton Street/Golden Gate Park to the south, and Lincoln Park/Lands End to the north.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Richmond SF"
+  ],
+  "_cached": false,
+  "place": "Outer Richmond",
+  "resolved_place": "Outer Richmond",
+  "centroid_lat": 37.7769,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.7836,
+  "bbox_south": 37.7695,
+  "bbox_east": -122.458,
+  "bbox_west": -122.5122,
+  "confidence": "high",
+  "notes": "Outer Richmond is the western portion of the Richmond District in San Francisco, generally bounded by Arguello Blvd to the east, the Pacific Ocean to the west, Fulton Street/Golden Gate Park to the south, and Lincoln Park/Lands End to the north."
+}

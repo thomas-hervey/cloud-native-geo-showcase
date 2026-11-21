@@ -1,0 +1,17 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Lower Haight",
+  "_run": 1,
+  "_raw": "```json\n{\n  \"place\": \"Lower Haight\",\n  \"centroid_lat\": 37.7710,\n  \"centroid_lon\": -122.4290,\n  \"bbox_north\": 37.7800,\n  \"bbox_south\": 37.7620,\n  \"bbox_east\": -122.4150,\n  \"bbox_west\": -122.4430,\n  \"confidence\": \"high\",\n  \"notes\": \"Lower Haight is bounded approximately by Divisadero St (west), Fillmore St (east), Page St (north), and Oak St (south).\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "place": "Lower Haight",
+  "centroid_lat": 37.771,
+  "centroid_lon": -122.429,
+  "bbox_north": 37.78,
+  "bbox_south": 37.762,
+  "bbox_east": -122.415,
+  "bbox_west": -122.443,
+  "confidence": "high",
+  "notes": "Lower Haight is bounded approximately by Divisadero St (west), Fillmore St (east), Page St (north), and Oak St (south)."
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "gpt-4o",
+  "_place": "Noe Valley",
+  "_run": 2,
+  "_raw": "```json\n{\n  \"place\": \"Noe Valley\",\n  \"resolved_place\": \"Noe Valley\",\n  \"centroid_lat\": 37.7474,\n  \"centroid_lon\": -122.4331,\n  \"bbox_north\": 37.7536,\n  \"bbox_south\": 37.7412,\n  \"bbox_east\": -122.4249,\n  \"bbox_west\": -122.4397,\n  \"confidence\": \"high\",\n  \"notes\": \"Noe Valley is a well-defined neighborhood in San Francisco.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Noe Valley SF"
+  ],
+  "_cached": false,
+  "place": "Noe Valley",
+  "resolved_place": "Noe Valley",
+  "centroid_lat": 37.7474,
+  "centroid_lon": -122.4331,
+  "bbox_north": 37.7536,
+  "bbox_south": 37.7412,
+  "bbox_east": -122.4249,
+  "bbox_west": -122.4397,
+  "confidence": "high",
+  "notes": "Noe Valley is a well-defined neighborhood in San Francisco."
+}

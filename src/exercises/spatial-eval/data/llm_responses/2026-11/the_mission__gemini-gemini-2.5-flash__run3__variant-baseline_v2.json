@@ -1,0 +1,23 @@
+{
+  "_model": "gemini/gemini-2.5-flash",
+  "_place": "The Mission",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Mission\",\n  \"resolved_place\": \"Mission District\",\n  \"centroid_lat\": 37.757,\n  \"centroid_lon\": -122.415,\n  \"bbox_north\": 37.769,\n  \"bbox_south\": 37.745,\n  \"bbox_east\": -122.400,\n  \"bbox_west\": -122.430,\n  \"confidence\": \"high\",\n  \"notes\": \"Commonly known as 'The Mission', officially 'Mission District'. Bounding box approximates the area from Duboce Ave/Market St in the north to Cesar Chavez St in the south, and from Potrero Ave/US-101 in the east to Dolores St/Guerrero St in the west.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Mission District SF"
+  ],
+  "_cached": false,
+  "place": "The Mission",
+  "resolved_place": "Mission District",
+  "centroid_lat": 37.757,
+  "centroid_lon": -122.415,
+  "bbox_north": 37.769,
+  "bbox_south": 37.745,
+  "bbox_east": -122.4,
+  "bbox_west": -122.43,
+  "confidence": "high",
+  "notes": "Commonly known as 'The Mission', officially 'Mission District'. Bounding box approximates the area from Duboce Ave/Market St in the north to Cesar Chavez St in the south, and from Potrero Ave/US-101 in the east to Dolores St/Guerrero St in the west."
+}

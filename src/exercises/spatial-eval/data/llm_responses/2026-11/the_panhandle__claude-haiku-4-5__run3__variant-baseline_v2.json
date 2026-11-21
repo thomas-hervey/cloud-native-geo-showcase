@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "The Panhandle",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"The Panhandle\",\n  \"resolved_place\": \"The Panhandle\",\n  \"centroid_lat\": 37.7695,\n  \"centroid_lon\": -122.4576,\n  \"bbox_north\": 37.7755,\n  \"bbox_south\": 37.7635,\n  \"bbox_east\": -122.4476,\n  \"bbox_west\": -122.4676,\n  \"confidence\": \"high\",\n  \"notes\": \"The Panhandle is a narrow strip of land extending eastward from Golden Gate Park between Fell Street and Oak Street, spanning approximately 0.8 miles from Stanyan Street to Scott Street.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Panhandle SF"
+  ],
+  "_cached": false,
+  "place": "The Panhandle",
+  "resolved_place": "The Panhandle",
+  "centroid_lat": 37.7695,
+  "centroid_lon": -122.4576,
+  "bbox_north": 37.7755,
+  "bbox_south": 37.7635,
+  "bbox_east": -122.4476,
+  "bbox_west": -122.4676,
+  "confidence": "high",
+  "notes": "The Panhandle is a narrow strip of land extending eastward from Golden Gate Park between Fell Street and Oak Street, spanning approximately 0.8 miles from Stanyan Street to Scott Street."
+}

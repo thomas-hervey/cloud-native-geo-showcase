@@ -1,0 +1,24 @@
+{
+  "_model": "gpt-4o-mini",
+  "_place": "Golden Gate Park",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Golden Gate Park\",\n  \"resolved_place\": \"Golden Gate Park\",\n  \"geometry\": {\n    \"type\": \"Polygon\",\n    \"coordinates\": [\n      [\n        [-122.486052, 37.769421],\n        [-122.486052, 37.759859],\n        [-122.475098, 37.759859],\n        [-122.475098, 37.769421],\n        [-122.486052, 37.769421]\n      ]\n    ]\n  },\n  \"confidence\": \"high\",\n  \"notes\": \"Golden Gate Park is treated as a neighborhood-scale area.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "geojson_polygon",
+  "_place_aliases": [
+    "Golden Gate Park SF"
+  ],
+  "_cached": false,
+  "place": "Golden Gate Park",
+  "resolved_place": "Golden Gate Park",
+  "confidence": "high",
+  "notes": "Golden Gate Park is treated as a neighborhood-scale area.",
+  "centroid_lat": 37.76463999999999,
+  "centroid_lon": -122.48057499999999,
+  "bbox_west": -122.486052,
+  "bbox_south": 37.759859,
+  "bbox_east": -122.475098,
+  "bbox_north": 37.769421,
+  "polygon_wkt": "POLYGON ((-122.486052 37.769421, -122.486052 37.759859, -122.475098 37.759859, -122.475098 37.769421, -122.486052 37.769421))"
+}

@@ -1,0 +1,23 @@
+{
+  "_model": "claude-sonnet-4-6",
+  "_place": "Outer Sunset",
+  "_run": 1,
+  "_raw": "{\n  \"place\": \"Outer Sunset\",\n  \"resolved_place\": \"Outer Sunset, San Francisco\",\n  \"centroid_lat\": 37.7558,\n  \"centroid_lon\": -122.4958,\n  \"bbox_north\": 37.7717,\n  \"bbox_south\": 37.7364,\n  \"bbox_east\": -122.4731,\n  \"bbox_west\": -122.5116,\n  \"confidence\": \"high\",\n  \"notes\": \"Outer Sunset is the western portion of the Sunset District, roughly bounded by 19th/20th Avenue to the east, the Pacific Ocean to the west, Golden Gate Park to the north, and Sloat Boulevard/Stern Grove to the south.\"\n}",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Outer Sunset SF"
+  ],
+  "_cached": false,
+  "place": "Outer Sunset",
+  "resolved_place": "Outer Sunset, San Francisco",
+  "centroid_lat": 37.7558,
+  "centroid_lon": -122.4958,
+  "bbox_north": 37.7717,
+  "bbox_south": 37.7364,
+  "bbox_east": -122.4731,
+  "bbox_west": -122.5116,
+  "confidence": "high",
+  "notes": "Outer Sunset is the western portion of the Sunset District, roughly bounded by 19th/20th Avenue to the east, the Pacific Ocean to the west, Golden Gate Park to the north, and Sloat Boulevard/Stern Grove to the south."
+}

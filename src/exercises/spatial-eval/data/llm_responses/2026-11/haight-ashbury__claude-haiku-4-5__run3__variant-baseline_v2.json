@@ -1,0 +1,23 @@
+{
+  "_model": "claude-haiku-4-5",
+  "_place": "Haight-Ashbury",
+  "_run": 3,
+  "_raw": "```json\n{\n  \"place\": \"Haight-Ashbury\",\n  \"resolved_place\": \"Haight-Ashbury\",\n  \"centroid_lat\": 37.7694,\n  \"centroid_lon\": -122.4862,\n  \"bbox_north\": 37.7780,\n  \"bbox_south\": 37.7608,\n  \"bbox_east\": -122.4743,\n  \"bbox_west\": -122.4981,\n  \"confidence\": \"high\",\n  \"notes\": \"Historic neighborhood centered at the intersection of Haight and Ashbury Streets, bounded approximately by Stanyan Street to the east, Divisadero Street to the west, Golden Gate Avenue to the north, and Frederick Street to the south.\"\n}\n```",
+  "_valid": true,
+  "_attempt": 1,
+  "_prompt_variant_id": "baseline_v2",
+  "_place_aliases": [
+    "Haight Ashbury SF"
+  ],
+  "_cached": false,
+  "place": "Haight-Ashbury",
+  "resolved_place": "Haight-Ashbury",
+  "centroid_lat": 37.7694,
+  "centroid_lon": -122.4862,
+  "bbox_north": 37.778,
+  "bbox_south": 37.7608,
+  "bbox_east": -122.4743,
+  "bbox_west": -122.4981,
+  "confidence": "high",
+  "notes": "Historic neighborhood centered at the intersection of Haight and Ashbury Streets, bounded approximately by Stanyan Street to the east, Divisadero Street to the west, Golden Gate Avenue to the north, and Frederick Street to the south."
+}
