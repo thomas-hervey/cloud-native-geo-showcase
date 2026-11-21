@@ -49,14 +49,14 @@ export default async function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gray-50`}
       >
         <AuthProvider>
-        <header className="bg-blue-700 text-white shadow-md">
-          <div className="container mx-auto px-4 py-4">
+        <header className="text-white bg-blue-700 shadow-md">
+          <div className="container px-4 py-4 mx-auto">
             <div className="flex flex-col md:flex-row md:justify-between md:items-center">
               <Link href="/" className="text-2xl font-bold whitespace-nowrap">
-                Thomas&apos; Learning Hub
+                Cloud Native Geo Modules
               </Link>
               <nav className="mt-4 md:mt-0">
-                <ul className="flex items-center gap-2 flex-wrap md:justify-end">
+                <ul className="flex flex-wrap items-center gap-2 md:justify-end">
                   <li>
                     <Link href="/" className="hover:text-blue-200 transition-colors px-2 py-1.5 text-sm">
                       Home
